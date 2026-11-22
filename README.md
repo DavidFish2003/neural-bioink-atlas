@@ -1,4 +1,6 @@
-# BioinkAgent
+# Neural Bioink Atlas
+
+**Live site:** https://neural-bioink-atlas.netlify.app
 
 An AI agent that reads open-access neural bioprinting papers, extracts each bioink formulation into a structured record, and **checks every number against a verbatim quote from the paper**. Records it can't back up are flagged for human review. A static web app lets you filter, chart and compare the formulations.
 
