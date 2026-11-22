@@ -1,0 +1,71 @@
+{
+  "pmcid": "PMC12648946",
+  "meta": {
+    "pmcid": "PMC12648946",
+    "title": "Protocol for the generation of three-dimensional micropatterned neuroepithelial tissues using hPSCs, bioprinting, and matrix scaffolds.",
+    "journal": "STAR protocols",
+    "year": 2025,
+    "authors": [
+      "Wong KKL",
+      "Imani Farahani N",
+      "Allen G",
+      "Minhas A",
+      "Julian LM"
+    ],
+    "doi": "10.1016/j.xpro.2025.104196"
+  },
+  "extracted_at": "2026-11-22T13:37:01.641Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "protocol",
+  "is_neural_bioprinting": true,
+  "summary": "A protocol that prints droplets of extracellular matrix to confine human pluripotent stem cells, so they self-assemble into single-lumen, neural-tube-like neuroepithelial tissues.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "27 G (0.200 mm)",
+      "pressure_kpa": 20,
+      "print_speed_mm_s": 15,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Matrix is printed; cells are seeded onto the printed droplets.",
+      "confidence": "high",
+      "name": "Cultrex ECM droplets (micropatterning)",
+      "base_materials": [
+        "Cultrex basement membrane extract"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Cultrex basement membrane extract printed as droplets",
+      "cell_type": "pluripotent stem cells to neuroepithelium",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed ECM droplets restrict hPSC growth to start single-lumen neural tube-like tissues.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "nozzle",
+          "quote": "Nozzle type: 27 gauge (0.200 mm);"
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "Pressure: 20 kPa;"
+        },
+        {
+          "field": "print_speed",
+          "quote": "Print speed: 15.0 mm/s;"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC13695564",
+  "meta": {
+    "pmcid": "PMC13695564",
+    "title": "Wnt-activated osteocyte-driven 3D-bioprinted scaffolds orchestrate bone remodeling, angiogenesis and innervation to accelerate critical bone defect repair.",
+    "journal": "Regenerative biomaterials",
+    "year": 2026,
+    "authors": [
+      "Liu Y",
+      "Huang J",
+      "Li S",
+      "Tu X"
+    ],
+    "doi": "10.1093/rb/rbag124"
+  },
+  "extracted_at": "2026-11-22T13:37:01.650Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Bioprinted bone scaffolds with innervation effects; bone model.",
+  "formulations": []
+}

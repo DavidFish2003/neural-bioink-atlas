@@ -1,0 +1,74 @@
+{
+  "pmcid": "PMC13044844",
+  "meta": {
+    "pmcid": "PMC13044844",
+    "title": "PVA:ALG Hybrid Bioink for Biofabrication of 3D Neural Models.",
+    "journal": "ACS omega",
+    "year": 2026,
+    "authors": [
+      "Celebi LE",
+      "Yildirim-Semerci Ö",
+      "Arslan-Yildiz A"
+    ],
+    "doi": "10.1021/acsomega.5c11570"
+  },
+  "extracted_at": "2026-11-22T00:21:59.216Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A PVA/alginate hybrid ink was optimized for printability and used to build scaffolds for SH-SY5Y neuroblastoma cells. The hybrid supported viability and ECM formation for 15 days, better than 2D culture.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "25 G",
+      "pressure_kpa": 31.7,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": 2.34,
+      "stiffness_note": "Young's modulus, compression, crosslinked",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 15,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 4.6 psi. Cells were seeded onto printed scaffolds, not printed inside the ink.",
+      "confidence": "high",
+      "name": "PVA:ALG hybrid (16% PVA / 15% ALG)",
+      "base_materials": [
+        "polyvinyl alcohol",
+        "alginate"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "16 wt% PVA and 15 wt% alginate, 1:1 v/v",
+      "cell_type": "SH-SY5Y neuroblastoma (seeded on printed scaffold)",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Hybrid scaffolds kept SH-SY5Y cells viable for 15 days, outperforming 2D culture.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition / nozzle / pressure",
+          "quote": "Further characterizations were carried out using 16% PVA and 15% ALG, while a 25G nozzle and 4.6 psi pressure were utilized for bioprinting."
+        },
+        {
+          "field": "print_speed",
+          "quote": "25G nozzle diameter, 10 mm/s printing speed, and 50% infill density"
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "the Young’s modulus increased from 1.6 kPa (N-XD) to 2.34 kPa (XD)"
+        },
+        {
+          "field": "cell_type",
+          "quote": "Neural cell proliferation, viability, and morphology were analyzed by culturing SH-SY5Y human neuroblastoma cells in 3D on hybrid scaffolds."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

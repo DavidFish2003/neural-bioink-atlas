@@ -1,0 +1,78 @@
+{
+  "pmcid": "PMC11843594",
+  "meta": {
+    "pmcid": "PMC11843594",
+    "title": "Innovative MXene/SilMA-Based Conductive Bioink for Three Dimensional Bioprinting of Neural Stem Cell Spheroids in Neural Tissue Engineering.",
+    "journal": "ACS applied materials & interfaces",
+    "year": 2025,
+    "authors": [
+      "Yeh YC",
+      "Chen PY",
+      "Chen KT",
+      "Lee IC"
+    ],
+    "doi": "10.1021/acsami.4c19373"
+  },
+  "extracted_at": "2026-11-22T00:21:59.217Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A conductive silk-methacrylate/pectin bioink with MXene nanosheets was used to print rat neural stem cell spheroids and stimulate them electrically. The printed conduit also supported sciatic nerve regeneration in rats.",
+  "formulations": [
+    {
+      "crosslinking": "UV photocrosslinking (365 nm)",
+      "additives": [
+        "MXene nanosheets (SP-modified)"
+      ],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "22 G (0.413 mm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": 5,
+      "viability_assay": "Live/Dead and MTT",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Viability is given as a threshold ('above 80%'). The text gives the pressure range in mm/min (a unit error), so pressure is left null.",
+      "confidence": "medium",
+      "name": "20% SilMA + pectin + MXene-SP (conductive)",
+      "base_materials": [
+        "silk fibroin methacrylate",
+        "pectin",
+        "MXene"
+      ],
+      "material_class": "composite with nanomaterial",
+      "composition_detail": "20% SilMA series with pectin and SP-modified MXene",
+      "cell_type": "neural stem cell spheroids",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "All MXene groups stayed above 80% viability by day 5; softer gels promoted neuronal differentiation.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected the 20% SilMA series with SP-modified MXene"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "all groups exhibited cell viability above 80% by day 5"
+        },
+        {
+          "field": "nozzle",
+          "quote": "Extrusion parameters were configured in Ultimaker Cura to match the nozzle size (22g, 0.413 mm)"
+        },
+        {
+          "field": "cell_source",
+          "quote": "Primary cortical NSCs were isolated from embryonic day 16 (ED16) Wistar rat cortices"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

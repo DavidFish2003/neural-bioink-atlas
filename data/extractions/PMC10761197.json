@@ -1,0 +1,70 @@
+{
+  "pmcid": "PMC10761197",
+  "meta": {
+    "pmcid": "PMC10761197",
+    "title": "Vascularization ability of glioma stem cells in different three-dimensional microenvironments.",
+    "journal": "Regenerative biomaterials",
+    "year": 2024,
+    "authors": [
+      "Wang X",
+      "Xu T",
+      "Niu C"
+    ],
+    "doi": "10.1093/rb/rbad094"
+  },
+  "extracted_at": "2026-11-22T13:37:01.639Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Glioma stem cells were printed in a gelatin/alginate scaffold and compared with other 3D settings to study how they form blood vessels. Printed cells stayed about 85% viable over a week.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": "2 x 10^5 cells/mL",
+      "printer": "Medprin extrusion bioprinter",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 86.65,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "10% gelatin + 1% alginate (glioma stem cells)",
+      "base_materials": [
+        "gelatin",
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "10% gelatin + 1% sodium alginate",
+      "cell_type": "glioma stem cells (GSC23)",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed GSCs were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition / density",
+          "quote": "to reach a final concentration of 10% gelatin, 1% sodium alginate and 2 × 105/ml GSC23 cells"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "the cell viability of GSCs in 3D bioprinted hydrogel scaffold and hybrid hydrogel was 86.65 ± 1.64% and 92.71 ± 1.33%, respectively"
+        },
+        {
+          "field": "printer",
+          "quote": "GSC models were generated using an extrusion bioprinter (Medprin Regenerative Medical Technologies Co., Ltd., Guangzhou, China)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

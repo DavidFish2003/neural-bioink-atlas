@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC10418654",
+  "meta": {
+    "pmcid": "PMC10418654",
+    "title": "Adipose-Derived Stem Cells Spontaneously Express Neural Markers When Grown in a PEG-Based 3D Matrix.",
+    "journal": "International journal of molecular sciences",
+    "year": 2023,
+    "authors": [
+      "Gomila Pelegri N",
+      "Stanczak AM",
+      "Bottomley AL",
+      "Milthorpe BK",
+      "Gorrie CA",
+      "Padula MP",
+      "Santos J"
+    ],
+    "doi": "10.3390/ijms241512139"
+  },
+  "extracted_at": "2026-11-22T13:37:01.646Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Adipose-derived stem cells in a 3D PEG matrix (cast, not printed).",
+  "formulations": []
+}

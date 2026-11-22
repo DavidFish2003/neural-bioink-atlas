@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC5725567",
+  "meta": {
+    "pmcid": "PMC5725567",
+    "title": "Integration of neurogenesis and angiogenesis models for constructing a neurovascular tissue.",
+    "journal": "Scientific reports",
+    "year": 2017,
+    "authors": [
+      "Uwamori H",
+      "Higuchi T",
+      "Arai K",
+      "Sudo R"
+    ],
+    "doi": "10.1038/s41598-017-17411-0"
+  },
+  "extracted_at": "2026-11-22T13:37:01.647Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Neurovascular tissue built by 3D culture without bioprinting.",
+  "formulations": []
+}

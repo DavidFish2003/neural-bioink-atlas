@@ -1,0 +1,85 @@
+{
+  "pmcid": "PMC8387028",
+  "meta": {
+    "pmcid": "PMC8387028",
+    "title": "Toward a neurospheroid niche model: optimizing embedded 3D bioprinting for fabrication of neurospheroid brain-like co-culture constructs.",
+    "journal": "Biofabrication",
+    "year": 2020,
+    "authors": [
+      "Li YE",
+      "Jodat YA",
+      "Samanipour R",
+      "Zorzi G",
+      "Zhu K",
+      "Hirano M",
+      "Chang K",
+      "Arnaout A",
+      "Hassan S",
+      "Matharu N",
+      "Khademhosseini A",
+      "Hoorfar M",
+      "Shin SR"
+    ],
+    "doi": "10.1088/1758-5090/abc1be"
+  },
+  "extracted_at": "2026-11-22T13:33:05.699Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Neural spheroids were printed inside a soft GelMA support bath laden with astrocytes to build brain-like co-culture constructs. The 5% GelMA bath matched brain stiffness (~0.7 kPa) while allowing embedded printing.",
+  "formulations": [
+    {
+      "crosslinking": "UV photocrosslinking + CaCl2",
+      "additives": [],
+      "cell_density": "astrocytes 8 x 10^6 cells/mL in bath",
+      "printer": "Cellink Inkredible",
+      "nozzle": "30 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 0.7,
+      "stiffness_note": "compressive modulus of 5 wt% GelMA bath after UV",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Species/source of the spheroid cells not captured; check the methods.",
+      "confidence": "medium",
+      "name": "GelMA/gelatin/alginate ink in astrocyte-laden 5% GelMA bath",
+      "base_materials": [
+        "GelMA",
+        "gelatin",
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Ink: 4 wt% GelMA, 1 wt% gelatin, 0.5 wt% alginate. Support bath: 5 wt% GelMA with 11 mM CaCl2",
+      "cell_type": "neural spheroids with astrocytes in the bath",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Embedded printing in a brain-soft GelMA bath allowed patterned neurospheroid/astrocyte co-cultures.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The bioink was prepared using 4 wt% GelMA, 1 wt% gelatin, 0.5 wt% alginate, and 0.25% PI dissolved in 40% HBSS, 60% MEM"
+        },
+        {
+          "field": "printer",
+          "quote": "The bioink was loaded into 1 ml syringes (BD) capped with 30 G needles (blunt, BD) and mounted on the extruder of a Cellink Inkredible bioprinter."
+        },
+        {
+          "field": "cell_density",
+          "quote": "suspending astrocytes at a concentration of 8 × 106 cells ml−1 in a DMEM-based solution containing calcium chloride (CaCl2, 11 mM), PI (0.25 wt%), and freeze dried GelMA (5 wt%)"
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "The compressive modulus of the 5 wt% GelMA hydrogels post UV exposure was measured to be 0.7 ± 0.1 kPa"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

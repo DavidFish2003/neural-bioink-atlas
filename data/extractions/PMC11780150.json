@@ -1,0 +1,202 @@
+{
+  "pmcid": "PMC11780150",
+  "meta": {
+    "pmcid": "PMC11780150",
+    "title": "3D bioprinted dynamic bioactive living construct enhances mechanotransduction-assisted rapid neural network self-organization for spinal cord injury repair.",
+    "journal": "Bioactive materials",
+    "year": 2025,
+    "authors": [
+      "Yang J",
+      "Kim K",
+      "Liu Y",
+      "Luo X",
+      "Ma C",
+      "Man W",
+      "Zhao Y",
+      "Cao Z",
+      "Hu P",
+      "Chen J",
+      "Wang Y",
+      "Sun X",
+      "Zhao L",
+      "Wang G",
+      "Yang K",
+      "Wang X"
+    ],
+    "doi": "10.1016/j.bioactmat.2024.12.028"
+  },
+  "extracted_at": "2026-11-22T00:21:59.218Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A dynamic GelMA/oxidized hyaluronic acid bioink with N-cadherin- and BDNF-mimicking peptides was printed with neural stem cells. The dynamic, bioactive ink sped up neural network self-organization and improved recovery in vivo.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 91.83,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "G: 5% GelMA",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Day-7 NSC viability 91.83%.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)"
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink"
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "and G (91.83 ± 2.54 %) constructs"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "crosslinking": "photocrosslinking + reversible Schiff-base bonds",
+      "additives": [],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 95.52,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "GH: 5% GelMA + 1% OHA",
+      "base_materials": [
+        "GelMA",
+        "oxidized hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA + 1% OHA",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Day-7 NSC viability 95.52%.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)"
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink"
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "higher than that within the GH (95.52 ± 1.97 %)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "crosslinking": "photocrosslinking + reversible Schiff-base bonds",
+      "additives": [
+        "BDNF-mimicking peptide (RGI)",
+        "N-cadherin-mimicking peptide (HAVDI)"
+      ],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 96.26,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "GHP: 5% GelMA + 1% OHA + 3 mM RGI + 3 mM HAVDI",
+      "base_materials": [
+        "GelMA",
+        "oxidized hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA + 1% OHA + 3 mM RGI + 3 mM HAVDI",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "The dynamic peptide ink gave the highest day-7 NSC viability and the fastest neural network formation.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)"
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink"
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "the viability of NSCs within the GHP construct reached 96.26 ± 2.33 %"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

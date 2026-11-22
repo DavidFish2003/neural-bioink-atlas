@@ -1,0 +1,139 @@
+{
+  "pmcid": "PMC10207712",
+  "meta": {
+    "pmcid": "PMC10207712",
+    "title": "3D bioprinting patient-derived induced pluripotent stem cell models of Alzheimer's disease using a smart bioink.",
+    "journal": "Bioelectronic medicine",
+    "year": 2023,
+    "authors": [
+      "Benwood C",
+      "Walters-Shumka J",
+      "Scheck K",
+      "Willerth SM"
+    ],
+    "doi": "10.1186/s42234-023-00112-7"
+  },
+  "extracted_at": "2026-11-22T00:21:59.212Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Healthy and Alzheimer's patient-derived hiPSC neural progenitors were bioprinted in a fibrin-based bioink on the Aspect RX1 microfluidic printer, with or without drug-releasing PCL microspheres. Constructs stayed viable for 30-45 days and were characterized for viability, markers and calcium signalling.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 9,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 83.78,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 45,
+      "neural_markers": [],
+      "disease": "Alzheimer's disease",
+      "review_notes": "Pressure converted from 90 mbar (bioink channel); crosslinker 100 mbar, buffer 500 mbar.",
+      "confidence": "high",
+      "name": "Fibrin bioink (AD, no microspheres)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for AD constructs without microspheres.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "fibrinogen (cat no. 341578, EMD Millipore, Burlington, MA, USA) was prepared at a concentration of 20 mg/mL, 0.5% w/v sodium alginate"
+        },
+        {
+          "field": "cell_density",
+          "quote": "mixed with the primed neural progenitor cells (NPCs) at a concentration of 1 × 106 cells/mL of bioink"
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressures were set at 100 mbar, 90 mbar, and 500 mbar for the crosslinker, bioink, and buffer, respectively."
+        },
+        {
+          "field": "print_speed",
+          "quote": "A printing speed of 25 mm/s and a 40% rectilinear infill pattern were used"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "On day 1 directly after bioprinting, cell viability for the AD C group was 83.78 ± 4.96%"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "purmorphamine-loaded PCL microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 9,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 92.16,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 45,
+      "neural_markers": [],
+      "disease": "Alzheimer's disease",
+      "review_notes": "Pressure converted from 90 mbar. The large day-30 drop vs. the no-microsphere group is worth discussing with the authors.",
+      "confidence": "high",
+      "name": "Fibrin bioink + purmorphamine PCL microspheres (AD)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin; PCL microspheres 1 mg/mL",
+      "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Microspheres raised day-1 viability to 92.2%, but viability fell to 43.9% by day 30.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "additives",
+          "quote": "The bioink including cells and PCL microspheres encapsulated with puro were used to print tissue constructs."
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressures were set at 100 mbar, 90 mbar, and 500 mbar for the crosslinker, bioink, and buffer, respectively."
+        },
+        {
+          "field": "print_speed",
+          "quote": "A printing speed of 25 mm/s and a 40% rectilinear infill pattern were used"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "AD CM had a viability of 92.16 ± 5.94%"
+        },
+        {
+          "field": "viability_percent (day 30)",
+          "quote": "the AD CM group with a viability of 43.92 ± 12.52%"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

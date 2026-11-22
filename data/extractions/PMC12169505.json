@@ -1,0 +1,72 @@
+{
+  "pmcid": "PMC12169505",
+  "meta": {
+    "pmcid": "PMC12169505",
+    "title": "Bioprinting of GelMA/PEGDA Hybrid Bioinks for SH-SY5Y Cell Encapsulation: Role of Molecular Weight and Concentration.",
+    "journal": "Macromolecular bioscience",
+    "year": 2025,
+    "authors": [
+      "Yue H",
+      "Wang Y",
+      "Fernandes S",
+      "Vyas C",
+      "Bartolo P"
+    ],
+    "doi": "10.1002/mabi.202400587"
+  },
+  "extracted_at": "2026-11-22T13:34:55.895Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "GelMA/PEGDA hybrid bioinks were printed with SH-SY5Y cells for nerve guidance conduits. PEGDA concentration and molecular weight tuned stiffness (about 50-600 kPa), degradation and printability.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X6",
+      "nozzle": "25 G tapered (250 µm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "elastic modulus ~50 kPa (10% GelMA) to 600 kPa (10G+15P700)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "10% GelMA + PEGDA hybrids",
+      "base_materials": [
+        "GelMA",
+        "PEGDA"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "10% GelMA with 5-15% PEGDA (MW 700-4000)",
+      "cell_type": "SH-SY5Y neuroblastoma",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Adding PEGDA slowed degradation and raised stiffness; cells spread in GelMA and 10G+5P700 gels.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "nozzle",
+          "quote": "All bioinks were printed using a 25G tapered nozzle (250 µm inner diameter)."
+        },
+        {
+          "field": "stiffness",
+          "quote": "The elastic modulus of hydrogels ranges from ≈50 kPa (10G) to 600 kPa (10G+15P700 )"
+        },
+        {
+          "field": "printer",
+          "quote": "The printability of the bioink was performed using an extrusion‐based bioprinter (BIOX6, CELLINK, Sweden)."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

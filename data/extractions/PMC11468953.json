@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC11468953",
+  "meta": {
+    "pmcid": "PMC11468953",
+    "title": "Human Induced Pluripotent Stem Cell-Derived Neural Progenitor Cells Produce Distinct Neural 3D In Vitro Models Depending on Alginate/Gellan Gum/Laminin Hydrogel Blend Properties.",
+    "journal": "Advanced healthcare materials",
+    "year": 2021,
+    "authors": [
+      "Kapr J",
+      "Petersilie L",
+      "Distler T",
+      "Lauria I",
+      "Bendt F",
+      "Sauter CM",
+      "Boccaccini AR",
+      "Rose CR",
+      "Fritsche E"
+    ],
+    "doi": "10.1002/adhm.202100131"
+  },
+  "extracted_at": "2026-11-22T13:34:00.086Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Two alginate/gellan gum/laminin blends were used to print hiPSC-derived neural progenitors on an EnvisionTEC Bioplotter. The two blends, both within brain stiffness, produced distinctly different neural 3D models.",
+  "formulations": [
+    {
+      "crosslinking": "ionic (Ca2+)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "EnvisionTEC 3D-Bioplotter",
+      "nozzle": "200 µm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "elastic moduli within the range of brain stiffness",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Paper also uses a 1% ALG/0.01% LAM blend; which blend was printed vs cast should be checked.",
+      "confidence": "medium",
+      "name": "1.5% alginate / 0.5% gellan gum + laminin",
+      "base_materials": [
+        "alginate",
+        "gellan gum",
+        "laminin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1.5% ALG / 0.5% GG blend (laminin-supplemented variants)",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Different ALG/GG/LAM blends steered hiPSC-NPCs into distinct neural 3D models.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The 1.5% ALG/0.5% GG blend was prepared by mixing 3% (w/v) ALG stock solution to 1.5% (w/v) GG stock solution"
+        },
+        {
+          "field": "printer",
+          "quote": "The printing was carried out with an EnvisioTEC 3D‐Bioplotter (Manufacturers Series), using a nozzle with 200 µm inner diameter"
+        },
+        {
+          "field": "stiffness",
+          "quote": "The elastic moduli of the hydrogel blends lay within the range of brain stiffness."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

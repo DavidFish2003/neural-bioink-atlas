@@ -1,0 +1,69 @@
+{
+  "pmcid": "PMC11616263",
+  "meta": {
+    "pmcid": "PMC11616263",
+    "title": "Rapid Biofabrication of an Advanced Microphysiological System Mimicking Phenotypical Heterogeneity and Drug Resistance in Glioblastoma.",
+    "journal": "Advanced healthcare materials",
+    "year": 2024,
+    "authors": [
+      "Pun S",
+      "Prakash A",
+      "Demaree D",
+      "Krummel DP",
+      "Sciumè G",
+      "Sengupta S",
+      "Barrile R"
+    ],
+    "doi": "10.1002/adhm.202401876"
+  },
+  "extracted_at": "2026-11-22T13:37:01.640Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A hydrogel microphysiological system with a brain-endothelial vessel channel was rapidly printed to co-culture glioblastoma cells and astrocytes, avoiding PDMS so drug tests aren't skewed. It reproduced two GBM cell populations and drug resistance.",
+  "formulations": [
+    {
+      "crosslinking": "thrombin",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": "Viability is a threshold ('above 80%'). Which parts were printed vs cast should be checked.",
+      "confidence": "medium",
+      "name": "Fibrin gel (4 mg/mL) in printed microfluidic hydrogel",
+      "base_materials": [
+        "fibrinogen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "4 mg/mL fibrinogen with 1 U/mL thrombin",
+      "cell_type": "U87 glioblastoma cells, astrocytes, brain endothelial cells",
+      "cell_source": "cell line",
+      "print_method": "light-based (DLP/SLA)",
+      "key_outcome": "All cell types stayed above 80% viable; the model showed GBM heterogeneity and drug resistance.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "were used at the final concentration of 4 mg mL−1 and 1 U mL−1, respectively to obtain fibrin gel"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "All the cell types maintain cell viability above 80% while cultured on the 3D‐bioprinted model."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "pmcid": "PMC12027382",
+  "meta": {
+    "pmcid": "PMC12027382",
+    "title": "Three-Dimensional-Bioprinted Embedded-Based Cerebral Organoids: An Alternative Approach for Mini-Brain In Vitro Modeling Beyond Conventional Generation Methods.",
+    "journal": "Gels (Basel, Switzerland)",
+    "year": 2025,
+    "authors": [
+      "Ferraro RM",
+      "Ginestra PS",
+      "Seiti M",
+      "Bugatti M",
+      "Benini G",
+      "Ottelli L",
+      "Vermi W",
+      "Poliani PL",
+      "Ceretti E",
+      "Giliani S"
+    ],
+    "doi": "10.3390/gels11040284"
+  },
+  "extracted_at": "2026-11-22T13:37:01.641Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "iPSC-derived embryoid bodies were printed in an alginate/carboxymethylcellulose ink with diluted Matrigel to grow cerebral organoids without manual Matrigel embedding. The organoids reached ~2 mm by day 40, like standard ones.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "0.6 mm",
+      "pressure_kpa": 40,
+      "print_speed_mm_s": 100,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 40,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 0.4 bar.",
+      "confidence": "high",
+      "name": "1.5% alginate + 1% CMC + Matrigel (1:10)",
+      "base_materials": [
+        "alginate",
+        "carboxymethylcellulose",
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1.5% w/v sodium alginate, 1% w/v sodium carboxymethylcellulose, Matrigel diluted 1:10",
+      "cell_type": "neural embryoid bodies to cerebral organoids",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed organoids grew to ~2 mm by day 40, matching Matrigel-embedded organoids with far less Matrigel.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "the Matrigel® is diluted (1:10) in a solution enriched with 1.5 w/v% sodium alginate (SA), 1 w/v% of sodium carboxymethylcellulose (CMC)"
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "The experimental parameters used for the extrusion printing were a pressure of 0.4 bar, a speed of 100 mm/s, and a needle diameter of 0.6 mm"
+        },
+        {
+          "field": "outcome",
+          "quote": "By day 40, these organoids reached approximately 2 mm in diameter, matching the size observed at the same time point in Matrigel®-based cORGs."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

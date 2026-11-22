@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC7198818",
+  "meta": {
+    "pmcid": "PMC7198818",
+    "title": "Bioprinting Cell- and Spheroid-Laden Protein-Engineered Hydrogels as Tissue-on-Chip Platforms.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2020,
+    "authors": [
+      "Duarte Campos DF",
+      "Lindsay CD",
+      "Roth JG",
+      "LeSavage BL",
+      "Seymour AJ",
+      "Krajina BA",
+      "Ribeiro R",
+      "Costa PF",
+      "Blaeser A",
+      "Heilshorn SC"
+    ],
+    "doi": "10.3389/fbioe.2020.00374"
+  },
+  "extracted_at": "2026-11-22T13:37:01.644Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Protein-engineered hydrogels printed as tissue-on-chip with endothelial and breast cells; not neural.",
+  "formulations": []
+}

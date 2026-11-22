@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC7656262",
+  "meta": {
+    "pmcid": "PMC7656262",
+    "title": "3D micro-organisation printing of mammalian cells to generate biological tissues.",
+    "journal": "Scientific reports",
+    "year": 2020,
+    "authors": [
+      "Jeffries GDM",
+      "Xu S",
+      "Lobovkina T",
+      "Kirejev V",
+      "Tusseau F",
+      "Gyllensten C",
+      "Singh AK",
+      "Karila P",
+      "Moll L",
+      "Orwar O"
+    ],
+    "doi": "10.1038/s41598-020-74191-w"
+  },
+  "extracted_at": "2026-11-22T13:37:01.650Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "General micro-organisation printing of mammalian cells; not a neural model.",
+  "formulations": []
+}

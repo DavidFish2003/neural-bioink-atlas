@@ -1,0 +1,82 @@
+{
+  "pmcid": "PMC6721723",
+  "meta": {
+    "pmcid": "PMC6721723",
+    "title": "Bioink Composition and Printing Parameters for 3D Modeling Neural Tissue.",
+    "journal": "Cells",
+    "year": 2019,
+    "authors": [
+      "Fantini V",
+      "Bordoni M",
+      "Scocozza F",
+      "Conti M",
+      "Scarian E",
+      "Carelli S",
+      "Di Giulio AM",
+      "Marconi S",
+      "Pansarasa O",
+      "Auricchio F",
+      "Cereda C"
+    ],
+    "doi": "10.3390/cells8080830"
+  },
+  "extracted_at": "2026-11-22T13:33:05.698Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Sodium alginate and gelatin blends were screened as bioinks for printing neural cells. A 6% alginate / 4% gelatin ink printed at 45-70 kPa gave good shape fidelity and supported SH-SY5Y viability.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "0.41 mm",
+      "pressure_kpa": 55,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print speed converted from 600 mm/min. Viability reported relative to day 0, so no single percentage.",
+      "confidence": "high",
+      "name": "6% alginate + 4% gelatin",
+      "base_materials": [
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "6% sodium alginate, 4% gelatin",
+      "cell_type": "SH-SY5Y neuroblastoma",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "6% alginate / 4% gelatin printed at 25 °C and 45-70 kPa was the best balance of printability and viability.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "pressure_kpa",
+          "quote": "printed using a temperature of 25 °C and a pressure of 55 kPa for 6%SA–4% GEL bioink and 45 kPa for 4% SA–4% GEL bioink"
+        },
+        {
+          "field": "print_speed",
+          "quote": "the print-head speed was set at 600 mm/min and the layer height at 0.4 mm"
+        },
+        {
+          "field": "nozzle",
+          "quote": "Cartridge was equipped with a 0.41 mm nozzle."
+        },
+        {
+          "field": "composition",
+          "quote": "Our results demonstrated that the optimal conditions were 6% SA and 4% GEL, printed at 25 °C and with a pressure of 45–70 kPa."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

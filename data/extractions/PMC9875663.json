@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC9875663",
+  "meta": {
+    "pmcid": "PMC9875663",
+    "title": "3D Gelatin Microsphere Scaffolds Promote Functional Recovery after Spinal Cord Hemisection in Rats.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "year": 2023,
+    "authors": [
+      "Ke H",
+      "Yang H",
+      "Zhao Y",
+      "Li T",
+      "Xin D",
+      "Gai C",
+      "Jiang Z",
+      "Wang Z"
+    ],
+    "doi": "10.1002/advs.202204528"
+  },
+  "extracted_at": "2026-11-22T13:37:01.648Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Gelatin microsphere scaffolds for spinal cord injury; not bioprinted.",
+  "formulations": []
+}

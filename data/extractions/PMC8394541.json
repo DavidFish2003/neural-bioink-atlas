@@ -1,0 +1,83 @@
+{
+  "pmcid": "PMC8394541",
+  "meta": {
+    "pmcid": "PMC8394541",
+    "title": "3D Bioprinting Mesenchymal Stem Cell-Derived Neural Tissues Using a Fibrin-Based Bioink.",
+    "journal": "Biomolecules",
+    "year": 2021,
+    "authors": [
+      "Restan Perez M",
+      "Sharma R",
+      "Masri NZ",
+      "Willerth SM"
+    ],
+    "doi": "10.3390/biom11081250"
+  },
+  "extracted_at": "2026-11-22T00:21:59.214Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Adipose-derived mesenchymal stem cells were bioprinted in the lab's fibrin-based bioink on the RX1 printer and differentiated toward dopaminergic neurons for 12 days. Cells expressed TH and TUJ1 and released dopamine.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [],
+      "cell_density": "2 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": 1,
+      "stiffness_note": "elastic modulus ~1 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 12,
+      "neural_markers": [
+        "TH",
+        "TUJ1"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Viability is reported in figures; no single number in the text.",
+      "confidence": "high",
+      "name": "Fibrin bioink (MSC to dopaminergic neurons)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "mesenchymal stem cells differentiated to dopaminergic neurons",
+      "cell_source": "human MSC",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Printed MSCs expressed TH and TUJ1 after 12 days of dopaminergic induction.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The final concentration in the bioink for fibrinogen, sodium alginate, and genipin was 20 mg/mL, 0.5% w/v, and 0.3 mg/mL, respectively."
+        },
+        {
+          "field": "cell_density",
+          "quote": "The MSCs were then thawed and mixed with the bioink at a concentration of 2 × 106 per 1 mL of bioink."
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressure of the crosslinker, bioink and buffer were 60 mbar, 50 mbar, and 100 mbar, respectively."
+        },
+        {
+          "field": "print_speed",
+          "quote": "The printing speed was 25 mm/s"
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "the elastic modulus was around 1 kPa, which is the optimal stiffness for neuronal differentiation"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

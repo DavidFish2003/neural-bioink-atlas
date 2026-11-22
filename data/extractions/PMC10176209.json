@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC10176209",
+  "meta": {
+    "pmcid": "PMC10176209",
+    "title": "Protocol for 3D Bioprinting Mesenchymal Stem Cell-derived Neural Tissues Using a Fibrin-based Bioink.",
+    "journal": "Bio-protocol",
+    "year": 2023,
+    "authors": [
+      "Perez MR",
+      "Masri NZ",
+      "Walters-Shumka J",
+      "Kahale S",
+      "Willerth SM"
+    ],
+    "doi": "10.21769/BioProtoc.4663"
+  },
+  "extracted_at": "2026-11-22T13:35:56.693Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "protocol",
+  "is_neural_bioprinting": false,
+  "summary": "Bio-protocol version of the Willerth lab's MSC-derived neural tissue study (PMC8394541); not counted twice.",
+  "formulations": []
+}

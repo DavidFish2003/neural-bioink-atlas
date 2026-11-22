@@ -1,0 +1,73 @@
+{
+  "pmcid": "PMC12704128",
+  "meta": {
+    "pmcid": "PMC12704128",
+    "title": "Three-Dimensional Bioprinting of Astrocytes and Endothelial Cells to Direct Retinal Axon Growth and Vascularization.",
+    "journal": "Tissue engineering. Part A",
+    "year": 2025,
+    "authors": [
+      "Abukunna FE",
+      "Aladdad AM",
+      "McLoughlin KJ",
+      "Thallapureddy K",
+      "Vierra M",
+      "Siddiqui Z",
+      "Kador KE"
+    ],
+    "doi": "10.1089/ten.tea.2024.0326"
+  },
+  "extracted_at": "2026-11-22T00:21:59.218Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Optic nerve head astrocytes and endothelial cells were printed at the centre of retinal ganglion cell scaffolds to recreate how the retinal nerve fibre layer develops. Developing astrocytes increased RGC neurite polarization by 43%.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": "1-1.5 x 10^6 cells/mL",
+      "printer": "Allevi 3",
+      "nozzle": "22 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "No viability percentage or print pressure in the text.",
+      "confidence": "high",
+      "name": "Matrigel (astrocyte core)",
+      "base_materials": [
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "undiluted Matrigel (also screened: 4 mg/mL collagen-1, 1% alginate, 1% alginate-RGD)",
+      "cell_type": "optic nerve head astrocytes",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Developing ONH astrocytes increased RGC neurite polarization by 43%.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "base_materials",
+          "quote": "printed using a 22 g needle in four previously published bioinks: undiluted matrigel, 4 mg/mL collagen-1, 1% alginate, and 1% alginate-modified with RGD cell binding domain peptides"
+        },
+        {
+          "field": "cell_density",
+          "quote": "Cells were resuspended in matrigel at 4°C at a concentration of 1–1.5 × 106 cells/mL"
+        },
+        {
+          "field": "printer",
+          "quote": "Bioprinting was conducted using an extrusion-based Allevi 3 bioprinter (3D systems)."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

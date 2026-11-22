@@ -1,0 +1,75 @@
+{
+  "pmcid": "PMC9144715",
+  "meta": {
+    "pmcid": "PMC9144715",
+    "title": "Towards 3D Bioprinted Spinal Cord Organoids.",
+    "journal": "International journal of molecular sciences",
+    "year": 2022,
+    "authors": [
+      "Han Y",
+      "King M",
+      "Tikhomirov E",
+      "Barasa P",
+      "Souza CDS",
+      "Lindh J",
+      "Baltriukiene D",
+      "Ferraiuolo L",
+      "Azzouz M",
+      "Gullo MR",
+      "Kozlova EN"
+    ],
+    "doi": "10.3390/ijms23105788"
+  },
+  "extracted_at": "2026-11-22T13:34:00.085Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Boundary cap neural crest stem cells were printed in gelatin crosslinked with transglutaminase to work toward spinal cord organoids. 12% gelatin with 25 mg/mL transglutaminase printed well and supported survival and differentiation.",
+  "formulations": [
+    {
+      "crosslinking": "microbial transglutaminase (enzymatic)",
+      "additives": [
+        "laminin"
+      ],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "0.41 mm",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "alamarBlue",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Species of the boundary cap cells not captured (dissected from dorsal root ganglia). No absolute viability percentage.",
+      "confidence": "medium",
+      "name": "12% gelatin + 25 mg/mL transglutaminase",
+      "base_materials": [
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "12% gelatin crosslinked with 25 mg/mL microbial transglutaminase, with laminin",
+      "cell_type": "boundary cap neural crest stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "12% gelatin/mTG gave good gelation and printability and the largest rise in viable cells from day 1 to 3.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected a mixture of 12% gelatin with 25 mg/mL mTG for 3D printing of three-layered structures"
+        },
+        {
+          "field": "printer",
+          "quote": "Three sets of scaffolds with 1, 3 and 5 layers were prepared with a BIO X syringe pump printhead (CELLINK AB, Gothenburg, Sweden)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

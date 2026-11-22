@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC8544540",
+  "meta": {
+    "pmcid": "PMC8544540",
+    "title": "Matured Myofibers in Bioprinted Constructs with In Vivo Vascularization and Innervation.",
+    "journal": "Gels (Basel, Switzerland)",
+    "year": 2021,
+    "authors": [
+      "Ngan CGY",
+      "Quigley A",
+      "Williams RJ",
+      "O'Connell CD",
+      "Blanchard R",
+      "Boyd-Moss M",
+      "Aumann TD",
+      "McKelvie P",
+      "Wallace GG",
+      "Choong PFM",
+      "Kapsa RMI"
+    ],
+    "doi": "10.3390/gels7040171"
+  },
+  "extracted_at": "2026-11-22T13:37:01.651Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Bioprinted skeletal muscle with innervation in vivo; muscle model.",
+  "formulations": []
+}

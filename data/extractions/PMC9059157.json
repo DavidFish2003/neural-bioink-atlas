@@ -1,0 +1,72 @@
+{
+  "pmcid": "PMC9059157",
+  "meta": {
+    "pmcid": "PMC9059157",
+    "title": "Protocol for printing 3D neural tissues using the BIO X equipped with a pneumatic printhead.",
+    "journal": "STAR protocols",
+    "year": 2022,
+    "authors": [
+      "Chrenek J",
+      "Kirsch R",
+      "Scheck K",
+      "Willerth SM"
+    ],
+    "doi": "10.1016/j.xpro.2022.101348"
+  },
+  "extracted_at": "2026-11-22T13:34:00.087Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "protocol",
+  "is_neural_bioprinting": true,
+  "summary": "A step-by-step protocol from the Willerth lab for printing neural tissues with Axolotl Biosciences' fibrin-based bioink on a CELLINK BIO X pneumatic printhead, either onto plates or into an agarose support bath.",
+  "formulations": [
+    {
+      "crosslinking": "crosslinker added after printing (2-3 min)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": null,
+      "pressure_kpa": 11,
+      "print_speed_mm_s": 15,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Axolotl fibrin bioink on BIO X (protocol)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Fibrin-based bioink (Axolotl Biosciences); 2% alginate / 2% gelatin mixture also described",
+      "cell_type": "neural cells (protocol, cell line agnostic)",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Recommended 15 mm/s at 11 kPa on plates, 20 mm/s at 20 kPa into agarose support bath.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "pressure / speed",
+          "quote": "A speed of 15 mm/s and pressure of 11 kPa is recommended."
+        },
+        {
+          "field": "support bath",
+          "quote": "A speed of 20 mm/s and a pressure of 20 kPa is recommended."
+        },
+        {
+          "field": "composition",
+          "quote": "A mixture of 2% alginate/2% gelatin (w/v) is typically produced."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

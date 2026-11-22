@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC9888471",
+  "meta": {
+    "pmcid": "PMC9888471",
+    "title": "Astrocyte 3D culture and bioprinting using peptide functionalized hyaluronan hydrogels.",
+    "journal": "Science and technology of advanced materials",
+    "year": 2023,
+    "authors": [
+      "Matthiesen I",
+      "Jury M",
+      "Rasti Boroojeni F",
+      "Ludwig SL",
+      "Holzreuter M",
+      "Buchmann S",
+      "Åman Träger A",
+      "Selegård R",
+      "Winkler TE",
+      "Aili D",
+      "Herland A"
+    ],
+    "doi": "10.1080/14686996.2023.2165871"
+  },
+  "extracted_at": "2026-11-22T13:33:05.700Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Hyaluronan-PEG hydrogels functionalized with laminin- or RGD-derived peptides were used to culture and bioprint human fetal astrocytes and glioblastoma cells. Peptide choice changed how astrocytes spread and organized.",
+  "formulations": [
+    {
+      "crosslinking": "click chemistry (SPAAC)",
+      "additives": [
+        "IKVAV peptide",
+        "cRGD peptide"
+      ],
+      "cell_density": "1.6 x 10^6 cells/mL",
+      "printer": "Cellink BIO X",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "AlamarBlue",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print pressure/speed and a viability percentage were not found in the text.",
+      "confidence": "medium",
+      "name": "1% HA:PEG + IKVAV or cRGD peptide",
+      "base_materials": [
+        "hyaluronic acid",
+        "PEG"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "1% (w/v) HA-BCN:(PEG-Az)8 with 1 mM peptide (IKVAV or cRGD)",
+      "cell_type": "fetal primary astrocytes and U87 glioblastoma cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Peptide-functionalized HA hydrogels supported astrocyte culture and could be bioprinted.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "cell_density",
+          "quote": "1.6 million cells/ml of FPA and U87 were encapsulated in 1% HA:PEG hydrogels containing 1 mM of either peptide"
+        },
+        {
+          "field": "printer",
+          "quote": "All 3D bioprinting was performed using a syringe extrusion printhead on a Cellink BIOX 3D bioprinter (BICO, U.S.A)."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

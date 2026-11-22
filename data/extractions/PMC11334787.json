@@ -1,0 +1,83 @@
+{
+  "pmcid": "PMC11334787",
+  "meta": {
+    "pmcid": "PMC11334787",
+    "title": "Biomimetic design and integrated biofabrication of an in-vitro three-dimensional multi-scale multilayer cortical model.",
+    "journal": "Materials today. Bio",
+    "year": 2024,
+    "authors": [
+      "Wang L",
+      "Bai L",
+      "Wang S",
+      "Zhou J",
+      "Liu Y",
+      "Zhang C",
+      "Yao S",
+      "He J",
+      "Liu C",
+      "Li D"
+    ],
+    "doi": "10.1016/j.mtbio.2024.101176"
+  },
+  "extracted_at": "2026-11-22T13:33:05.701Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A six-layer brain-cortex-like model was built by combining extrusion printing of GelMA/fibrin with melt electrowritten fibres that run through all layers. The fibres guided neurite growth, and glial layers drew PC12 cells toward them.",
+  "formulations": [
+    {
+      "crosslinking": "UV (15 s) then CaCl2 0.2% + thrombin 10 U/mL",
+      "additives": [
+        "melt electrowritten microfibres"
+      ],
+      "cell_density": null,
+      "printer": "custom multi-material printer",
+      "nozzle": null,
+      "pressure_kpa": 32,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": "5% GelMA alone 8.48 kPa; fibrin lowers modulus (1.67 kPa at 1.5%)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 320 mbar. Modulus for the chosen G5F0.5 blend is not stated as a single number.",
+      "confidence": "medium",
+      "name": "5% GelMA + 0.5% fibrinogen (G5F0.5)",
+      "base_materials": [
+        "GelMA",
+        "fibrinogen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% w/v GelMA + 0.5% w/v fibrinogen",
+      "cell_type": "PC12 cells and glial cells in layers",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "10 µm cross-layer fibres guided neurite direction; glial layers promoted PC12 migration.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "a concentration of 5 % GelMA and 0.5 % Fib was selected as the matrix material for constructing the biomimetic cortical model in this study"
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "DIW 320 10 100 – 24"
+        },
+        {
+          "field": "stiffness",
+          "quote": "the compression modulus of the G5 group (8.48 kPa) was closer to the modulus of natural cortical tissue"
+        },
+        {
+          "field": "cell_type",
+          "quote": "glial cells significantly promoted the migration of surrounding PC12 cells towards the glial layer but did not contribute to the extension of neurites"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

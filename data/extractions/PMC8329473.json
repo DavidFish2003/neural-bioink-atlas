@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC8329473",
+  "meta": {
+    "pmcid": "PMC8329473",
+    "title": "The effect of neural cell integrated into 3D co-axial bioprinted BMMSC structures during osteogenesis.",
+    "journal": "Regenerative biomaterials",
+    "year": 2021,
+    "authors": [
+      "Zhang Y",
+      "Chen H",
+      "Long X",
+      "Xu T"
+    ],
+    "doi": "10.1093/rb/rbab041"
+  },
+  "extracted_at": "2026-11-22T13:35:56.692Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Co-axial printing of bone marrow stem cell structures with neural cells to study osteogenesis; a bone model, not a neural tissue model.",
+  "formulations": []
+}

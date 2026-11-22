@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC7676439",
+  "meta": {
+    "pmcid": "PMC7676439",
+    "title": "A Custom Ultra-Low-Cost 3D Bioprinter Supports Cell Growth and Differentiation.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2020,
+    "authors": [
+      "Ioannidis K",
+      "Danalatos RI",
+      "Champeris Tsaniras S",
+      "Kaplani K",
+      "Lokka G",
+      "Kanellou A",
+      "Papachristou DJ",
+      "Bokias G",
+      "Lygerou Z",
+      "Taraviras S"
+    ],
+    "doi": "10.3389/fbioe.2020.580889"
+  },
+  "extracted_at": "2026-11-22T13:37:01.642Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A custom ultra-low-cost bioprinter was built and tested with mouse radial glial neural stem cells and mesenchymal stem cells in alginate/gelatin inks; cells grew and kept their ability to differentiate.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom ultra-low-cost bioprinter",
+      "nozzle": "25 G (0.26 mm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "0.8% alginate + 0.5% gelatin (radial glia)",
+      "base_materials": [
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "0.8% w/v sodium alginate + 0.5% w/v gelatin",
+      "cell_type": "radial glial neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "A very cheap custom printer supported neural stem cell growth and differentiation.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "a 0.8% (w/v) sodium alginate and 0.5% (w/v) gelatin bioink was synthesized for the pRGCs"
+        },
+        {
+          "field": "nozzle",
+          "quote": "in this case a 25-gauge needle with 0.26 mm diameter"
+        },
+        {
+          "field": "cells",
+          "quote": "primary radial glial (pRGCs) stem cells, a neural stem cell population derived from mice subventricular zone"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "pmcid": "PMC12376583",
+  "meta": {
+    "pmcid": "PMC12376583",
+    "title": "Multiscale Organization of Neural Networks in a 3D Bioprinted Matrix.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "year": 2025,
+    "authors": [
+      "Yang H",
+      "Zhang J",
+      "Li Y",
+      "Zhong Z",
+      "Li W",
+      "Luo H",
+      "Liu Y",
+      "Ouyang L",
+      "Jiang Z",
+      "Sun Y",
+      "Sun H",
+      "Liu L",
+      "Yang H",
+      "Wang Y",
+      "Yang N",
+      "Ma W",
+      "Mao Y"
+    ],
+    "doi": "10.1002/advs.202504455"
+  },
+  "extracted_at": "2026-11-22T00:21:59.217Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Rat embryonic cortical neurons were printed in GelMA at cortex-like density to form '3D neuMatrix' with long-range axon connections. The model was used to mimic ischemic stroke.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking (LAP)",
+      "additives": [],
+      "cell_density": "1.5 x 10^7 cells/mL",
+      "printer": "SUNP BIOTECH extrusion bioprinter",
+      "nozzle": "21 G (510 µm ID)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "Live/Dead + ATP quantification",
+      "culture_days": 10,
+      "neural_markers": [],
+      "disease": "ischemic stroke",
+      "review_notes": "Viability is reported as relative ATP (%) rather than percent live cells, so viability_percent is left null.",
+      "confidence": "high",
+      "name": "GelMA30 6% (3D neuMatrix)",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "6% (w/v) GelMA (30% methacrylation) with LAP photoinitiator",
+      "cell_type": "primary cortical neurons (E18)",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed neurons formed 3D networks with local and long-range functional axon connections; used as an ischemic stroke model.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition / cell_density",
+          "quote": "to a final concentration of 1.5×107 cells mL−1 in 6% (w/v) GelMA30"
+        },
+        {
+          "field": "nozzle",
+          "quote": "we have chosen a 21G nozzle with an inner diameter of 510 µm to reduce the shear force"
+        },
+        {
+          "field": "printer",
+          "quote": "The bioprinting process utilized an extrusion‐based bioprinter (SUNP BIOTECH)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

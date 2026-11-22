@@ -1,0 +1,76 @@
+{
+  "pmcid": "PMC9830177",
+  "meta": {
+    "pmcid": "PMC9830177",
+    "title": "Development of an extrusion-based 3D-printing strategy for clustering of human neural progenitor cells.",
+    "journal": "Heliyon",
+    "year": 2022,
+    "authors": [
+      "Bilkic I",
+      "Sotelo D",
+      "Anujarerat S",
+      "Ortiz NR",
+      "Alonzo M",
+      "El Khoury R",
+      "Loyola CC",
+      "Joddar B"
+    ],
+    "doi": "10.1016/j.heliyon.2022.e12250"
+  },
+  "extracted_at": "2026-11-22T13:35:56.691Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A fibrin/alginate/genipin bioink (based on the Willerth lab formulation) was printed on a BIO X at low pressure to cluster human neural progenitor cells into lattices.",
+  "formulations": [
+    {
+      "crosslinking": "20 mg/mL CaCl2 + 1.7 µg/mL thrombin + 0.75 mg/mL chitosan",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "18 G",
+      "pressure_kpa": 21,
+      "print_speed_mm_s": 2,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Human NPC source (iPSC/ESC/fetal) not captured.",
+      "confidence": "medium",
+      "name": "UTEP bioink: fibrin + HV/MV alginate + genipin",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrin, 20 mg/mL HV alginate, 10 mg/mL MV alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Low-pressure printing (21 kPa) of a fibrin/alginate ink formed clustered neural progenitor lattices.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "final concentrations of 20 mg/mL fibrin, 20 mg/mL high viscosity (HV) alginate (#154724, MP Biomedicals-ThermoFisher Scientific), 10 mg/mL medium viscosity (MV) alginate, and 0.3 mg/mL genipin"
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "Low extrusion pressure of 21 kPa was used to ensure cell viability and create lattice patterns designed with SolidWorks (Concord, MA) at 2 mm/s"
+        },
+        {
+          "field": "crosslinking",
+          "quote": "Solutions of the crosslinker were prepared to have final concentrations of 20 mg/mL CaCl2, 1.7 μg/mL thrombin, and 0.75 mg/mL chitosan."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC11914955",
+  "meta": {
+    "pmcid": "PMC11914955",
+    "title": "Printing Cell Embedded Sacrificial Strategy for Microvasculature using Degradable DNA Biolubricant.",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "year": 2025,
+    "authors": [
+      "Shi J",
+      "Wan Y",
+      "Jia H",
+      "Skeldon G",
+      "Jan Cornelissen D",
+      "Wesencraft K",
+      "Wu J",
+      "McConnell G",
+      "Chen Q",
+      "Liu D",
+      "Shu W"
+    ],
+    "doi": "10.1002/anie.202417510"
+  },
+  "extracted_at": "2026-11-22T13:37:01.649Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Sacrificial printing of microvasculature; no neural cells.",
+  "formulations": []
+}

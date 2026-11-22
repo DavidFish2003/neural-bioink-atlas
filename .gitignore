@@ -1,0 +1,8 @@
+node_modules/
+# Full texts are re-downloadable with `npm run fetch`; licences vary, so they are not redistributed.
+data/papers/*.txt
+.env
+.claude/
+.netlify/
+# Private: draft outreach email
+PITCH.md

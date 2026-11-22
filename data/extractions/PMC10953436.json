@@ -1,0 +1,76 @@
+{
+  "pmcid": "PMC10953436",
+  "meta": {
+    "pmcid": "PMC10953436",
+    "title": "Three-dimensional bioprinting of stem cell-derived central nervous system cells enables astrocyte growth, vasculogenesis, and enhances neural differentiation/function.",
+    "journal": "Biotechnology and bioengineering",
+    "year": 2023,
+    "authors": [
+      "Sullivan MA",
+      "Lane S",
+      "Volkerling A",
+      "Engel M",
+      "Werry EL",
+      "Kassiou M"
+    ],
+    "doi": "10.1002/bit.28470"
+  },
+  "extracted_at": "2026-11-22T13:34:00.087Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A brain-soft PEG matrix with RGD, YIGSR and collagen IV was printed with iPSC-derived astrocytes, neural progenitors and brain endothelial-like cells. Printing supported astrocyte growth, vessel-like networks and better neural differentiation.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [
+        "RGD peptide",
+        "YIGSR peptide"
+      ],
+      "cell_density": "10 x 10^6 cells/mL (NPCs, iBMECLs); 5 x 10^6 cells/mL (astrocytes)",
+      "printer": "Inventia RASTRUM",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1.5,
+      "stiffness_note": "matrix stiffness matched to human brain",
+      "viability_percent": 82.2,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print method inferred from the RASTRUM droplet system; confirm.",
+      "confidence": "medium",
+      "name": "PEG + RGD + YIGSR + collagen IV (1.5 kPa)",
+      "base_materials": [
+        "PEG",
+        "collagen IV"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "PEG-based matrix with RGD and YIGSR peptides and 3 mg/mL collagen IV, 1.5 kPa",
+      "cell_type": "astrocytes, neural progenitors, brain endothelial-like cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "inkjet/droplet",
+      "key_outcome": "Printed iPSC astrocytes were 82% viable at day 1 and developed typical astrocyte morphology.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "full‐length collagen IV at a stiffness similar to the human brain (1.5 kPa)"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "iPSC‐derived astrocytes were printed with good viability (82.2% ± 10.1 SD)"
+        },
+        {
+          "field": "cell_density",
+          "quote": "containing 3 mg/mL collagen IV at 10 × 106 cells/mL for iPSC‐derived BMEC‐like cells (iBMECLs), and neural progenitor cells (NPCs) and 5 × 106 cells/mL for astrocytes"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

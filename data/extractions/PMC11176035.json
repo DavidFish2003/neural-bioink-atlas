@@ -1,0 +1,75 @@
+{
+  "pmcid": "PMC11176035",
+  "meta": {
+    "pmcid": "PMC11176035",
+    "title": "A 3D Bioprinted Human Neurovascular Unit Model of Glioblastoma Tumor Growth.",
+    "journal": "Advanced healthcare materials",
+    "year": 2024,
+    "authors": [
+      "Tung YT",
+      "Chen YC",
+      "Derr K",
+      "Wilson K",
+      "Song MJ",
+      "Ferrer M"
+    ],
+    "doi": "10.1002/adhm.202302831"
+  },
+  "extracted_at": "2026-11-22T13:35:56.685Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A neurovascular unit of primary human astrocytes, pericytes and brain endothelial cells was printed as a ring, with patient-derived glioblastoma cells printed at its centre, to follow tumour growth in a brain-like setting.",
+  "formulations": [
+    {
+      "crosslinking": "thrombin",
+      "additives": [
+        "aprotinin"
+      ],
+      "cell_density": "3 x 10^6 cells/mL (GBM)",
+      "printer": "RegenHU",
+      "nozzle": "21 G ring / 26 G tumour dot",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Fibrinogen + 6% gelatin (neurovascular ring + GBM dot)",
+      "base_materials": [
+        "fibrinogen",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2.5-5 mg/mL fibrinogen with 6% gelatin and aprotinin; tumour dot in 6% gelatin (bioink C)",
+      "cell_type": "astrocytes, pericytes, brain endothelial cells + JHH-520 GBM cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "The printed neurovascular unit let patient GBM cells grow in a brain-like microenvironment for tumour studies.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "These three types (A: 5 mg ml−1 fibrinogen with 6% gelatin and aprotinin."
+        },
+        {
+          "field": "nozzle",
+          "quote": "A ring pattern was printed through with a 21G needle (inner diameter of 0.514 mm)"
+        },
+        {
+          "field": "cell_density",
+          "quote": "a dot pattern was printed at the center of the ring structure of NVU with JHH520 cells in 3 million cells ml−1 concentration in bioink‐C via 26G needle"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

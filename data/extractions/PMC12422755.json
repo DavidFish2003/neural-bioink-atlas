@@ -1,0 +1,84 @@
+{
+  "pmcid": "PMC12422755",
+  "meta": {
+    "pmcid": "PMC12422755",
+    "title": "3D bioprinted human iPSC-derived neural progenitor cells as a novel platform for studying neurogenic niche.",
+    "journal": "APL bioengineering",
+    "year": 2025,
+    "authors": [
+      "Machado LS",
+      "Ferreira PS",
+      "Pires MR",
+      "Bim LV",
+      "de Oliveira NH",
+      "Salles GR",
+      "Ferreira ND",
+      "Cruz EM",
+      "Porcionatto MA"
+    ],
+    "doi": "10.1063/5.0276704"
+  },
+  "extracted_at": "2026-11-22T00:21:59.216Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A Geltrex/GelMA blend was used to bioprint human iPSC-derived neural progenitors, which self-organized into neurogenic-niche-like clusters. Constructs stayed viable for over 110 days.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking (Irgacure)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DBS Educational Starter Printer",
+      "nozzle": "22 G (0.413 mm ID)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": 3.3,
+      "stiffness_kpa": 0.1,
+      "stiffness_note": "storage modulus G' ~100 Pa at 1 Hz",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 110,
+      "neural_markers": [
+        "FABP7",
+        "NESTIN",
+        "GFAP"
+      ],
+      "disease": null,
+      "review_notes": "Viability shown qualitatively; no percentage in the text. Print method inferred from the methods description.",
+      "confidence": "medium",
+      "name": "Geltrex / GelMA blend",
+      "base_materials": [
+        "Geltrex",
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "8% (w/v) GelMA with Irgacure (0.25% final) blended with Geltrex",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "Printed hNPCs self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "An 8% (w/v) GelMA solution was prepared in PBS, and 0.5% (w/v) of the photoinitiator Irgacure was added"
+        },
+        {
+          "field": "print_speed / nozzle",
+          "quote": "The bioink was extruded from a 5 ml syringe at an average printing speed of 3.3 mm/s, using a 22 G needle"
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "oscillatory tests indicated that our hydrogel exhibited storage modulus values within this range as a 3D model (∼100 Pa)"
+        },
+        {
+          "field": "culture_days",
+          "quote": "remaining viable for over 110 days"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

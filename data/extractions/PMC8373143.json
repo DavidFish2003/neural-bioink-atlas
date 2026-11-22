@@ -1,0 +1,80 @@
+{
+  "pmcid": "PMC8373143",
+  "meta": {
+    "pmcid": "PMC8373143",
+    "title": "Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.",
+    "journal": "Science advances",
+    "year": 2021,
+    "authors": [
+      "Neufeld L",
+      "Yeini E",
+      "Reisman N",
+      "Shtilerman Y",
+      "Ben-Shushan D",
+      "Pozzi S",
+      "Madi A",
+      "Tiram G",
+      "Eldar-Boock A",
+      "Ferber S",
+      "Grossman R",
+      "Ram Z",
+      "Satchi-Fainaro R"
+    ],
+    "doi": "10.1126/sciadv.abi9119"
+  },
+  "extracted_at": "2026-11-22T13:34:55.891Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A perfusable, vascularized glioblastoma model was printed with patient-derived tumour cells, astrocytes and microglia in a fibrin/gelatin bioink, and used to predict drug responses.",
+  "formulations": [
+    {
+      "crosslinking": "thrombin + transglutaminase",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL (tumour, astrocytes)",
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 24.5,
+      "stiffness_note": "Young's modulus, compression, at 6% gelatin",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Fibrin 3D-bioink (1% fibrinogen + 6% gelatin)",
+      "base_materials": [
+        "fibrinogen",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1% (w/v) fibrinogen, 6% (w/v) gelatin, 3% transglutaminase, 0.5 U/mL thrombin",
+      "cell_type": "patient-derived glioblastoma cells + astrocytes + microglia",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "A perfusable printed GBM model with stromal cells mimicked tumour growth and drug response.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "Young’s modulus of 24.5 ± 2.6 kPa was achieved when the final gelatin concentration was 6% (w/v)"
+        },
+        {
+          "field": "composition",
+          "quote": "constant fibrinogen [1% (w/v)], Th (0.5 U/ml), and TG [3% (w/v)] and gelatin at serial concentrations"
+        },
+        {
+          "field": "cell_density",
+          "quote": "was mixed with Azurite-labeled PD-GB4 cells (1 × 106 cells/ml), GFP-labeled hAstro (1 × 106 cells/ml), and hMG (1 × 105 cells/ml)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

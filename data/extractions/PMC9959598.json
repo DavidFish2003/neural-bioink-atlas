@@ -1,0 +1,79 @@
+{
+  "pmcid": "PMC9959598",
+  "meta": {
+    "pmcid": "PMC9959598",
+    "title": "A Gelatin Methacrylate-Based Hydrogel as a Potential Bioink for 3D Bioprinting and Neuronal Differentiation.",
+    "journal": "Pharmaceutics",
+    "year": 2023,
+    "authors": [
+      "Cruz EM",
+      "Machado LS",
+      "Zamproni LN",
+      "Bim LV",
+      "Ferreira PS",
+      "Pinto LA",
+      "Pessan LA",
+      "Backes EH",
+      "Porcionatto MA"
+    ],
+    "doi": "10.3390/pharmaceutics15020627"
+  },
+  "extracted_at": "2026-11-22T13:33:05.702Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Four GelMA-based bioinks were compared for printing human iPSC-derived neural progenitors and SH-SY5Y cells. A 4% GelMA ink kept cells viable, printed easily, and supported differentiation into immature neurons.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DBS Educational Starter Printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "the four bioinks ranged 5-45 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [
+        "NESTIN",
+        "SOX2",
+        "PAX6"
+      ],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "4% GelMA (4GMA)",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "4% GelMA",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "4% GelMA was chosen for keeping cells viable with good printability; printed hNPCs became immature neurons.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected the 4GMA_Gx composition for further bioprinting assays"
+        },
+        {
+          "field": "printer",
+          "quote": "Cells were bioprinted using a 3DBS Educational Starter Printer, which produced constructs measuring 4 × 4 × 1 mm."
+        },
+        {
+          "field": "stiffness",
+          "quote": "The stiffness of the four bioinks presented in this work are 5 to 45 kPa and thus within that range."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "pmcid": "PMC7050497",
+  "meta": {
+    "pmcid": "PMC7050497",
+    "title": "Bioprinting of stem cell expansion lattices.",
+    "journal": "Acta biomaterialia",
+    "year": 2019,
+    "authors": [
+      "Lindsay CD",
+      "Roth JG",
+      "LeSavage BL",
+      "Heilshorn SC"
+    ],
+    "doi": "10.1016/j.actbio.2019.05.014"
+  },
+  "extracted_at": "2026-11-22T13:34:55.893Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Alginate lattices were printed with neural progenitor cells to expand them in 3D for cell manufacturing. Alginate stiffness (30 Pa to 1 kPa) changed how well the cells expanded.",
+  "formulations": [
+    {
+      "crosslinking": "CaSO4 pre-crosslink, printed into gelatin/CaCl2 support",
+      "additives": [
+        "RGD peptide (some formulations)"
+      ],
+      "cell_density": "30 x 10^6 cells/mL",
+      "printer": null,
+      "nozzle": "22 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1,
+      "stiffness_note": "G' ~1 kPa (stiffest); 0.1 kPa intermediate; 0.03 kPa softest",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "NPC species/source not captured.",
+      "confidence": "medium",
+      "name": "2% alginate, 8 mM Ca2+ (stem cell expansion lattice)",
+      "base_materials": [
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2% w/v alginate (LVG/VLVG blends) pre-crosslinked with 8 mM Ca2+; RGD variant",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Printed alginate lattices allowed 3D expansion of NPCs for biomanufacturing, with stiffness affecting growth.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition / density",
+          "quote": "Alginate bioinks (8 mM Ca2+, 30 ×106 NPCs/mL, 2% w/v) were extruded through a 22-gauge needle"
+        },
+        {
+          "field": "stiffness",
+          "quote": "with the stiffest gels (plateau storage shear modulus, G′ ~ 1 kPa) using a large molecular weight alginate"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

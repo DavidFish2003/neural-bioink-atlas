@@ -1,0 +1,73 @@
+{
+  "pmcid": "PMC11617618",
+  "meta": {
+    "pmcid": "PMC11617618",
+    "title": "Cerebrovascular-Specific Extracellular Matrix Bioink Promotes Blood-Brain Barrier Properties.",
+    "journal": "Biomaterials research",
+    "year": 2024,
+    "authors": [
+      "Han H",
+      "Lee S",
+      "Gao G",
+      "Yi HG",
+      "Paek SH",
+      "Jang J"
+    ],
+    "doi": "10.34133/bmr.0115"
+  },
+  "extracted_at": "2026-11-22T13:34:55.892Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A bioink made from decellularized cerebrovascular matrix was coaxially printed with brain endothelial cells into perfusable tubes. The tissue-specific matrix improved blood-brain barrier properties compared with other matrices.",
+  "formulations": [
+    {
+      "crosslinking": "Ca2+ from sacrificial Pluronic core",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DX Bioprinter (T&R Biofab)",
+      "nozzle": "coaxial 14G/18G",
+      "pressure_kpa": 30,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 95,
+      "viability_day": 14,
+      "viability_assay": null,
+      "culture_days": 14,
+      "neural_markers": [],
+      "disease": "neuroinflammation",
+      "review_notes": "Viability is a threshold ('>95%'). Shell pressure 30 kPa; core 110 kPa.",
+      "confidence": "high",
+      "name": "Cerebrovascular dECM (2.4%) + 0.6% alginate",
+      "base_materials": [
+        "decellularized cerebrovascular ECM",
+        "alginate"
+      ],
+      "material_class": "decellularized matrix",
+      "composition_detail": "2.4% CBVdECM + 0.6% sodium alginate, core of Pluronic F-127 + CaCl2",
+      "cell_type": "human brain microvascular endothelial cells (+ pericytes)",
+      "cell_source": "human primary/fetal",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Cerebrovascular-specific dECM bioink promoted barrier properties; viability stayed >95% over 14 days.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The final bioink contained 1× Dulbecco’s modified Eagle’s medium, 2.4% CBVdECM, and 0.6% sodium alginate."
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "at respective temperatures of 4 and 37 °C and respective pneumatic pressures of 30 and 110 kPa"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Although all groups showed similar cell viabilities of >95% after 14 d in culture"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

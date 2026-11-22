@@ -1,0 +1,74 @@
+{
+  "pmcid": "PMC8517394",
+  "meta": {
+    "pmcid": "PMC8517394",
+    "title": "Coaxially Bioprinted Cell-Laden Tubular-Like Structure for Studying Glioma Angiogenesis.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2021,
+    "authors": [
+      "Wang X",
+      "Li X",
+      "Zhang Y",
+      "Long X",
+      "Zhang H",
+      "Xu T",
+      "Niu C"
+    ],
+    "doi": "10.3389/fbioe.2021.761861"
+  },
+  "extracted_at": "2026-11-22T13:34:55.888Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Coaxial printing made hollow alginate microfibres with glioma cells in the shell and endothelial cells in a collagen core, to study how glioma drives blood vessel formation.",
+  "formulations": [
+    {
+      "crosslinking": "3% CaCl2",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL (glioma shell)",
+      "printer": null,
+      "nozzle": "coaxial, 0.577 / 1.469 mm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "2% alginate shell (glioma) / collagen core (HUVEC)",
+      "base_materials": [
+        "alginate",
+        "collagen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Shell: 2% sodium alginate with U118 glioma cells; core: 1 mg/mL collagen with HUVECs",
+      "cell_type": "U118 glioma cells + HUVEC endothelial cells",
+      "cell_source": "cell line",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Shell/core fibres let glioma-endothelial interaction and vessel-like formation be studied in a tubular structure.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "U118-RFP cells were resuspended in 2% sodium alginate solution as shell stream with a concentration of 1 × 106/ml"
+        },
+        {
+          "field": "core",
+          "quote": "to obtain a core stream with cell concentration of 1×105/ml and final collagen concentration of 1 mg/ml"
+        },
+        {
+          "field": "nozzle",
+          "quote": "The printing device is mainly consisted of a sheath/core nozzle, which composed of two concentric circles (inner diameters:0.577 mm, 1.469 mm, respectively)."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

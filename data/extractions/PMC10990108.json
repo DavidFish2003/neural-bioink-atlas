@@ -1,0 +1,34 @@
+{
+  "pmcid": "PMC10990108",
+  "meta": {
+    "pmcid": "PMC10990108",
+    "title": "Dual topologies of myotomal collagen XV and Tenascin C act in concert to guide and shape developing motor axons.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": 2024,
+    "authors": [
+      "Nemoz-Billet L",
+      "Balland M",
+      "Gilquin L",
+      "Gillet B",
+      "Stévant I",
+      "Guillon E",
+      "Hughes S",
+      "Carpentier G",
+      "Vaganay E",
+      "Sohm F",
+      "Misiak V",
+      "Gonzalez-Melo MJ",
+      "Koch M",
+      "Ghavi-Helm Y",
+      "Bretaud S",
+      "Ruggiero F"
+    ],
+    "doi": "10.1073/pnas.2314588121"
+  },
+  "extracted_at": "2026-11-22T13:37:01.648Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Developmental biology of axon guidance in zebrafish; not bioprinting.",
+  "formulations": []
+}

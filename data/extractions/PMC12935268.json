@@ -1,0 +1,68 @@
+{
+  "pmcid": "PMC12935268",
+  "meta": {
+    "pmcid": "PMC12935268",
+    "title": "Controlled deposition of human neural stem cells on fiber substrates using gel encapsulation.",
+    "journal": "PloS one",
+    "year": 2026,
+    "authors": [
+      "Hörberg CJ",
+      "Arvidsson M",
+      "Sandberg A",
+      "O'Carroll D",
+      "Johansson F",
+      "Englund Johansson U"
+    ],
+    "doi": "10.1371/journal.pone.0341624"
+  },
+  "extracted_at": "2026-11-22T13:37:01.642Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A simple capillary 'bioprinter' deposited human neural stem cells in small alginate gel spots onto electrospun fibre mats, giving control over where cells sit.",
+  "formulations": [
+    {
+      "crosslinking": "20 mM Ca2+, then alginate lyase",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Alginate concentration and NSC source not captured.",
+      "confidence": "medium",
+      "name": "Alginate gel spots on electrospun fibres",
+      "base_materials": [
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Alginate gelled in 20 mM Ca2+ medium; later removed with alginate lyase",
+      "cell_type": "neural stem cells",
+      "cell_source": "other",
+      "print_method": "other",
+      "key_outcome": "Gel-encapsulated deposition placed hNSCs precisely on fibre substrates at low cost.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "crosslinking",
+          "quote": "the fiber substrate is soaked in a small volume of medium containing 20 mM Ca2+"
+        },
+        {
+          "field": "method",
+          "quote": "we opted for a simpler approach where the nozzle remained stationary and only injected a single population of cells"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

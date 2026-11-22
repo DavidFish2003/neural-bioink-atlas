@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC11468931",
+  "meta": {
+    "pmcid": "PMC11468931",
+    "title": "Bioorthogonally Cross-Linked Hyaluronan-Laminin Hydrogels for 3D Neuronal Cell Culture and Biofabrication.",
+    "journal": "Advanced healthcare materials",
+    "year": 2022,
+    "authors": [
+      "Jury M",
+      "Matthiesen I",
+      "Rasti Boroojeni F",
+      "Ludwig SL",
+      "Civitelli L",
+      "Winkler TE",
+      "Selegård R",
+      "Herland A",
+      "Aili D"
+    ],
+    "doi": "10.1002/adhm.202102097"
+  },
+  "extracted_at": "2026-11-22T13:35:56.689Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Hyaluronan-PEG hydrogels with covalently attached laminin were developed for 3D neuron culture and printed on a BIO X. Laminin stayed bound in the gel, and printed stem cells were about 50-55% viable.",
+  "formulations": [
+    {
+      "crosslinking": "bioorthogonal click chemistry (SPAAC)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "27 G",
+      "pressure_kpa": 1,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 52,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Viability reported as a range (50-55%); midpoint recorded. lt-NES species/source not captured.",
+      "confidence": "medium",
+      "name": "1% HA:PEG + laminin (click-crosslinked)",
+      "base_materials": [
+        "hyaluronic acid",
+        "PEG",
+        "laminin"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "1% (w/v) HA-BCN:PEG with azide-modified laminin",
+      "cell_type": "neuroepithelial stem cells (lt-NES) and SH-SY5Y",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Laminin-presenting HA gels supported neuronal culture and could be printed at very low pressure.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "printer / pressure / speed",
+          "quote": "Bioprinting was conducted using a Cellink BioX equipped with a 27G needle at 1 kPa pressure and 25 mm s−1"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Cell viabilities of about 50–55% were obtained with no difference between the two conditions"
+        },
+        {
+          "field": "composition",
+          "quote": "3D bioprinted structures based on the HA:PEG‐LN hydrogels at a concentration of 1% (w/v)."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

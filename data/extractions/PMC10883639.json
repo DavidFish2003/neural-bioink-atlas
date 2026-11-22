@@ -1,0 +1,85 @@
+{
+  "pmcid": "PMC10883639",
+  "meta": {
+    "pmcid": "PMC10883639",
+    "title": "3D bioprinting of human neural tissues with functional connectivity.",
+    "journal": "Cell stem cell",
+    "year": 2024,
+    "authors": [
+      "Yan Y",
+      "Li X",
+      "Gao Y",
+      "Mathivanan S",
+      "Kong L",
+      "Tao Y",
+      "Dong Y",
+      "Li X",
+      "Bhattacharyya A",
+      "Zhao X",
+      "Zhang SC"
+    ],
+    "doi": "10.1016/j.stem.2023.12.009"
+  },
+  "extracted_at": "2026-11-22T13:33:05.696Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A soft fibrin-based bioink and a commercial bioprinter were used to print layered human neural tissues from stem cell-derived progenitors. Printed neurons formed functional circuits between layers within weeks, and astrocyte progenitors matured into astrocytes.",
+  "formulations": [
+    {
+      "crosslinking": "thrombin",
+      "additives": [],
+      "cell_density": "1 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [
+        "FOXG1",
+        "PAX6"
+      ],
+      "disease": null,
+      "review_notes": "Viability given as 'about 80%'. Also compared: Matrigel (92% viable, clogged the nozzle) and hyaluronic acid (85%).",
+      "confidence": "medium",
+      "name": "Soft fibrin gel (2.5 mg/mL fibrinogen, 0.5 U thrombin)",
+      "base_materials": [
+        "fibrinogen",
+        "thrombin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2.5 mg/mL fibrinogen gelled with 0.5 U thrombin (gelation ~145 s)",
+      "cell_type": "cortical neural progenitors and astrocyte progenitors",
+      "cell_source": "human ESC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed neurons formed functional cortical-to-striatal circuits; about 80% of cells stayed viable for 7 days.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "We chose 2.5 mg/mL fibrinogen and 0.5 U thrombin for hydrogel construction, yielding a gelation time of about 145 ± 10 seconds"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "more than 85% of the cells survived after 6 hours of culturing in the fibrin gel and about 80% of the cells retained viable for 7 days"
+        },
+        {
+          "field": "cell_source",
+          "quote": "The cortical NPCs, differentiated from GFP- or mCherry-labeled hESCs for 21 days, expressed forebrain cortical progenitor markers FOXG1 and PAX6"
+        },
+        {
+          "field": "cell_density",
+          "quote": "The cells were centrifuged and resuspended with 20 mg/mL fibrinogen solution at a density of 1 × 107/mL."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

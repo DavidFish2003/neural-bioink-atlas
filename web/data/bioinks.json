@@ -1,0 +1,3718 @@
+{
+  "generated_at": "2026-11-22T13:38:23.562Z",
+  "n_papers": 43,
+  "n_formulations": 48,
+  "papers": [
+    {
+      "pmcid": "PMC12822481",
+      "title": "Advanced Stem Cell Therapy: 3D-Bioprinted Brain-Like Transplants for Alzheimer's Disease-Like Dementia.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "year": 2026,
+      "authors": [
+        "Gai K",
+        "Song Y",
+        "Gao D",
+        "Nie Q",
+        "Luo X",
+        "Xu C",
+        "Cai C",
+        "Smith A",
+        "Li X",
+        "Shi W",
+        "Zhang L",
+        "Sun W",
+        "Lin F"
+      ],
+      "doi": "10.1002/advs.202510062",
+      "paper_type": "primary research",
+      "summary": "A soft gelatin/alginate/fibrinogen bioink was used to print hiPSC-derived neural progenitors into small dot-shaped hippocampal patches for transplantation. Transplants improved outcomes in a mouse model of Alzheimer's-like dementia.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12935268",
+      "title": "Controlled deposition of human neural stem cells on fiber substrates using gel encapsulation.",
+      "journal": "PloS one",
+      "year": 2026,
+      "authors": [
+        "Hörberg CJ",
+        "Arvidsson M",
+        "Sandberg A",
+        "O'Carroll D",
+        "Johansson F",
+        "Englund Johansson U"
+      ],
+      "doi": "10.1371/journal.pone.0341624",
+      "paper_type": "primary research",
+      "summary": "A simple capillary 'bioprinter' deposited human neural stem cells in small alginate gel spots onto electrospun fibre mats, giving control over where cells sit.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC13044844",
+      "title": "PVA:ALG Hybrid Bioink for Biofabrication of 3D Neural Models.",
+      "journal": "ACS omega",
+      "year": 2026,
+      "authors": [
+        "Celebi LE",
+        "Yildirim-Semerci Ö",
+        "Arslan-Yildiz A"
+      ],
+      "doi": "10.1021/acsomega.5c11570",
+      "paper_type": "primary research",
+      "summary": "A PVA/alginate hybrid ink was optimized for printability and used to build scaffolds for SH-SY5Y neuroblastoma cells. The hybrid supported viability and ECM formation for 15 days, better than 2D culture.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11694092",
+      "title": "Hyaluronic Acid-Based 3D Bioprinted Hydrogel Structure for Directed Axonal Guidance and Modeling Innervation In Vitro.",
+      "journal": "Advanced healthcare materials",
+      "year": 2025,
+      "authors": [
+        "Honkamäki L",
+        "Kulta O",
+        "Puistola P",
+        "Hopia K",
+        "Emeh P",
+        "Isosaari L",
+        "Mörö A",
+        "Narkilahti S"
+      ],
+      "doi": "10.1002/adhm.202402504",
+      "paper_type": "primary research",
+      "summary": "Soft and stiff hyaluronic acid bioinks were printed together to guide axons from stem cell-derived neurons, as a model of how nerves innervate tissue. The soft ink with NGF and laminin formed channels for axon growth.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11780150",
+      "title": "3D bioprinted dynamic bioactive living construct enhances mechanotransduction-assisted rapid neural network self-organization for spinal cord injury repair.",
+      "journal": "Bioactive materials",
+      "year": 2025,
+      "authors": [
+        "Yang J",
+        "Kim K",
+        "Liu Y",
+        "Luo X",
+        "Ma C",
+        "Man W",
+        "Zhao Y",
+        "Cao Z",
+        "Hu P",
+        "Chen J",
+        "Wang Y",
+        "Sun X",
+        "Zhao L",
+        "Wang G",
+        "Yang K",
+        "Wang X"
+      ],
+      "doi": "10.1016/j.bioactmat.2024.12.028",
+      "paper_type": "primary research",
+      "summary": "A dynamic GelMA/oxidized hyaluronic acid bioink with N-cadherin- and BDNF-mimicking peptides was printed with neural stem cells. The dynamic, bioactive ink sped up neural network self-organization and improved recovery in vivo.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 3
+    },
+    {
+      "pmcid": "PMC11843594",
+      "title": "Innovative MXene/SilMA-Based Conductive Bioink for Three Dimensional Bioprinting of Neural Stem Cell Spheroids in Neural Tissue Engineering.",
+      "journal": "ACS applied materials & interfaces",
+      "year": 2025,
+      "authors": [
+        "Yeh YC",
+        "Chen PY",
+        "Chen KT",
+        "Lee IC"
+      ],
+      "doi": "10.1021/acsami.4c19373",
+      "paper_type": "primary research",
+      "summary": "A conductive silk-methacrylate/pectin bioink with MXene nanosheets was used to print rat neural stem cell spheroids and stimulate them electrically. The printed conduit also supported sciatic nerve regeneration in rats.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12027382",
+      "title": "Three-Dimensional-Bioprinted Embedded-Based Cerebral Organoids: An Alternative Approach for Mini-Brain In Vitro Modeling Beyond Conventional Generation Methods.",
+      "journal": "Gels (Basel, Switzerland)",
+      "year": 2025,
+      "authors": [
+        "Ferraro RM",
+        "Ginestra PS",
+        "Seiti M",
+        "Bugatti M",
+        "Benini G",
+        "Ottelli L",
+        "Vermi W",
+        "Poliani PL",
+        "Ceretti E",
+        "Giliani S"
+      ],
+      "doi": "10.3390/gels11040284",
+      "paper_type": "primary research",
+      "summary": "iPSC-derived embryoid bodies were printed in an alginate/carboxymethylcellulose ink with diluted Matrigel to grow cerebral organoids without manual Matrigel embedding. The organoids reached ~2 mm by day 40, like standard ones.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12080301",
+      "title": "Investigating How All-Trans Retinoic Acid Polycaprolactone (atRA-PCL) Microparticles Alter the Material Properties of 3D Printed Fibrin Constructs.",
+      "journal": "Macromolecular bioscience",
+      "year": 2025,
+      "authors": [
+        "Hangad MV",
+        "Forigua A",
+        "Scheck K",
+        "Willerth SM",
+        "Elvira KS"
+      ],
+      "doi": "10.1002/mabi.202400464",
+      "paper_type": "primary research",
+      "summary": "All-trans retinoic acid-loaded PCL microparticles were made with microfluidics and mixed into a fibrin bioink printed on a BIO X into an agarose support bath. The study measured how the microparticles change the ink's rheology and drug release.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12169505",
+      "title": "Bioprinting of GelMA/PEGDA Hybrid Bioinks for SH-SY5Y Cell Encapsulation: Role of Molecular Weight and Concentration.",
+      "journal": "Macromolecular bioscience",
+      "year": 2025,
+      "authors": [
+        "Yue H",
+        "Wang Y",
+        "Fernandes S",
+        "Vyas C",
+        "Bartolo P"
+      ],
+      "doi": "10.1002/mabi.202400587",
+      "paper_type": "primary research",
+      "summary": "GelMA/PEGDA hybrid bioinks were printed with SH-SY5Y cells for nerve guidance conduits. PEGDA concentration and molecular weight tuned stiffness (about 50-600 kPa), degradation and printability.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12376583",
+      "title": "Multiscale Organization of Neural Networks in a 3D Bioprinted Matrix.",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "year": 2025,
+      "authors": [
+        "Yang H",
+        "Zhang J",
+        "Li Y",
+        "Zhong Z",
+        "Li W",
+        "Luo H",
+        "Liu Y",
+        "Ouyang L",
+        "Jiang Z",
+        "Sun Y",
+        "Sun H",
+        "Liu L",
+        "Yang H",
+        "Wang Y",
+        "Yang N",
+        "Ma W",
+        "Mao Y"
+      ],
+      "doi": "10.1002/advs.202504455",
+      "paper_type": "primary research",
+      "summary": "Rat embryonic cortical neurons were printed in GelMA at cortex-like density to form '3D neuMatrix' with long-range axon connections. The model was used to mimic ischemic stroke.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12422755",
+      "title": "3D bioprinted human iPSC-derived neural progenitor cells as a novel platform for studying neurogenic niche.",
+      "journal": "APL bioengineering",
+      "year": 2025,
+      "authors": [
+        "Machado LS",
+        "Ferreira PS",
+        "Pires MR",
+        "Bim LV",
+        "de Oliveira NH",
+        "Salles GR",
+        "Ferreira ND",
+        "Cruz EM",
+        "Porcionatto MA"
+      ],
+      "doi": "10.1063/5.0276704",
+      "paper_type": "primary research",
+      "summary": "A Geltrex/GelMA blend was used to bioprint human iPSC-derived neural progenitors, which self-organized into neurogenic-niche-like clusters. Constructs stayed viable for over 110 days.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12648946",
+      "title": "Protocol for the generation of three-dimensional micropatterned neuroepithelial tissues using hPSCs, bioprinting, and matrix scaffolds.",
+      "journal": "STAR protocols",
+      "year": 2025,
+      "authors": [
+        "Wong KKL",
+        "Imani Farahani N",
+        "Allen G",
+        "Minhas A",
+        "Julian LM"
+      ],
+      "doi": "10.1016/j.xpro.2025.104196",
+      "paper_type": "protocol",
+      "summary": "A protocol that prints droplets of extracellular matrix to confine human pluripotent stem cells, so they self-assemble into single-lumen, neural-tube-like neuroepithelial tissues.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC12704128",
+      "title": "Three-Dimensional Bioprinting of Astrocytes and Endothelial Cells to Direct Retinal Axon Growth and Vascularization.",
+      "journal": "Tissue engineering. Part A",
+      "year": 2025,
+      "authors": [
+        "Abukunna FE",
+        "Aladdad AM",
+        "McLoughlin KJ",
+        "Thallapureddy K",
+        "Vierra M",
+        "Siddiqui Z",
+        "Kador KE"
+      ],
+      "doi": "10.1089/ten.tea.2024.0326",
+      "paper_type": "primary research",
+      "summary": "Optic nerve head astrocytes and endothelial cells were printed at the centre of retinal ganglion cell scaffolds to recreate how the retinal nerve fibre layer develops. Developing astrocytes increased RGC neurite polarization by 43%.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC10761197",
+      "title": "Vascularization ability of glioma stem cells in different three-dimensional microenvironments.",
+      "journal": "Regenerative biomaterials",
+      "year": 2024,
+      "authors": [
+        "Wang X",
+        "Xu T",
+        "Niu C"
+      ],
+      "doi": "10.1093/rb/rbad094",
+      "paper_type": "primary research",
+      "summary": "Glioma stem cells were printed in a gelatin/alginate scaffold and compared with other 3D settings to study how they form blood vessels. Printed cells stayed about 85% viable over a week.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC10883639",
+      "title": "3D bioprinting of human neural tissues with functional connectivity.",
+      "journal": "Cell stem cell",
+      "year": 2024,
+      "authors": [
+        "Yan Y",
+        "Li X",
+        "Gao Y",
+        "Mathivanan S",
+        "Kong L",
+        "Tao Y",
+        "Dong Y",
+        "Li X",
+        "Bhattacharyya A",
+        "Zhao X",
+        "Zhang SC"
+      ],
+      "doi": "10.1016/j.stem.2023.12.009",
+      "paper_type": "primary research",
+      "summary": "A soft fibrin-based bioink and a commercial bioprinter were used to print layered human neural tissues from stem cell-derived progenitors. Printed neurons formed functional circuits between layers within weeks, and astrocyte progenitors matured into astrocytes.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11176035",
+      "title": "A 3D Bioprinted Human Neurovascular Unit Model of Glioblastoma Tumor Growth.",
+      "journal": "Advanced healthcare materials",
+      "year": 2024,
+      "authors": [
+        "Tung YT",
+        "Chen YC",
+        "Derr K",
+        "Wilson K",
+        "Song MJ",
+        "Ferrer M"
+      ],
+      "doi": "10.1002/adhm.202302831",
+      "paper_type": "primary research",
+      "summary": "A neurovascular unit of primary human astrocytes, pericytes and brain endothelial cells was printed as a ring, with patient-derived glioblastoma cells printed at its centre, to follow tumour growth in a brain-like setting.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11334787",
+      "title": "Biomimetic design and integrated biofabrication of an in-vitro three-dimensional multi-scale multilayer cortical model.",
+      "journal": "Materials today. Bio",
+      "year": 2024,
+      "authors": [
+        "Wang L",
+        "Bai L",
+        "Wang S",
+        "Zhou J",
+        "Liu Y",
+        "Zhang C",
+        "Yao S",
+        "He J",
+        "Liu C",
+        "Li D"
+      ],
+      "doi": "10.1016/j.mtbio.2024.101176",
+      "paper_type": "primary research",
+      "summary": "A six-layer brain-cortex-like model was built by combining extrusion printing of GelMA/fibrin with melt electrowritten fibres that run through all layers. The fibres guided neurite growth, and glial layers drew PC12 cells toward them.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11616263",
+      "title": "Rapid Biofabrication of an Advanced Microphysiological System Mimicking Phenotypical Heterogeneity and Drug Resistance in Glioblastoma.",
+      "journal": "Advanced healthcare materials",
+      "year": 2024,
+      "authors": [
+        "Pun S",
+        "Prakash A",
+        "Demaree D",
+        "Krummel DP",
+        "Sciumè G",
+        "Sengupta S",
+        "Barrile R"
+      ],
+      "doi": "10.1002/adhm.202401876",
+      "paper_type": "primary research",
+      "summary": "A hydrogel microphysiological system with a brain-endothelial vessel channel was rapidly printed to co-culture glioblastoma cells and astrocytes, avoiding PDMS so drug tests aren't skewed. It reproduced two GBM cell populations and drug resistance.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11617618",
+      "title": "Cerebrovascular-Specific Extracellular Matrix Bioink Promotes Blood-Brain Barrier Properties.",
+      "journal": "Biomaterials research",
+      "year": 2024,
+      "authors": [
+        "Han H",
+        "Lee S",
+        "Gao G",
+        "Yi HG",
+        "Paek SH",
+        "Jang J"
+      ],
+      "doi": "10.34133/bmr.0115",
+      "paper_type": "primary research",
+      "summary": "A bioink made from decellularized cerebrovascular matrix was coaxially printed with brain endothelial cells into perfusable tubes. The tissue-specific matrix improved blood-brain barrier properties compared with other matrices.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC10207712",
+      "title": "3D bioprinting patient-derived induced pluripotent stem cell models of Alzheimer's disease using a smart bioink.",
+      "journal": "Bioelectronic medicine",
+      "year": 2023,
+      "authors": [
+        "Benwood C",
+        "Walters-Shumka J",
+        "Scheck K",
+        "Willerth SM"
+      ],
+      "doi": "10.1186/s42234-023-00112-7",
+      "paper_type": "primary research",
+      "summary": "Healthy and Alzheimer's patient-derived hiPSC neural progenitors were bioprinted in a fibrin-based bioink on the Aspect RX1 microfluidic printer, with or without drug-releasing PCL microspheres. Constructs stayed viable for 30-45 days and were characterized for viability, markers and calcium signalling.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 2
+    },
+    {
+      "pmcid": "PMC10953436",
+      "title": "Three-dimensional bioprinting of stem cell-derived central nervous system cells enables astrocyte growth, vasculogenesis, and enhances neural differentiation/function.",
+      "journal": "Biotechnology and bioengineering",
+      "year": 2023,
+      "authors": [
+        "Sullivan MA",
+        "Lane S",
+        "Volkerling A",
+        "Engel M",
+        "Werry EL",
+        "Kassiou M"
+      ],
+      "doi": "10.1002/bit.28470",
+      "paper_type": "primary research",
+      "summary": "A brain-soft PEG matrix with RGD, YIGSR and collagen IV was printed with iPSC-derived astrocytes, neural progenitors and brain endothelial-like cells. Printing supported astrocyte growth, vessel-like networks and better neural differentiation.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11469067",
+      "title": "3D Bioprinting of Neurovascular Tissue Modeling with Collagen-Based Low-Viscosity Composites.",
+      "journal": "Advanced healthcare materials",
+      "year": 2023,
+      "authors": [
+        "Wang S",
+        "Bai L",
+        "Hu X",
+        "Yao S",
+        "Hao Z",
+        "Zhou J",
+        "Li X",
+        "Lu H",
+        "He J",
+        "Wang L",
+        "Li D"
+      ],
+      "doi": "10.1002/adhm.202300004",
+      "paper_type": "primary research",
+      "summary": "A very low-viscosity alginate/collagen bioink was printed into a gelatin support bath at ~10 µm resolution to build neurovascular unit models. Partial alginate lysis softened the gel to about 1 kPa, close to brain.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9888471",
+      "title": "Astrocyte 3D culture and bioprinting using peptide functionalized hyaluronan hydrogels.",
+      "journal": "Science and technology of advanced materials",
+      "year": 2023,
+      "authors": [
+        "Matthiesen I",
+        "Jury M",
+        "Rasti Boroojeni F",
+        "Ludwig SL",
+        "Holzreuter M",
+        "Buchmann S",
+        "Åman Träger A",
+        "Selegård R",
+        "Winkler TE",
+        "Aili D",
+        "Herland A"
+      ],
+      "doi": "10.1080/14686996.2023.2165871",
+      "paper_type": "primary research",
+      "summary": "Hyaluronan-PEG hydrogels functionalized with laminin- or RGD-derived peptides were used to culture and bioprint human fetal astrocytes and glioblastoma cells. Peptide choice changed how astrocytes spread and organized.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9959598",
+      "title": "A Gelatin Methacrylate-Based Hydrogel as a Potential Bioink for 3D Bioprinting and Neuronal Differentiation.",
+      "journal": "Pharmaceutics",
+      "year": 2023,
+      "authors": [
+        "Cruz EM",
+        "Machado LS",
+        "Zamproni LN",
+        "Bim LV",
+        "Ferreira PS",
+        "Pinto LA",
+        "Pessan LA",
+        "Backes EH",
+        "Porcionatto MA"
+      ],
+      "doi": "10.3390/pharmaceutics15020627",
+      "paper_type": "primary research",
+      "summary": "Four GelMA-based bioinks were compared for printing human iPSC-derived neural progenitors and SH-SY5Y cells. A 4% GelMA ink kept cells viable, printed easily, and supported differentiation into immature neurons.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11468931",
+      "title": "Bioorthogonally Cross-Linked Hyaluronan-Laminin Hydrogels for 3D Neuronal Cell Culture and Biofabrication.",
+      "journal": "Advanced healthcare materials",
+      "year": 2022,
+      "authors": [
+        "Jury M",
+        "Matthiesen I",
+        "Rasti Boroojeni F",
+        "Ludwig SL",
+        "Civitelli L",
+        "Winkler TE",
+        "Selegård R",
+        "Herland A",
+        "Aili D"
+      ],
+      "doi": "10.1002/adhm.202102097",
+      "paper_type": "primary research",
+      "summary": "Hyaluronan-PEG hydrogels with covalently attached laminin were developed for 3D neuron culture and printed on a BIO X. Laminin stayed bound in the gel, and printed stem cells were about 50-55% viable.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9059157",
+      "title": "Protocol for printing 3D neural tissues using the BIO X equipped with a pneumatic printhead.",
+      "journal": "STAR protocols",
+      "year": 2022,
+      "authors": [
+        "Chrenek J",
+        "Kirsch R",
+        "Scheck K",
+        "Willerth SM"
+      ],
+      "doi": "10.1016/j.xpro.2022.101348",
+      "paper_type": "protocol",
+      "summary": "A step-by-step protocol from the Willerth lab for printing neural tissues with Axolotl Biosciences' fibrin-based bioink on a CELLINK BIO X pneumatic printhead, either onto plates or into an agarose support bath.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9141644",
+      "title": "Patients' Stem Cells Differentiation in a 3D Environment as a Promising Experimental Tool for the Study of Amyotrophic Lateral Sclerosis.",
+      "journal": "International journal of molecular sciences",
+      "year": 2022,
+      "authors": [
+        "Scarian E",
+        "Bordoni M",
+        "Fantini V",
+        "Jacchetti E",
+        "Raimondi MT",
+        "Diamanti L",
+        "Carelli S",
+        "Cereda C",
+        "Pansarasa O"
+      ],
+      "doi": "10.3390/ijms23105344",
+      "paper_type": "primary research",
+      "summary": "Blood cells from healthy donors and sporadic ALS patients were reprogrammed to iPSCs, turned into neural stem cells, printed in hydrogel constructs, and differentiated into motor neurons. Printed cells stayed viable and differentiated, supporting bioprinting for ALS research.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9144715",
+      "title": "Towards 3D Bioprinted Spinal Cord Organoids.",
+      "journal": "International journal of molecular sciences",
+      "year": 2022,
+      "authors": [
+        "Han Y",
+        "King M",
+        "Tikhomirov E",
+        "Barasa P",
+        "Souza CDS",
+        "Lindh J",
+        "Baltriukiene D",
+        "Ferraiuolo L",
+        "Azzouz M",
+        "Gullo MR",
+        "Kozlova EN"
+      ],
+      "doi": "10.3390/ijms23105788",
+      "paper_type": "primary research",
+      "summary": "Boundary cap neural crest stem cells were printed in gelatin crosslinked with transglutaminase to work toward spinal cord organoids. 12% gelatin with 25 mg/mL transglutaminase printed well and supported survival and differentiation.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC9830177",
+      "title": "Development of an extrusion-based 3D-printing strategy for clustering of human neural progenitor cells.",
+      "journal": "Heliyon",
+      "year": 2022,
+      "authors": [
+        "Bilkic I",
+        "Sotelo D",
+        "Anujarerat S",
+        "Ortiz NR",
+        "Alonzo M",
+        "El Khoury R",
+        "Loyola CC",
+        "Joddar B"
+      ],
+      "doi": "10.1016/j.heliyon.2022.e12250",
+      "paper_type": "primary research",
+      "summary": "A fibrin/alginate/genipin bioink (based on the Willerth lab formulation) was printed on a BIO X at low pressure to cluster human neural progenitor cells into lattices.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC11468953",
+      "title": "Human Induced Pluripotent Stem Cell-Derived Neural Progenitor Cells Produce Distinct Neural 3D In Vitro Models Depending on Alginate/Gellan Gum/Laminin Hydrogel Blend Properties.",
+      "journal": "Advanced healthcare materials",
+      "year": 2021,
+      "authors": [
+        "Kapr J",
+        "Petersilie L",
+        "Distler T",
+        "Lauria I",
+        "Bendt F",
+        "Sauter CM",
+        "Boccaccini AR",
+        "Rose CR",
+        "Fritsche E"
+      ],
+      "doi": "10.1002/adhm.202100131",
+      "paper_type": "primary research",
+      "summary": "Two alginate/gellan gum/laminin blends were used to print hiPSC-derived neural progenitors on an EnvisionTEC Bioplotter. The two blends, both within brain stiffness, produced distinctly different neural 3D models.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC8049977",
+      "title": "Rapid 3D Bioprinting of Glioblastoma Model Mimicking Native Biophysical Heterogeneity.",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "year": 2021,
+      "authors": [
+        "Tang M",
+        "Tiwari SK",
+        "Agrawal K",
+        "Tan M",
+        "Dang J",
+        "Tam T",
+        "Tian J",
+        "Wan X",
+        "Schimelman J",
+        "You S",
+        "Xia Q",
+        "Rana TM",
+        "Chen S"
+      ],
+      "doi": "10.1002/smll.202006050",
+      "paper_type": "primary research",
+      "summary": "Light-based (DLP) printing built glioblastoma models with patient-derived glioblastoma stem cells and endothelial cells in GelMA/hyaluronic acid matrices of tumour-like (7 kPa) and brain-like (0.45 kPa) stiffness.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC8373143",
+      "title": "Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.",
+      "journal": "Science advances",
+      "year": 2021,
+      "authors": [
+        "Neufeld L",
+        "Yeini E",
+        "Reisman N",
+        "Shtilerman Y",
+        "Ben-Shushan D",
+        "Pozzi S",
+        "Madi A",
+        "Tiram G",
+        "Eldar-Boock A",
+        "Ferber S",
+        "Grossman R",
+        "Ram Z",
+        "Satchi-Fainaro R"
+      ],
+      "doi": "10.1126/sciadv.abi9119",
+      "paper_type": "primary research",
+      "summary": "A perfusable, vascularized glioblastoma model was printed with patient-derived tumour cells, astrocytes and microglia in a fibrin/gelatin bioink, and used to predict drug responses.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC8394541",
+      "title": "3D Bioprinting Mesenchymal Stem Cell-Derived Neural Tissues Using a Fibrin-Based Bioink.",
+      "journal": "Biomolecules",
+      "year": 2021,
+      "authors": [
+        "Restan Perez M",
+        "Sharma R",
+        "Masri NZ",
+        "Willerth SM"
+      ],
+      "doi": "10.3390/biom11081250",
+      "paper_type": "primary research",
+      "summary": "Adipose-derived mesenchymal stem cells were bioprinted in the lab's fibrin-based bioink on the RX1 printer and differentiated toward dopaminergic neurons for 12 days. Cells expressed TH and TUJ1 and released dopamine.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC8517394",
+      "title": "Coaxially Bioprinted Cell-Laden Tubular-Like Structure for Studying Glioma Angiogenesis.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "year": 2021,
+      "authors": [
+        "Wang X",
+        "Li X",
+        "Zhang Y",
+        "Long X",
+        "Zhang H",
+        "Xu T",
+        "Niu C"
+      ],
+      "doi": "10.3389/fbioe.2021.761861",
+      "paper_type": "primary research",
+      "summary": "Coaxial printing made hollow alginate microfibres with glioma cells in the shell and endothelial cells in a collagen core, to study how glioma drives blood vessel formation.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC7026266",
+      "title": "3D Bioprinting Pluripotent Stem Cell Derived Neural Tissues Using a Novel Fibrin Bioink Containing Drug Releasing Microspheres.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "year": 2020,
+      "authors": [
+        "Sharma R",
+        "Smits IPM",
+        "De La Vega L",
+        "Lee C",
+        "Willerth SM"
+      ],
+      "doi": "10.3389/fbioe.2020.00057",
+      "paper_type": "primary research",
+      "summary": "hiPSC-derived neural progenitors were printed in a fibrin bioink containing guggulsterone-releasing microspheres on the RX1 printer. Tissues were over 90% viable and expressed dopaminergic and glial markers after 30 days.",
+      "extracted_by": "seed: Claude (Claude Code session), pending human review",
+      "n_formulations": 3
+    },
+    {
+      "pmcid": "PMC7608409",
+      "title": "Three-dimensional bioprinted glioblastoma microenvironments model cellular dependencies and immune interactions.",
+      "journal": "Cell research",
+      "year": 2020,
+      "authors": [
+        "Tang M",
+        "Xie Q",
+        "Gimple RC",
+        "Zhong Z",
+        "Tam T",
+        "Tian J",
+        "Kidwell RL",
+        "Wu Q",
+        "Prager BC",
+        "Qiu Z",
+        "Yu A",
+        "Zhu Z",
+        "Mesci P",
+        "Jing H",
+        "Schimelman J",
+        "Wang P",
+        "Lee D",
+        "Lorenzini MH",
+        "Dixit D",
+        "Zhao L",
+        "Bhargava S",
+        "Miller TE",
+        "Wan X",
+        "Tang J",
+        "Sun B",
+        "Cravatt BF",
+        "Muotri AR",
+        "Chen S",
+        "Rich JN"
+      ],
+      "doi": "10.1038/s41422-020-0338-1",
+      "paper_type": "primary research",
+      "summary": "Rapid light-based printing built glioblastoma tissue with tumour cells, macrophages, astrocytes and neural stem cells in GelMA/hyaluronic acid. The model captured how macrophages support tumour growth and drug resistance.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC7676439",
+      "title": "A Custom Ultra-Low-Cost 3D Bioprinter Supports Cell Growth and Differentiation.",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "year": 2020,
+      "authors": [
+        "Ioannidis K",
+        "Danalatos RI",
+        "Champeris Tsaniras S",
+        "Kaplani K",
+        "Lokka G",
+        "Kanellou A",
+        "Papachristou DJ",
+        "Bokias G",
+        "Lygerou Z",
+        "Taraviras S"
+      ],
+      "doi": "10.3389/fbioe.2020.580889",
+      "paper_type": "primary research",
+      "summary": "A custom ultra-low-cost bioprinter was built and tested with mouse radial glial neural stem cells and mesenchymal stem cells in alginate/gelatin inks; cells grew and kept their ability to differentiate.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC8387028",
+      "title": "Toward a neurospheroid niche model: optimizing embedded 3D bioprinting for fabrication of neurospheroid brain-like co-culture constructs.",
+      "journal": "Biofabrication",
+      "year": 2020,
+      "authors": [
+        "Li YE",
+        "Jodat YA",
+        "Samanipour R",
+        "Zorzi G",
+        "Zhu K",
+        "Hirano M",
+        "Chang K",
+        "Arnaout A",
+        "Hassan S",
+        "Matharu N",
+        "Khademhosseini A",
+        "Hoorfar M",
+        "Shin SR"
+      ],
+      "doi": "10.1088/1758-5090/abc1be",
+      "paper_type": "primary research",
+      "summary": "Neural spheroids were printed inside a soft GelMA support bath laden with astrocytes to build brain-like co-culture constructs. The 5% GelMA bath matched brain stiffness (~0.7 kPa) while allowing embedded printing.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC6721723",
+      "title": "Bioink Composition and Printing Parameters for 3D Modeling Neural Tissue.",
+      "journal": "Cells",
+      "year": 2019,
+      "authors": [
+        "Fantini V",
+        "Bordoni M",
+        "Scocozza F",
+        "Conti M",
+        "Scarian E",
+        "Carelli S",
+        "Di Giulio AM",
+        "Marconi S",
+        "Pansarasa O",
+        "Auricchio F",
+        "Cereda C"
+      ],
+      "doi": "10.3390/cells8080830",
+      "paper_type": "primary research",
+      "summary": "Sodium alginate and gelatin blends were screened as bioinks for printing neural cells. A 6% alginate / 4% gelatin ink printed at 45-70 kPa gave good shape fidelity and supported SH-SY5Y viability.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC6832547",
+      "title": "3D Bioprinted Human Cortical Neural Constructs Derived from Induced Pluripotent Stem Cells.",
+      "journal": "Journal of clinical medicine",
+      "year": 2019,
+      "authors": [
+        "Salaris F",
+        "Colosi C",
+        "Brighi C",
+        "Soloperto A",
+        "Turris V",
+        "Benedetti MC",
+        "Ghirga S",
+        "Rosito M",
+        "Di Angelantonio S",
+        "Rosa A"
+      ],
+      "doi": "10.3390/jcm8101595",
+      "paper_type": "primary research",
+      "summary": "A custom coaxial microfluidic extrusion printer built layered meshes of hiPSC-derived cortical neurons and glia in alginate/Matrigel fibres. Constructs stayed partly viable and functional up to 50 days after printing.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC7050497",
+      "title": "Bioprinting of stem cell expansion lattices.",
+      "journal": "Acta biomaterialia",
+      "year": 2019,
+      "authors": [
+        "Lindsay CD",
+        "Roth JG",
+        "LeSavage BL",
+        "Heilshorn SC"
+      ],
+      "doi": "10.1016/j.actbio.2019.05.014",
+      "paper_type": "primary research",
+      "summary": "Alginate lattices were printed with neural progenitor cells to expand them in 3D for cell manufacturing. Alginate stiffness (30 Pa to 1 kPa) changed how well the cells expanded.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC7310269",
+      "title": "Conductive collagen/polypyrrole-b-polycaprolactone hydrogel for bioprinting of neural tissue constructs.",
+      "journal": "International journal of bioprinting",
+      "year": 2019,
+      "authors": [
+        "Vijayavenkataraman S",
+        "Vialli N",
+        "Fuh JYH",
+        "Lu WF"
+      ],
+      "doi": "10.18063/ijb.v5i2.1.229",
+      "paper_type": "primary research",
+      "summary": "A conductive bioink of collagen with polypyrrole-block-polycaprolactone was developed for printing neural tissue constructs; adding the conductive polymer raised the gel's modulus and print fidelity.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    },
+    {
+      "pmcid": "PMC7319181",
+      "title": "3D Printed Stem-Cell Derived Neural Progenitors Generate Spinal Cord Scaffolds.",
+      "journal": "Advanced functional materials",
+      "year": 2018,
+      "authors": [
+        "Joung D",
+        "Truong V",
+        "Neitzke CC",
+        "Guo SZ",
+        "Walsh PJ",
+        "Monat JR",
+        "Meng F",
+        "Park SH",
+        "Dutton JR",
+        "Parr AM",
+        "McAlpine MC"
+      ],
+      "doi": "10.1002/adfm.201801850",
+      "paper_type": "primary research",
+      "summary": "Clusters of iPSC-derived spinal neural progenitors and oligodendrocyte progenitors were printed in Matrigel into channels of a 3D-printed scaffold to build a spinal cord model. Cells stayed over 75% viable and extended axons along the channels.",
+      "extracted_by": "Claude (Claude Code session), pending human review",
+      "n_formulations": 1
+    }
+  ],
+  "formulations": [
+    {
+      "id": "PMC10207712-1",
+      "pmcid": "PMC10207712",
+      "year": 2023,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 9,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 83.78,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 45,
+      "neural_markers": [],
+      "disease": "Alzheimer's disease",
+      "review_notes": "Pressure converted from 90 mbar (bioink channel); crosslinker 100 mbar, buffer 500 mbar.",
+      "confidence": "high",
+      "name": "Fibrin bioink (AD, no microspheres)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for AD constructs without microspheres.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "fibrinogen (cat no. 341578, EMD Millipore, Burlington, MA, USA) was prepared at a concentration of 20 mg/mL, 0.5% w/v sodium alginate",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "mixed with the primed neural progenitor cells (NPCs) at a concentration of 1 × 106 cells/mL of bioink",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressures were set at 100 mbar, 90 mbar, and 500 mbar for the crosslinker, bioink, and buffer, respectively.",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "A printing speed of 25 mm/s and a 40% rectilinear infill pattern were used",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "On day 1 directly after bioprinting, cell viability for the AD C group was 83.78 ± 4.96%",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC10207712-2",
+      "pmcid": "PMC10207712",
+      "year": 2023,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "purmorphamine-loaded PCL microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 9,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 92.16,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 45,
+      "neural_markers": [],
+      "disease": "Alzheimer's disease",
+      "review_notes": "Pressure converted from 90 mbar. The large day-30 drop vs. the no-microsphere group is worth discussing with the authors.",
+      "confidence": "high",
+      "name": "Fibrin bioink + purmorphamine PCL microspheres (AD)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin; PCL microspheres 1 mg/mL",
+      "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Microspheres raised day-1 viability to 92.2%, but viability fell to 43.9% by day 30.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "additives",
+          "quote": "The bioink including cells and PCL microspheres encapsulated with puro were used to print tissue constructs.",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressures were set at 100 mbar, 90 mbar, and 500 mbar for the crosslinker, bioink, and buffer, respectively.",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "A printing speed of 25 mm/s and a 40% rectilinear infill pattern were used",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "AD CM had a viability of 92.16 ± 5.94%",
+          "verified": true
+        },
+        {
+          "field": "viability_percent (day 30)",
+          "quote": "the AD CM group with a viability of 43.92 ± 12.52%",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC10761197-1",
+      "pmcid": "PMC10761197",
+      "year": 2024,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": "2 x 10^5 cells/mL",
+      "printer": "Medprin extrusion bioprinter",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 86.65,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "10% gelatin + 1% alginate (glioma stem cells)",
+      "base_materials": [
+        "gelatin",
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "10% gelatin + 1% sodium alginate",
+      "cell_type": "glioma stem cells (GSC23)",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed GSCs were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition / density",
+          "quote": "to reach a final concentration of 10% gelatin, 1% sodium alginate and 2 × 105/ml GSC23 cells",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "the cell viability of GSCs in 3D bioprinted hydrogel scaffold and hybrid hydrogel was 86.65 ± 1.64% and 92.71 ± 1.33%, respectively",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "GSC models were generated using an extrusion bioprinter (Medprin Regenerative Medical Technologies Co., Ltd., Guangzhou, China)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC10883639-1",
+      "pmcid": "PMC10883639",
+      "year": 2024,
+      "crosslinking": "thrombin",
+      "additives": [],
+      "cell_density": "1 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [
+        "FOXG1",
+        "PAX6"
+      ],
+      "disease": null,
+      "review_notes": "Viability given as 'about 80%'. Also compared: Matrigel (92% viable, clogged the nozzle) and hyaluronic acid (85%).",
+      "confidence": "medium",
+      "name": "Soft fibrin gel (2.5 mg/mL fibrinogen, 0.5 U thrombin)",
+      "base_materials": [
+        "fibrinogen",
+        "thrombin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2.5 mg/mL fibrinogen gelled with 0.5 U thrombin (gelation ~145 s)",
+      "cell_type": "cortical neural progenitors and astrocyte progenitors",
+      "cell_source": "human ESC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed neurons formed functional cortical-to-striatal circuits; about 80% of cells stayed viable for 7 days.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "We chose 2.5 mg/mL fibrinogen and 0.5 U thrombin for hydrogel construction, yielding a gelation time of about 145 ± 10 seconds",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "more than 85% of the cells survived after 6 hours of culturing in the fibrin gel and about 80% of the cells retained viable for 7 days",
+          "verified": true
+        },
+        {
+          "field": "cell_source",
+          "quote": "The cortical NPCs, differentiated from GFP- or mCherry-labeled hESCs for 21 days, expressed forebrain cortical progenitor markers FOXG1 and PAX6",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "The cells were centrifuged and resuspended with 20 mg/mL fibrinogen solution at a density of 1 × 107/mL.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC10953436-1",
+      "pmcid": "PMC10953436",
+      "year": 2023,
+      "crosslinking": null,
+      "additives": [
+        "RGD peptide",
+        "YIGSR peptide"
+      ],
+      "cell_density": "10 x 10^6 cells/mL (NPCs, iBMECLs); 5 x 10^6 cells/mL (astrocytes)",
+      "printer": "Inventia RASTRUM",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1.5,
+      "stiffness_note": "matrix stiffness matched to human brain",
+      "viability_percent": 82.2,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print method inferred from the RASTRUM droplet system; confirm.",
+      "confidence": "medium",
+      "name": "PEG + RGD + YIGSR + collagen IV (1.5 kPa)",
+      "base_materials": [
+        "PEG",
+        "collagen IV"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "PEG-based matrix with RGD and YIGSR peptides and 3 mg/mL collagen IV, 1.5 kPa",
+      "cell_type": "astrocytes, neural progenitors, brain endothelial-like cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "inkjet/droplet",
+      "key_outcome": "Printed iPSC astrocytes were 82% viable at day 1 and developed typical astrocyte morphology.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "full‐length collagen IV at a stiffness similar to the human brain (1.5 kPa)",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "iPSC‐derived astrocytes were printed with good viability (82.2% ± 10.1 SD)",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "containing 3 mg/mL collagen IV at 10 × 106 cells/mL for iPSC‐derived BMEC‐like cells (iBMECLs), and neural progenitor cells (NPCs) and 5 × 106 cells/mL for astrocytes",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11176035-1",
+      "pmcid": "PMC11176035",
+      "year": 2024,
+      "crosslinking": "thrombin",
+      "additives": [
+        "aprotinin"
+      ],
+      "cell_density": "3 x 10^6 cells/mL (GBM)",
+      "printer": "RegenHU",
+      "nozzle": "21 G ring / 26 G tumour dot",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Fibrinogen + 6% gelatin (neurovascular ring + GBM dot)",
+      "base_materials": [
+        "fibrinogen",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2.5-5 mg/mL fibrinogen with 6% gelatin and aprotinin; tumour dot in 6% gelatin (bioink C)",
+      "cell_type": "astrocytes, pericytes, brain endothelial cells + JHH-520 GBM cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "The printed neurovascular unit let patient GBM cells grow in a brain-like microenvironment for tumour studies.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "These three types (A: 5 mg ml−1 fibrinogen with 6% gelatin and aprotinin.",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "A ring pattern was printed through with a 21G needle (inner diameter of 0.514 mm)",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "a dot pattern was printed at the center of the ring structure of NVU with JHH520 cells in 3 million cells ml−1 concentration in bioink‐C via 26G needle",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11334787-1",
+      "pmcid": "PMC11334787",
+      "year": 2024,
+      "crosslinking": "UV (15 s) then CaCl2 0.2% + thrombin 10 U/mL",
+      "additives": [
+        "melt electrowritten microfibres"
+      ],
+      "cell_density": null,
+      "printer": "custom multi-material printer",
+      "nozzle": null,
+      "pressure_kpa": 32,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": "5% GelMA alone 8.48 kPa; fibrin lowers modulus (1.67 kPa at 1.5%)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 320 mbar. Modulus for the chosen G5F0.5 blend is not stated as a single number.",
+      "confidence": "medium",
+      "name": "5% GelMA + 0.5% fibrinogen (G5F0.5)",
+      "base_materials": [
+        "GelMA",
+        "fibrinogen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% w/v GelMA + 0.5% w/v fibrinogen",
+      "cell_type": "PC12 cells and glial cells in layers",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "10 µm cross-layer fibres guided neurite direction; glial layers promoted PC12 migration.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "a concentration of 5 % GelMA and 0.5 % Fib was selected as the matrix material for constructing the biomimetic cortical model in this study",
+          "verified": true
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "DIW 320 10 100 – 24",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "the compression modulus of the G5 group (8.48 kPa) was closer to the modulus of natural cortical tissue",
+          "verified": true
+        },
+        {
+          "field": "cell_type",
+          "quote": "glial cells significantly promoted the migration of surrounding PC12 cells towards the glial layer but did not contribute to the extension of neurites",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11468931-1",
+      "pmcid": "PMC11468931",
+      "year": 2022,
+      "crosslinking": "bioorthogonal click chemistry (SPAAC)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "27 G",
+      "pressure_kpa": 1,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 52,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Viability reported as a range (50-55%); midpoint recorded. lt-NES species/source not captured.",
+      "confidence": "medium",
+      "name": "1% HA:PEG + laminin (click-crosslinked)",
+      "base_materials": [
+        "hyaluronic acid",
+        "PEG",
+        "laminin"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "1% (w/v) HA-BCN:PEG with azide-modified laminin",
+      "cell_type": "neuroepithelial stem cells (lt-NES) and SH-SY5Y",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Laminin-presenting HA gels supported neuronal culture and could be printed at very low pressure.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "printer / pressure / speed",
+          "quote": "Bioprinting was conducted using a Cellink BioX equipped with a 27G needle at 1 kPa pressure and 25 mm s−1",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Cell viabilities of about 50–55% were obtained with no difference between the two conditions",
+          "verified": true
+        },
+        {
+          "field": "composition",
+          "quote": "3D bioprinted structures based on the HA:PEG‐LN hydrogels at a concentration of 1% (w/v).",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11468953-1",
+      "pmcid": "PMC11468953",
+      "year": 2021,
+      "crosslinking": "ionic (Ca2+)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "EnvisionTEC 3D-Bioplotter",
+      "nozzle": "200 µm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "elastic moduli within the range of brain stiffness",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Paper also uses a 1% ALG/0.01% LAM blend; which blend was printed vs cast should be checked.",
+      "confidence": "medium",
+      "name": "1.5% alginate / 0.5% gellan gum + laminin",
+      "base_materials": [
+        "alginate",
+        "gellan gum",
+        "laminin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1.5% ALG / 0.5% GG blend (laminin-supplemented variants)",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Different ALG/GG/LAM blends steered hiPSC-NPCs into distinct neural 3D models.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The 1.5% ALG/0.5% GG blend was prepared by mixing 3% (w/v) ALG stock solution to 1.5% (w/v) GG stock solution",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "The printing was carried out with an EnvisioTEC 3D‐Bioplotter (Manufacturers Series), using a nozzle with 200 µm inner diameter",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "The elastic moduli of the hydrogel blends lay within the range of brain stiffness.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11469067-1",
+      "pmcid": "PMC11469067",
+      "year": 2023,
+      "crosslinking": "Ca2+ from support bath, then alginate lysis",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom syringe extrusion printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1,
+      "stiffness_note": "after lysis (~1 kPa); A5 before lysis 1.96 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Cell types and sources not fully captured from the text.",
+      "confidence": "medium",
+      "name": "0.5% alginate + 0.1% collagen (A5C1) in gelatin bath",
+      "base_materials": [
+        "alginate",
+        "collagen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "0.5% w/v alginate + 0.1% w/v collagen; support bath 4.5% gelatin + 0.2% CaCl2",
+      "cell_type": "neurovascular unit cells (glia, endothelial cells)",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Low-viscosity ink printed at ~10 µm resolution and softened to brain-like ~1 kPa after lysis.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The group with 0.5% [w/v] sodium alginate/ 0.1% [w/v] collagen (A5C1) was set to be the experimental/testing group",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "the lysis processing can decrease the hydrogels’ modulus to ≈1 kPa",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "A syringe‐based extrusion printer was custom‐designed and produced.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11616263-1",
+      "pmcid": "PMC11616263",
+      "year": 2024,
+      "crosslinking": "thrombin",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": "Viability is a threshold ('above 80%'). Which parts were printed vs cast should be checked.",
+      "confidence": "medium",
+      "name": "Fibrin gel (4 mg/mL) in printed microfluidic hydrogel",
+      "base_materials": [
+        "fibrinogen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "4 mg/mL fibrinogen with 1 U/mL thrombin",
+      "cell_type": "U87 glioblastoma cells, astrocytes, brain endothelial cells",
+      "cell_source": "cell line",
+      "print_method": "light-based (DLP/SLA)",
+      "key_outcome": "All cell types stayed above 80% viable; the model showed GBM heterogeneity and drug resistance.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "were used at the final concentration of 4 mg mL−1 and 1 U mL−1, respectively to obtain fibrin gel",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "All the cell types maintain cell viability above 80% while cultured on the 3D‐bioprinted model.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11617618-1",
+      "pmcid": "PMC11617618",
+      "year": 2024,
+      "crosslinking": "Ca2+ from sacrificial Pluronic core",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DX Bioprinter (T&R Biofab)",
+      "nozzle": "coaxial 14G/18G",
+      "pressure_kpa": 30,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 95,
+      "viability_day": 14,
+      "viability_assay": null,
+      "culture_days": 14,
+      "neural_markers": [],
+      "disease": "neuroinflammation",
+      "review_notes": "Viability is a threshold ('>95%'). Shell pressure 30 kPa; core 110 kPa.",
+      "confidence": "high",
+      "name": "Cerebrovascular dECM (2.4%) + 0.6% alginate",
+      "base_materials": [
+        "decellularized cerebrovascular ECM",
+        "alginate"
+      ],
+      "material_class": "decellularized matrix",
+      "composition_detail": "2.4% CBVdECM + 0.6% sodium alginate, core of Pluronic F-127 + CaCl2",
+      "cell_type": "human brain microvascular endothelial cells (+ pericytes)",
+      "cell_source": "human primary/fetal",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Cerebrovascular-specific dECM bioink promoted barrier properties; viability stayed >95% over 14 days.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The final bioink contained 1× Dulbecco’s modified Eagle’s medium, 2.4% CBVdECM, and 0.6% sodium alginate.",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "at respective temperatures of 4 and 37 °C and respective pneumatic pressures of 30 and 110 kPa",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Although all groups showed similar cell viabilities of >95% after 14 d in culture",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11694092-1",
+      "pmcid": "PMC11694092",
+      "year": 2025,
+      "crosslinking": null,
+      "additives": [
+        "NGF",
+        "laminin"
+      ],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "32 G (100 µm)",
+      "pressure_kpa": 70,
+      "print_speed_mm_s": 15.1,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 0.7 bar (soft ink); stiff ink 2.3 bar at 19.0 mm/s. Neurons are hPSC-derived (ESC or iPSC not captured).",
+      "confidence": "medium",
+      "name": "Soft HA bioink + NGF + laminin (axon guidance)",
+      "base_materials": [
+        "hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Soft HA-based bioink supplemented with NGF and laminin; paired with a stiff HA bioink for structure",
+      "cell_type": "neurons",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "hPSC-derived neurons formed 3D networks in the soft ink with guidance cues, while the stiff ink restricted them.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "pressure / speed",
+          "quote": "pressures of 0.7 bar and 2.3 bar, speeds of 15.1 mm s−1 and 19.0 mm s−1",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "32 G (inner Ø 100 µm) blunt needles 0.50 inches in length (CellInk, USA) were used for printing.",
+          "verified": true
+        },
+        {
+          "field": "outcome",
+          "quote": "human pluripotent stem cell (hPSC) ‐derived neurons form a 3D neuronal network in the softer bioink supplemented with guidance cues",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11780150-1",
+      "pmcid": "PMC11780150",
+      "year": 2025,
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 91.83,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "G: 5% GelMA",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Day-7 NSC viability 91.83%.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "and G (91.83 ± 2.54 %) constructs",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11780150-2",
+      "pmcid": "PMC11780150",
+      "year": 2025,
+      "crosslinking": "photocrosslinking + reversible Schiff-base bonds",
+      "additives": [],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 95.52,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "GH: 5% GelMA + 1% OHA",
+      "base_materials": [
+        "GelMA",
+        "oxidized hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA + 1% OHA",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Day-7 NSC viability 95.52%.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "higher than that within the GH (95.52 ± 1.97 %)",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11780150-3",
+      "pmcid": "PMC11780150",
+      "year": 2025,
+      "crosslinking": "photocrosslinking + reversible Schiff-base bonds",
+      "additives": [
+        "BDNF-mimicking peptide (RGI)",
+        "N-cadherin-mimicking peptide (HAVDI)"
+      ],
+      "cell_density": "2 x 10^7 cells/mL",
+      "printer": null,
+      "nozzle": "260 µm",
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 20,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 96.26,
+      "viability_day": 7,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [
+        "NF",
+        "SYN"
+      ],
+      "disease": null,
+      "review_notes": "NSCs are from rodent hippocampus; confirm species.",
+      "confidence": "medium",
+      "name": "GHP: 5% GelMA + 1% OHA + 3 mM RGI + 3 mM HAVDI",
+      "base_materials": [
+        "GelMA",
+        "oxidized hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "5% GelMA + 1% OHA + 3 mM RGI + 3 mM HAVDI",
+      "cell_type": "neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "The dynamic peptide ink gave the highest day-7 NSC viability and the fastest neural network formation.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "G (5 % GelMA), GH (5 % GelMA and 1 % OHA), or GHP (5 % GelMA, 1 % OHA, 3 mM RGI, and 3 mM HAVDI)",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "the prepolymer solutions were used to resuspend NSCs (2 × 107 cells/mL) to form a homogeneous bioink",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "extrusion pressure: 5 kPa; printing speed: 20 mm/s",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "the viability of NSCs within the GHP construct reached 96.26 ± 2.33 %",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC11843594-1",
+      "pmcid": "PMC11843594",
+      "year": 2025,
+      "crosslinking": "UV photocrosslinking (365 nm)",
+      "additives": [
+        "MXene nanosheets (SP-modified)"
+      ],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "22 G (0.413 mm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 80,
+      "viability_day": 5,
+      "viability_assay": "Live/Dead and MTT",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Viability is given as a threshold ('above 80%'). The text gives the pressure range in mm/min (a unit error), so pressure is left null.",
+      "confidence": "medium",
+      "name": "20% SilMA + pectin + MXene-SP (conductive)",
+      "base_materials": [
+        "silk fibroin methacrylate",
+        "pectin",
+        "MXene"
+      ],
+      "material_class": "composite with nanomaterial",
+      "composition_detail": "20% SilMA series with pectin and SP-modified MXene",
+      "cell_type": "neural stem cell spheroids",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "All MXene groups stayed above 80% viability by day 5; softer gels promoted neuronal differentiation.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected the 20% SilMA series with SP-modified MXene",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "all groups exhibited cell viability above 80% by day 5",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "Extrusion parameters were configured in Ultimaker Cura to match the nozzle size (22g, 0.413 mm)",
+          "verified": true
+        },
+        {
+          "field": "cell_source",
+          "quote": "Primary cortical NSCs were isolated from embryonic day 16 (ED16) Wistar rat cortices",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12027382-1",
+      "pmcid": "PMC12027382",
+      "year": 2025,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "0.6 mm",
+      "pressure_kpa": 40,
+      "print_speed_mm_s": 100,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 40,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 0.4 bar.",
+      "confidence": "high",
+      "name": "1.5% alginate + 1% CMC + Matrigel (1:10)",
+      "base_materials": [
+        "alginate",
+        "carboxymethylcellulose",
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1.5% w/v sodium alginate, 1% w/v sodium carboxymethylcellulose, Matrigel diluted 1:10",
+      "cell_type": "neural embryoid bodies to cerebral organoids",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed organoids grew to ~2 mm by day 40, matching Matrigel-embedded organoids with far less Matrigel.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "the Matrigel® is diluted (1:10) in a solution enriched with 1.5 w/v% sodium alginate (SA), 1 w/v% of sodium carboxymethylcellulose (CMC)",
+          "verified": true
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "The experimental parameters used for the extrusion printing were a pressure of 0.4 bar, a speed of 100 mm/s, and a needle diameter of 0.6 mm",
+          "verified": true
+        },
+        {
+          "field": "outcome",
+          "quote": "By day 40, these organoids reached approximately 2 mm in diameter, matching the size observed at the same time point in Matrigel®-based cORGs.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12080301-1",
+      "pmcid": "PMC12080301",
+      "year": 2025,
+      "crosslinking": "chitosan crosslinker (0.075% w/v), printed into 0.5% agarose support bath",
+      "additives": [
+        "all-trans retinoic acid PCL microparticles"
+      ],
+      "cell_density": null,
+      "printer": "BIO X",
+      "nozzle": null,
+      "pressure_kpa": 15,
+      "print_speed_mm_s": 11,
+      "stiffness_kpa": null,
+      "stiffness_note": "storage/loss modulus by rheology (figure only)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "The methods sentence swaps units ('pressure ... 11 mm s−1 and the speed to 15 kPa'). Recorded as 15 kPa pressure and 11 mm/s speed; confirm with the authors.",
+      "confidence": "medium",
+      "name": "Fibrin bioink + atRA-PCL microparticles (acellular)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.3 mg/mL genipin, 1% w/v alginate",
+      "cell_type": "none",
+      "cell_source": "acellular",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Microparticles altered the fibrin ink's viscoelastic properties, a material-design step toward built-in neural differentiation cues.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "the final concentration in the bioink was: 20 mg mL−1 fibrinogen, 0.3 mg mL−1 genipin and 1% w/v sodium alginate",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "For all prints, the pressure was set to 11 mm s−1 and the speed to 15 kPa",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "3D printing was performed using a BioX 3D printer",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12169505-1",
+      "pmcid": "PMC12169505",
+      "year": 2025,
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X6",
+      "nozzle": "25 G tapered (250 µm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "elastic modulus ~50 kPa (10% GelMA) to 600 kPa (10G+15P700)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "10% GelMA + PEGDA hybrids",
+      "base_materials": [
+        "GelMA",
+        "PEGDA"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "10% GelMA with 5-15% PEGDA (MW 700-4000)",
+      "cell_type": "SH-SY5Y neuroblastoma",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Adding PEGDA slowed degradation and raised stiffness; cells spread in GelMA and 10G+5P700 gels.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "nozzle",
+          "quote": "All bioinks were printed using a 25G tapered nozzle (250 µm inner diameter).",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "The elastic modulus of hydrogels ranges from ≈50 kPa (10G) to 600 kPa (10G+15P700 )",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "The printability of the bioink was performed using an extrusion‐based bioprinter (BIOX6, CELLINK, Sweden).",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12376583-1",
+      "pmcid": "PMC12376583",
+      "year": 2025,
+      "crosslinking": "photocrosslinking (LAP)",
+      "additives": [],
+      "cell_density": "1.5 x 10^7 cells/mL",
+      "printer": "SUNP BIOTECH extrusion bioprinter",
+      "nozzle": "21 G (510 µm ID)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "Live/Dead + ATP quantification",
+      "culture_days": 10,
+      "neural_markers": [],
+      "disease": "ischemic stroke",
+      "review_notes": "Viability is reported as relative ATP (%) rather than percent live cells, so viability_percent is left null.",
+      "confidence": "high",
+      "name": "GelMA30 6% (3D neuMatrix)",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "6% (w/v) GelMA (30% methacrylation) with LAP photoinitiator",
+      "cell_type": "primary cortical neurons (E18)",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed neurons formed 3D networks with local and long-range functional axon connections; used as an ischemic stroke model.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition / cell_density",
+          "quote": "to a final concentration of 1.5×107 cells mL−1 in 6% (w/v) GelMA30",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "we have chosen a 21G nozzle with an inner diameter of 510 µm to reduce the shear force",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "The bioprinting process utilized an extrusion‐based bioprinter (SUNP BIOTECH)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12422755-1",
+      "pmcid": "PMC12422755",
+      "year": 2025,
+      "crosslinking": "photocrosslinking (Irgacure)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DBS Educational Starter Printer",
+      "nozzle": "22 G (0.413 mm ID)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": 3.3,
+      "stiffness_kpa": 0.1,
+      "stiffness_note": "storage modulus G' ~100 Pa at 1 Hz",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 110,
+      "neural_markers": [
+        "FABP7",
+        "NESTIN",
+        "GFAP"
+      ],
+      "disease": null,
+      "review_notes": "Viability shown qualitatively; no percentage in the text. Print method inferred from the methods description.",
+      "confidence": "medium",
+      "name": "Geltrex / GelMA blend",
+      "base_materials": [
+        "Geltrex",
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "8% (w/v) GelMA with Irgacure (0.25% final) blended with Geltrex",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "Printed hNPCs self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "An 8% (w/v) GelMA solution was prepared in PBS, and 0.5% (w/v) of the photoinitiator Irgacure was added",
+          "verified": true
+        },
+        {
+          "field": "print_speed / nozzle",
+          "quote": "The bioink was extruded from a 5 ml syringe at an average printing speed of 3.3 mm/s, using a 22 G needle",
+          "verified": true
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "oscillatory tests indicated that our hydrogel exhibited storage modulus values within this range as a 3D model (∼100 Pa)",
+          "verified": true
+        },
+        {
+          "field": "culture_days",
+          "quote": "remaining viable for over 110 days",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12648946-1",
+      "pmcid": "PMC12648946",
+      "year": 2025,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "27 G (0.200 mm)",
+      "pressure_kpa": 20,
+      "print_speed_mm_s": 15,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Matrix is printed; cells are seeded onto the printed droplets.",
+      "confidence": "high",
+      "name": "Cultrex ECM droplets (micropatterning)",
+      "base_materials": [
+        "Cultrex basement membrane extract"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Cultrex basement membrane extract printed as droplets",
+      "cell_type": "pluripotent stem cells to neuroepithelium",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Printed ECM droplets restrict hPSC growth to start single-lumen neural tube-like tissues.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "nozzle",
+          "quote": "Nozzle type: 27 gauge (0.200 mm);",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "Pressure: 20 kPa;",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "Print speed: 15.0 mm/s;",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12704128-1",
+      "pmcid": "PMC12704128",
+      "year": 2025,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": "1-1.5 x 10^6 cells/mL",
+      "printer": "Allevi 3",
+      "nozzle": "22 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "No viability percentage or print pressure in the text.",
+      "confidence": "high",
+      "name": "Matrigel (astrocyte core)",
+      "base_materials": [
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "undiluted Matrigel (also screened: 4 mg/mL collagen-1, 1% alginate, 1% alginate-RGD)",
+      "cell_type": "optic nerve head astrocytes",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Developing ONH astrocytes increased RGC neurite polarization by 43%.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "base_materials",
+          "quote": "printed using a 22 g needle in four previously published bioinks: undiluted matrigel, 4 mg/mL collagen-1, 1% alginate, and 1% alginate-modified with RGD cell binding domain peptides",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "Cells were resuspended in matrigel at 4°C at a concentration of 1–1.5 × 106 cells/mL",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "Bioprinting was conducted using an extrusion-based Allevi 3 bioprinter (3D systems).",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12822481-1",
+      "pmcid": "PMC12822481",
+      "year": 2026,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": "6.67 x 10^6 cells/mL",
+      "printer": "BIOMAKER 4 (SUNP BIOTECH)",
+      "nozzle": "0.30 mm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": 5,
+      "stiffness_kpa": null,
+      "stiffness_note": "compressive modulus 1-4 kPa during culture; shear modulus <1 kPa",
+      "viability_percent": 86.38,
+      "viability_day": 0,
+      "viability_assay": null,
+      "culture_days": 14,
+      "neural_markers": [],
+      "disease": "Alzheimer's disease",
+      "review_notes": "Stiffness is reported as a 1-4 kPa range, so stiffness_kpa is left null. Extrusion was volume-controlled (1 mm3/s), not pressure-controlled.",
+      "confidence": "high",
+      "name": "GEL10: gelatin / alginate / fibrinogen",
+      "base_materials": [
+        "gelatin",
+        "alginate",
+        "fibrinogen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2.56% gelatin, 0.14% alginate, 0.57% fibrinogen (w/v)",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "Viability 86.4% after printing and 77.0% at day 14; transplanted patches improved Alzheimer's-like dementia outcomes.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The bioink (2.56% gelatin, 0.14% alginate, 0.57% fibrinogen) formed stably and mimicked brain tissue mechanics.",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "the medium concentration (6.67 × 10⁶ cells·mL−1) was selected for further study",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "needle inner diameter of 0.30 mm, printing speed of 5 mm·s−1, and extrusion speed of 1 mm3·s−1",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "demonstrating 86.38 ± 1.25% viability post‐printing that stabilized to 76.99 ± 1.59% by DAY 14",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC12935268-1",
+      "pmcid": "PMC12935268",
+      "year": 2026,
+      "crosslinking": "20 mM Ca2+, then alginate lyase",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Alginate concentration and NSC source not captured.",
+      "confidence": "medium",
+      "name": "Alginate gel spots on electrospun fibres",
+      "base_materials": [
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Alginate gelled in 20 mM Ca2+ medium; later removed with alginate lyase",
+      "cell_type": "neural stem cells",
+      "cell_source": "other",
+      "print_method": "other",
+      "key_outcome": "Gel-encapsulated deposition placed hNSCs precisely on fibre substrates at low cost.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "crosslinking",
+          "quote": "the fiber substrate is soaked in a small volume of medium containing 20 mM Ca2+",
+          "verified": true
+        },
+        {
+          "field": "method",
+          "quote": "we opted for a simpler approach where the nozzle remained stationary and only injected a single population of cells",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC13044844-1",
+      "pmcid": "PMC13044844",
+      "year": 2026,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "25 G",
+      "pressure_kpa": 31.7,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": 2.34,
+      "stiffness_note": "Young's modulus, compression, crosslinked",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 15,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 4.6 psi. Cells were seeded onto printed scaffolds, not printed inside the ink.",
+      "confidence": "high",
+      "name": "PVA:ALG hybrid (16% PVA / 15% ALG)",
+      "base_materials": [
+        "polyvinyl alcohol",
+        "alginate"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "16 wt% PVA and 15 wt% alginate, 1:1 v/v",
+      "cell_type": "SH-SY5Y neuroblastoma (seeded on printed scaffold)",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Hybrid scaffolds kept SH-SY5Y cells viable for 15 days, outperforming 2D culture.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition / nozzle / pressure",
+          "quote": "Further characterizations were carried out using 16% PVA and 15% ALG, while a 25G nozzle and 4.6 psi pressure were utilized for bioprinting.",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "25G nozzle diameter, 10 mm/s printing speed, and 50% infill density",
+          "verified": true
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "the Young’s modulus increased from 1.6 kPa (N-XD) to 2.34 kPa (XD)",
+          "verified": true
+        },
+        {
+          "field": "cell_type",
+          "quote": "Neural cell proliferation, viability, and morphology were analyzed by culturing SH-SY5Y human neuroblastoma cells in 3D on hybrid scaffolds.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC6721723-1",
+      "pmcid": "PMC6721723",
+      "year": 2019,
+      "crosslinking": "CaCl2",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "0.41 mm",
+      "pressure_kpa": 55,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 7,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print speed converted from 600 mm/min. Viability reported relative to day 0, so no single percentage.",
+      "confidence": "high",
+      "name": "6% alginate + 4% gelatin",
+      "base_materials": [
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "6% sodium alginate, 4% gelatin",
+      "cell_type": "SH-SY5Y neuroblastoma",
+      "cell_source": "cell line",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "6% alginate / 4% gelatin printed at 25 °C and 45-70 kPa was the best balance of printability and viability.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "pressure_kpa",
+          "quote": "printed using a temperature of 25 °C and a pressure of 55 kPa for 6%SA–4% GEL bioink and 45 kPa for 4% SA–4% GEL bioink",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "the print-head speed was set at 600 mm/min and the layer height at 0.4 mm",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "Cartridge was equipped with a 0.41 mm nozzle.",
+          "verified": true
+        },
+        {
+          "field": "composition",
+          "quote": "Our results demonstrated that the optimal conditions were 6% SA and 4% GEL, printed at 25 °C and with a pressure of 45–70 kPa.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC6832547-1",
+      "pmcid": "PMC6832547",
+      "year": 2019,
+      "crosslinking": "CaCl2 (coaxial) then alginate lyase digestion",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom coaxial microfluidic printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": 4,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 68,
+      "viability_day": 50,
+      "viability_assay": "Live/Dead",
+      "culture_days": 50,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Speed converted from 240 mm/min. Viability measured on one construct (nine fields).",
+      "confidence": "high",
+      "name": "2% alginate + 0.5x Matrigel microfibres",
+      "base_materials": [
+        "alginate",
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2% w/v alginate + 0.5x Matrigel, crosslinked with 0.33 mM CaCl2, then alginate lyase",
+      "cell_type": "cortical neurons and glia",
+      "cell_source": "human iPSC-derived",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Printed hiPSC cortical constructs stayed 68% viable 50 days after printing.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "We obtained the best results using a solution containing 2% w/v alginate and 0.5× Matrigel (~50% dilution from stock), printed using 0.33 mM CaCl2 crosslinking solution",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "deposited at a speed of 240 mm/min",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "viability was consistently maintained over time as assessed by live/dead staining up to DPP50 (68 ± 8% live cells",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7026266-1",
+      "pmcid": "PMC7026266",
+      "year": 2020,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "guggulsterone-loaded microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 92,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + guggulsterone-loaded microspheres (GM)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Guggulsterone microspheres gave the highest day-7 viability (98%) and supported TH+ dopaminergic neurons at day 30.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively.",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)",
+          "verified": true
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7026266-2",
+      "pmcid": "PMC7026266",
+      "year": 2020,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "unloaded microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 78,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + unloaded microspheres (UM)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Unloaded microspheres: 78% viability on day 1, 94% on day 7.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively.",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)",
+          "verified": true
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7026266-3",
+      "pmcid": "PMC7026266",
+      "year": 2020,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "soluble guggulsterone (no microspheres)"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 89,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + soluble guggulsterone (no microspheres) (SG)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Soluble drug: 89% viability on day 1, 91% on day 7.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively.",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)",
+          "verified": true
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7050497-1",
+      "pmcid": "PMC7050497",
+      "year": 2019,
+      "crosslinking": "CaSO4 pre-crosslink, printed into gelatin/CaCl2 support",
+      "additives": [
+        "RGD peptide (some formulations)"
+      ],
+      "cell_density": "30 x 10^6 cells/mL",
+      "printer": null,
+      "nozzle": "22 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1,
+      "stiffness_note": "G' ~1 kPa (stiffest); 0.1 kPa intermediate; 0.03 kPa softest",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "NPC species/source not captured.",
+      "confidence": "medium",
+      "name": "2% alginate, 8 mM Ca2+ (stem cell expansion lattice)",
+      "base_materials": [
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2% w/v alginate (LVG/VLVG blends) pre-crosslinked with 8 mM Ca2+; RGD variant",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Printed alginate lattices allowed 3D expansion of NPCs for biomanufacturing, with stiffness affecting growth.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition / density",
+          "quote": "Alginate bioinks (8 mM Ca2+, 30 ×106 NPCs/mL, 2% w/v) were extruded through a 22-gauge needle",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "with the stiffest gels (plateau storage shear modulus, G′ ~ 1 kPa) using a large molecular weight alginate",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7310269-1",
+      "pmcid": "PMC7310269",
+      "year": 2019,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "modulus rises with PPy-b-PCL; highest at 2%",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Cell type and viability not found in the extracted text; check the paper.",
+      "confidence": "low",
+      "name": "4% collagen + PPy-b-PCL (conductive)",
+      "base_materials": [
+        "collagen",
+        "polypyrrole-b-polycaprolactone"
+      ],
+      "material_class": "composite with nanomaterial",
+      "composition_detail": "4% (w/v) collagen type I with 0.5-2% PPy-b-PCL",
+      "cell_type": "not captured",
+      "cell_source": "other",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "Conductive polymer increased the collagen ink's mechanical integrity for neural constructs.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "A concentration of 4% (w/v) Collagen Type 1 was used.",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "the mechanical integrity of the collagen hydrogel increases with increasing concentration of PPy-b-PCL",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: low"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7319181-1",
+      "pmcid": "PMC7319181",
+      "year": 2018,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "100 µm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 75,
+      "viability_day": 4,
+      "viability_assay": null,
+      "culture_days": 4,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Viability is a threshold ('>75%'). Gelatin/fibrin and GelMA matrices dropped to 20% viability by day 4.",
+      "confidence": "high",
+      "name": "50% Matrigel cell clusters in printed scaffold",
+      "base_materials": [
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "50% Matrigel cell-laden ink; scaffolds printed from alginate/PEGDA/GelMA/gelatin-fibrin inks",
+      "cell_type": "spinal neural progenitors and oligodendrocyte progenitors",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Cells printed in 50% Matrigel stayed >75% viable over 4 days, unlike GelMA or gelatin/fibrin (20% by day 4).",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "Based on the appropriate balance of cell viability and morphology, 50% Matrigel concentration was chosen for the cell-laden bioink.",
+          "verified": true
+        },
+        {
+          "field": "viability_percent",
+          "quote": "The overall cell viability over 4 days in culture was >75% for both iPSC-derived sNPCs and OPCs when printed in 50% Matrigel",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "extrude the different bio-inks through the micronozzle with a 100 μm inner diameter",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7608409-1",
+      "pmcid": "PMC7608409",
+      "year": 2020,
+      "crosslinking": "photocrosslinking (DLP)",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 2.8,
+      "stiffness_note": "tumour core; brain-like periphery 0.9 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": "Print method inferred from the 'rapid 3D bioprinting' light-based system used by this group; confirm.",
+      "confidence": "medium",
+      "name": "4% GelMA + 0.25% GMHA (GBM core)",
+      "base_materials": [
+        "GelMA",
+        "methacrylated hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "4% GelMA + 0.25% GMHA (cell-laden), LAP photoinitiator",
+      "cell_type": "glioblastoma stem cells, macrophages, astrocytes, neural progenitors",
+      "cell_source": "human primary/fetal",
+      "print_method": "light-based (DLP/SLA)",
+      "key_outcome": "Printed GBM tissues reproduced tumour-macrophage dependencies and immune interactions.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "Cells were encapsulated into a material mixture of 4% GelMA (at 95% degree of methacrylation) and 0.25% GMHA",
+          "verified": true
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "The stiffness of cell-encapsulated tumor core was 2.8 ± 0.6 kPa, while the less populated peripheral region containing NPCs and astrocytes was 0.9 ± 0.2 kPa.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC7676439-1",
+      "pmcid": "PMC7676439",
+      "year": 2020,
+      "crosslinking": "CaCl2",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom ultra-low-cost bioprinter",
+      "nozzle": "25 G (0.26 mm)",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "0.8% alginate + 0.5% gelatin (radial glia)",
+      "base_materials": [
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "0.8% w/v sodium alginate + 0.5% w/v gelatin",
+      "cell_type": "radial glial neural stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "A very cheap custom printer supported neural stem cell growth and differentiation.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "a 0.8% (w/v) sodium alginate and 0.5% (w/v) gelatin bioink was synthesized for the pRGCs",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "in this case a 25-gauge needle with 0.26 mm diameter",
+          "verified": true
+        },
+        {
+          "field": "cells",
+          "quote": "primary radial glial (pRGCs) stem cells, a neural stem cell population derived from mice subventricular zone",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC8049977-1",
+      "pmcid": "PMC8049977",
+      "year": 2021,
+      "crosslinking": "photocrosslinking (DLP)",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 7,
+      "stiffness_note": "tumour core designed to match GBM tissue; brain region 0.45 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "GelMA + methacrylated hyaluronic acid (stiff tumour core)",
+      "base_materials": [
+        "GelMA",
+        "methacrylated hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "GelMA and GMHA blends tuned to 7 kPa (tumour) and 0.45 kPa (brain)",
+      "cell_type": "glioblastoma stem cells + endothelial cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "light-based (DLP/SLA)",
+      "key_outcome": "Stiff tumour regions and soft brain regions in one print reproduced GBM's biophysical heterogeneity.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "Matrix stiffness of the tumor core and the endothelial regions was designed to mimic that of GBM patient tissues (7 kPa) and normal brain tissues (0.45 kPa).",
+          "verified": true
+        },
+        {
+          "field": "print_method",
+          "quote": "Flexibility of the DLP-based bioprinting process and versatile material selection allow orthogonal modulation of biophysical properties and biochemical characteristics.",
+          "verified": true
+        },
+        {
+          "field": "cells",
+          "quote": "Human patient derived glioblastoma stem cells (TS576) were obtained from Dr.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC8373143-1",
+      "pmcid": "PMC8373143",
+      "year": 2021,
+      "crosslinking": "thrombin + transglutaminase",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL (tumour, astrocytes)",
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 24.5,
+      "stiffness_note": "Young's modulus, compression, at 6% gelatin",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Fibrin 3D-bioink (1% fibrinogen + 6% gelatin)",
+      "base_materials": [
+        "fibrinogen",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "1% (w/v) fibrinogen, 6% (w/v) gelatin, 3% transglutaminase, 0.5 U/mL thrombin",
+      "cell_type": "patient-derived glioblastoma cells + astrocytes + microglia",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "A perfusable printed GBM model with stromal cells mimicked tumour growth and drug response.",
+      "application": "drug screening",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "Young’s modulus of 24.5 ± 2.6 kPa was achieved when the final gelatin concentration was 6% (w/v)",
+          "verified": true
+        },
+        {
+          "field": "composition",
+          "quote": "constant fibrinogen [1% (w/v)], Th (0.5 U/ml), and TG [3% (w/v)] and gelatin at serial concentrations",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "was mixed with Azurite-labeled PD-GB4 cells (1 × 106 cells/ml), GFP-labeled hAstro (1 × 106 cells/ml), and hMG (1 × 105 cells/ml)",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC8387028-1",
+      "pmcid": "PMC8387028",
+      "year": 2020,
+      "crosslinking": "UV photocrosslinking + CaCl2",
+      "additives": [],
+      "cell_density": "astrocytes 8 x 10^6 cells/mL in bath",
+      "printer": "Cellink Inkredible",
+      "nozzle": "30 G",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 0.7,
+      "stiffness_note": "compressive modulus of 5 wt% GelMA bath after UV",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Species/source of the spheroid cells not captured; check the methods.",
+      "confidence": "medium",
+      "name": "GelMA/gelatin/alginate ink in astrocyte-laden 5% GelMA bath",
+      "base_materials": [
+        "GelMA",
+        "gelatin",
+        "alginate"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Ink: 4 wt% GelMA, 1 wt% gelatin, 0.5 wt% alginate. Support bath: 5 wt% GelMA with 11 mM CaCl2",
+      "cell_type": "neural spheroids with astrocytes in the bath",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Embedded printing in a brain-soft GelMA bath allowed patterned neurospheroid/astrocyte co-cultures.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The bioink was prepared using 4 wt% GelMA, 1 wt% gelatin, 0.5 wt% alginate, and 0.25% PI dissolved in 40% HBSS, 60% MEM",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "The bioink was loaded into 1 ml syringes (BD) capped with 30 G needles (blunt, BD) and mounted on the extruder of a Cellink Inkredible bioprinter.",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "suspending astrocytes at a concentration of 8 × 106 cells ml−1 in a DMEM-based solution containing calcium chloride (CaCl2, 11 mM), PI (0.25 wt%), and freeze dried GelMA (5 wt%)",
+          "verified": true
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "The compressive modulus of the 5 wt% GelMA hydrogels post UV exposure was measured to be 0.7 ± 0.1 kPa",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC8394541-1",
+      "pmcid": "PMC8394541",
+      "year": 2021,
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [],
+      "cell_density": "2 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": 1,
+      "stiffness_note": "elastic modulus ~1 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": 12,
+      "neural_markers": [
+        "TH",
+        "TUJ1"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Viability is reported in figures; no single number in the text.",
+      "confidence": "high",
+      "name": "Fibrin bioink (MSC to dopaminergic neurons)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "mesenchymal stem cells differentiated to dopaminergic neurons",
+      "cell_source": "human MSC",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Printed MSCs expressed TH and TUJ1 after 12 days of dopaminergic induction.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The final concentration in the bioink for fibrinogen, sodium alginate, and genipin was 20 mg/mL, 0.5% w/v, and 0.3 mg/mL, respectively.",
+          "verified": true
+        },
+        {
+          "field": "cell_density",
+          "quote": "The MSCs were then thawed and mixed with the bioink at a concentration of 2 × 106 per 1 mL of bioink.",
+          "verified": true
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The pressure of the crosslinker, bioink and buffer were 60 mbar, 50 mbar, and 100 mbar, respectively.",
+          "verified": true
+        },
+        {
+          "field": "print_speed",
+          "quote": "The printing speed was 25 mm/s",
+          "verified": true
+        },
+        {
+          "field": "stiffness_kpa",
+          "quote": "the elastic modulus was around 1 kPa, which is the optimal stiffness for neuronal differentiation",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC8517394-1",
+      "pmcid": "PMC8517394",
+      "year": 2021,
+      "crosslinking": "3% CaCl2",
+      "additives": [],
+      "cell_density": "1 x 10^6 cells/mL (glioma shell)",
+      "printer": null,
+      "nozzle": "coaxial, 0.577 / 1.469 mm ID",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "2% alginate shell (glioma) / collagen core (HUVEC)",
+      "base_materials": [
+        "alginate",
+        "collagen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Shell: 2% sodium alginate with U118 glioma cells; core: 1 mg/mL collagen with HUVECs",
+      "cell_type": "U118 glioma cells + HUVEC endothelial cells",
+      "cell_source": "cell line",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Shell/core fibres let glioma-endothelial interaction and vessel-like formation be studied in a tubular structure.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "U118-RFP cells were resuspended in 2% sodium alginate solution as shell stream with a concentration of 1 × 106/ml",
+          "verified": true
+        },
+        {
+          "field": "core",
+          "quote": "to obtain a core stream with cell concentration of 1×105/ml and final collagen concentration of 1 mg/ml",
+          "verified": true
+        },
+        {
+          "field": "nozzle",
+          "quote": "The printing device is mainly consisted of a sheath/core nozzle, which composed of two concentric circles (inner diameters:0.577 mm, 1.469 mm, respectively).",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9059157-1",
+      "pmcid": "PMC9059157",
+      "year": 2022,
+      "crosslinking": "crosslinker added after printing (2-3 min)",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": null,
+      "pressure_kpa": 11,
+      "print_speed_mm_s": 15,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "Axolotl fibrin bioink on BIO X (protocol)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Fibrin-based bioink (Axolotl Biosciences); 2% alginate / 2% gelatin mixture also described",
+      "cell_type": "neural cells (protocol, cell line agnostic)",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Recommended 15 mm/s at 11 kPa on plates, 20 mm/s at 20 kPa into agarose support bath.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "pressure / speed",
+          "quote": "A speed of 15 mm/s and pressure of 11 kPa is recommended.",
+          "verified": true
+        },
+        {
+          "field": "support bath",
+          "quote": "A speed of 20 mm/s and a pressure of 20 kPa is recommended.",
+          "verified": true
+        },
+        {
+          "field": "composition",
+          "quote": "A mixture of 2% alginate/2% gelatin (w/v) is typically produced.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9141644-1",
+      "pmcid": "PMC9141644",
+      "year": 2022,
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "23 G (0.41 mm)",
+      "pressure_kpa": 45,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "amyotrophic lateral sclerosis",
+      "review_notes": "Bioink composition not found in the text (likely in supplementary material). Pressure range 45-70 kPa (lower bound recorded); speed converted from 600 mm/min.",
+      "confidence": "low",
+      "name": "Hydrogel construct for ALS patient motor neurons",
+      "base_materials": [
+        "hydrogel (composition not stated in text)"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Not stated in the main text",
+      "cell_type": "neural stem cells to motor neurons (healthy and sALS)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Healthy and sALS patient stem cells survived printing and differentiated into motor neurons in 3D.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "pressure / speed / nozzle",
+          "quote": "Bioink was printed using a 0.41 mm nozzle (23G) at 25 °C, with a printing speed of 600 mm/min and with a pressure between 45 and 70 kPa.",
+          "verified": true
+        },
+        {
+          "field": "cells",
+          "quote": "We reprogrammed healthy and sALS peripheral blood mononuclear cells (PBMCs) in iPSCs and differentiated them in neural stem cells (NSCs) in 2D.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: low"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9144715-1",
+      "pmcid": "PMC9144715",
+      "year": 2022,
+      "crosslinking": "microbial transglutaminase (enzymatic)",
+      "additives": [
+        "laminin"
+      ],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "0.41 mm",
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "alamarBlue",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Species of the boundary cap cells not captured (dissected from dorsal root ganglia). No absolute viability percentage.",
+      "confidence": "medium",
+      "name": "12% gelatin + 25 mg/mL transglutaminase",
+      "base_materials": [
+        "gelatin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "12% gelatin crosslinked with 25 mg/mL microbial transglutaminase, with laminin",
+      "cell_type": "boundary cap neural crest stem cells",
+      "cell_source": "rodent primary",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "12% gelatin/mTG gave good gelation and printability and the largest rise in viable cells from day 1 to 3.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected a mixture of 12% gelatin with 25 mg/mL mTG for 3D printing of three-layered structures",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "Three sets of scaffolds with 1, 3 and 5 layers were prepared with a BIO X syringe pump printhead (CELLINK AB, Gothenburg, Sweden)",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9830177-1",
+      "pmcid": "PMC9830177",
+      "year": 2022,
+      "crosslinking": "20 mg/mL CaCl2 + 1.7 µg/mL thrombin + 0.75 mg/mL chitosan",
+      "additives": [],
+      "cell_density": null,
+      "printer": "Cellink BIO X",
+      "nozzle": "18 G",
+      "pressure_kpa": 21,
+      "print_speed_mm_s": 2,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Human NPC source (iPSC/ESC/fetal) not captured.",
+      "confidence": "medium",
+      "name": "UTEP bioink: fibrin + HV/MV alginate + genipin",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrin, 20 mg/mL HV alginate, 10 mg/mL MV alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Low-pressure printing (21 kPa) of a fibrin/alginate ink formed clustered neural progenitor lattices.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "final concentrations of 20 mg/mL fibrin, 20 mg/mL high viscosity (HV) alginate (#154724, MP Biomedicals-ThermoFisher Scientific), 10 mg/mL medium viscosity (MV) alginate, and 0.3 mg/mL genipin",
+          "verified": true
+        },
+        {
+          "field": "pressure / speed",
+          "quote": "Low extrusion pressure of 21 kPa was used to ensure cell viability and create lattice patterns designed with SolidWorks (Concord, MA) at 2 mm/s",
+          "verified": true
+        },
+        {
+          "field": "crosslinking",
+          "quote": "Solutions of the crosslinker were prepared to have final concentrations of 20 mg/mL CaCl2, 1.7 μg/mL thrombin, and 0.75 mg/mL chitosan.",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9888471-1",
+      "pmcid": "PMC9888471",
+      "year": 2023,
+      "crosslinking": "click chemistry (SPAAC)",
+      "additives": [
+        "IKVAV peptide",
+        "cRGD peptide"
+      ],
+      "cell_density": "1.6 x 10^6 cells/mL",
+      "printer": "Cellink BIO X",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": "AlamarBlue",
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Print pressure/speed and a viability percentage were not found in the text.",
+      "confidence": "medium",
+      "name": "1% HA:PEG + IKVAV or cRGD peptide",
+      "base_materials": [
+        "hyaluronic acid",
+        "PEG"
+      ],
+      "material_class": "hybrid natural-synthetic",
+      "composition_detail": "1% (w/v) HA-BCN:(PEG-Az)8 with 1 mM peptide (IKVAV or cRGD)",
+      "cell_type": "fetal primary astrocytes and U87 glioblastoma cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Peptide-functionalized HA hydrogels supported astrocyte culture and could be bioprinted.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "cell_density",
+          "quote": "1.6 million cells/ml of FPA and U87 were encapsulated in 1% HA:PEG hydrogels containing 1 mM of either peptide",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "All 3D bioprinting was performed using a syringe extrusion printhead on a Cellink BIOX 3D bioprinter (BICO, U.S.A).",
+          "verified": true
+        }
+      ],
+      "needs_review": true,
+      "review_reasons": [
+        "agent confidence: medium"
+      ],
+      "reviewed": false
+    },
+    {
+      "id": "PMC9959598-1",
+      "pmcid": "PMC9959598",
+      "year": 2023,
+      "crosslinking": "photocrosslinking",
+      "additives": [],
+      "cell_density": null,
+      "printer": "3DBS Educational Starter Printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "the four bioinks ranged 5-45 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [
+        "NESTIN",
+        "SOX2",
+        "PAX6"
+      ],
+      "disease": null,
+      "review_notes": null,
+      "confidence": "high",
+      "name": "4% GelMA (4GMA)",
+      "base_materials": [
+        "GelMA"
+      ],
+      "material_class": "natural",
+      "composition_detail": "4% GelMA",
+      "cell_type": "neural progenitor cells",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "4% GelMA was chosen for keeping cells viable with good printability; printed hNPCs became immature neurons.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "we selected the 4GMA_Gx composition for further bioprinting assays",
+          "verified": true
+        },
+        {
+          "field": "printer",
+          "quote": "Cells were bioprinted using a 3DBS Educational Starter Printer, which produced constructs measuring 4 × 4 × 1 mm.",
+          "verified": true
+        },
+        {
+          "field": "stiffness",
+          "quote": "The stiffness of the four bioinks presented in this work are 5 to 45 kPa and thus within that range.",
+          "verified": true
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

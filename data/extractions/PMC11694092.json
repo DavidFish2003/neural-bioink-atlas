@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC11694092",
+  "meta": {
+    "pmcid": "PMC11694092",
+    "title": "Hyaluronic Acid-Based 3D Bioprinted Hydrogel Structure for Directed Axonal Guidance and Modeling Innervation In Vitro.",
+    "journal": "Advanced healthcare materials",
+    "year": 2025,
+    "authors": [
+      "Honkamäki L",
+      "Kulta O",
+      "Puistola P",
+      "Hopia K",
+      "Emeh P",
+      "Isosaari L",
+      "Mörö A",
+      "Narkilahti S"
+    ],
+    "doi": "10.1002/adhm.202402504"
+  },
+  "extracted_at": "2026-11-22T13:35:56.688Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Soft and stiff hyaluronic acid bioinks were printed together to guide axons from stem cell-derived neurons, as a model of how nerves innervate tissue. The soft ink with NGF and laminin formed channels for axon growth.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [
+        "NGF",
+        "laminin"
+      ],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "32 G (100 µm)",
+      "pressure_kpa": 70,
+      "print_speed_mm_s": 15.1,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Pressure converted from 0.7 bar (soft ink); stiff ink 2.3 bar at 19.0 mm/s. Neurons are hPSC-derived (ESC or iPSC not captured).",
+      "confidence": "medium",
+      "name": "Soft HA bioink + NGF + laminin (axon guidance)",
+      "base_materials": [
+        "hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Soft HA-based bioink supplemented with NGF and laminin; paired with a stiff HA bioink for structure",
+      "cell_type": "neurons",
+      "cell_source": "other",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "hPSC-derived neurons formed 3D networks in the soft ink with guidance cues, while the stiff ink restricted them.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "pressure / speed",
+          "quote": "pressures of 0.7 bar and 2.3 bar, speeds of 15.1 mm s−1 and 19.0 mm s−1"
+        },
+        {
+          "field": "nozzle",
+          "quote": "32 G (inner Ø 100 µm) blunt needles 0.50 inches in length (CellInk, USA) were used for printing."
+        },
+        {
+          "field": "outcome",
+          "quote": "human pluripotent stem cell (hPSC) ‐derived neurons form a 3D neuronal network in the softer bioink supplemented with guidance cues"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

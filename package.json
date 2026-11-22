@@ -1,0 +1,18 @@
+{
+  "name": "bioinkagent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Agent-curated, evidence-checked database of bioinks for 3D bioprinting neural tissue.",
+  "scripts": {
+    "fetch": "node pipeline/fetch.mjs",
+    "references": "node pipeline/references.mjs",
+    "extract": "node --env-file-if-exists=.env pipeline/extract.mjs",
+    "build": "node pipeline/build.mjs",
+    "serve": "npx --yes http-server web -p 5173 -c-1",
+    "deploy": "npm run build && netlify deploy --prod --dir web --site c6b186e5-c645-4711-806c-96b4f30e6638"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.12.0"
+  }
+}

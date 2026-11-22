@@ -1,0 +1,75 @@
+{
+  "pmcid": "PMC12080301",
+  "meta": {
+    "pmcid": "PMC12080301",
+    "title": "Investigating How All-Trans Retinoic Acid Polycaprolactone (atRA-PCL) Microparticles Alter the Material Properties of 3D Printed Fibrin Constructs.",
+    "journal": "Macromolecular bioscience",
+    "year": 2025,
+    "authors": [
+      "Hangad MV",
+      "Forigua A",
+      "Scheck K",
+      "Willerth SM",
+      "Elvira KS"
+    ],
+    "doi": "10.1002/mabi.202400464"
+  },
+  "extracted_at": "2026-11-22T00:21:59.215Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "All-trans retinoic acid-loaded PCL microparticles were made with microfluidics and mixed into a fibrin bioink printed on a BIO X into an agarose support bath. The study measured how the microparticles change the ink's rheology and drug release.",
+  "formulations": [
+    {
+      "crosslinking": "chitosan crosslinker (0.075% w/v), printed into 0.5% agarose support bath",
+      "additives": [
+        "all-trans retinoic acid PCL microparticles"
+      ],
+      "cell_density": null,
+      "printer": "BIO X",
+      "nozzle": null,
+      "pressure_kpa": 15,
+      "print_speed_mm_s": 11,
+      "stiffness_kpa": null,
+      "stiffness_note": "storage/loss modulus by rheology (figure only)",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "The methods sentence swaps units ('pressure ... 11 mm s−1 and the speed to 15 kPa'). Recorded as 15 kPa pressure and 11 mm/s speed; confirm with the authors.",
+      "confidence": "medium",
+      "name": "Fibrin bioink + atRA-PCL microparticles (acellular)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.3 mg/mL genipin, 1% w/v alginate",
+      "cell_type": "none",
+      "cell_source": "acellular",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Microparticles altered the fibrin ink's viscoelastic properties, a material-design step toward built-in neural differentiation cues.",
+      "application": "method/protocol",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "the final concentration in the bioink was: 20 mg mL−1 fibrinogen, 0.3 mg mL−1 genipin and 1% w/v sodium alginate"
+        },
+        {
+          "field": "pressure_kpa / print_speed",
+          "quote": "For all prints, the pressure was set to 11 mm s−1 and the speed to 15 kPa"
+        },
+        {
+          "field": "printer",
+          "quote": "3D printing was performed using a BioX 3D printer"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

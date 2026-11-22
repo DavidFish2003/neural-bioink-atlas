@@ -1,0 +1,71 @@
+{
+  "pmcid": "PMC9141644",
+  "meta": {
+    "pmcid": "PMC9141644",
+    "title": "Patients' Stem Cells Differentiation in a 3D Environment as a Promising Experimental Tool for the Study of Amyotrophic Lateral Sclerosis.",
+    "journal": "International journal of molecular sciences",
+    "year": 2022,
+    "authors": [
+      "Scarian E",
+      "Bordoni M",
+      "Fantini V",
+      "Jacchetti E",
+      "Raimondi MT",
+      "Diamanti L",
+      "Carelli S",
+      "Cereda C",
+      "Pansarasa O"
+    ],
+    "doi": "10.3390/ijms23105344"
+  },
+  "extracted_at": "2026-11-22T13:34:00.088Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Blood cells from healthy donors and sporadic ALS patients were reprogrammed to iPSCs, turned into neural stem cells, printed in hydrogel constructs, and differentiated into motor neurons. Printed cells stayed viable and differentiated, supporting bioprinting for ALS research.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": "23 G (0.41 mm)",
+      "pressure_kpa": 45,
+      "print_speed_mm_s": 10,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "amyotrophic lateral sclerosis",
+      "review_notes": "Bioink composition not found in the text (likely in supplementary material). Pressure range 45-70 kPa (lower bound recorded); speed converted from 600 mm/min.",
+      "confidence": "low",
+      "name": "Hydrogel construct for ALS patient motor neurons",
+      "base_materials": [
+        "hydrogel (composition not stated in text)"
+      ],
+      "material_class": "natural",
+      "composition_detail": "Not stated in the main text",
+      "cell_type": "neural stem cells to motor neurons (healthy and sALS)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "extrusion (pneumatic)",
+      "key_outcome": "Healthy and sALS patient stem cells survived printing and differentiated into motor neurons in 3D.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "pressure / speed / nozzle",
+          "quote": "Bioink was printed using a 0.41 mm nozzle (23G) at 25 °C, with a printing speed of 600 mm/min and with a pressure between 45 and 70 kPa."
+        },
+        {
+          "field": "cells",
+          "quote": "We reprogrammed healthy and sALS peripheral blood mononuclear cells (PBMCs) in iPSCs and differentiated them in neural stem cells (NSCs) in 2D."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

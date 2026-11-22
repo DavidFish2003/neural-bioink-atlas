@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC12826543",
+  "meta": {
+    "pmcid": "PMC12826543",
+    "title": "Characterization of a Bioprinted Anticancer Cell Therapy System Generated with Continuous Liquid Interface Production.",
+    "journal": "Advanced nanobiomed research",
+    "year": 2025,
+    "authors": [
+      "Kass L",
+      "Keku I",
+      "Zhang Y",
+      "Forbes J",
+      "Thang M",
+      "Perry J",
+      "Hingtgen S"
+    ],
+    "doi": "10.1002/anbr.202500062"
+  },
+  "extracted_at": "2026-11-22T13:37:01.645Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Light-based printing of drug-secreting fibroblasts as a cell therapy after glioblastoma resection; the printed cells are not neural or tumour tissue.",
+  "formulations": []
+}

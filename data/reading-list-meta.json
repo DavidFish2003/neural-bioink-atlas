@@ -1,0 +1,1151 @@
+[
+  {
+    "pmcid": "PMC10418654",
+    "title": "Adipose-Derived Stem Cells Spontaneously Express Neural Markers When Grown in a PEG-Based 3D Matrix.",
+    "journal": "International journal of molecular sciences",
+    "year": 2023,
+    "authors": [
+      "Gomila Pelegri N",
+      "Stanczak AM",
+      "Bottomley AL",
+      "Milthorpe BK",
+      "Gorrie CA",
+      "Padula MP",
+      "Santos J"
+    ],
+    "doi": "10.3390/ijms241512139"
+  },
+  {
+    "pmcid": "PMC3170818",
+    "title": "Understanding complexity in the human brain.",
+    "journal": "Trends in cognitive sciences",
+    "year": 2011,
+    "authors": [
+      "Bassett DS",
+      "Gazzaniga MS"
+    ],
+    "doi": "10.1016/j.tics.2011.03.006"
+  },
+  {
+    "pmcid": "PMC6805046",
+    "title": "In-vitro blood-brain barrier models for drug screening and permeation studies: an overview.",
+    "journal": "Drug design, development and therapy",
+    "year": 2019,
+    "authors": [
+      "Bagchi S",
+      "Chhibber T",
+      "Lahooti B",
+      "Verma A",
+      "Borse V",
+      "Jayant RD"
+    ],
+    "doi": "10.2147/DDDT.S218708"
+  },
+  {
+    "pmcid": "PMC4029162",
+    "title": "Toward a 3D model of human brain development for studying gene/environment interactions.",
+    "journal": "Stem cell research & therapy",
+    "year": 2013,
+    "authors": [
+      "Hogberg HT",
+      "Bressler J",
+      "Christian KM",
+      "Harris G",
+      "Makri G",
+      "O'Driscoll C",
+      "Pamies D",
+      "Smirnova L",
+      "Wen Z",
+      "Hartung T"
+    ],
+    "doi": "10.1186/scrt365"
+  },
+  {
+    "pmcid": "PMC4394490",
+    "title": "Three-dimensional cell culture: a breakthrough in vivo.",
+    "journal": "International journal of molecular sciences",
+    "year": 2015,
+    "authors": [
+      "Antoni D",
+      "Burckel H",
+      "Josset E",
+      "Noel G"
+    ],
+    "doi": "10.3390/ijms16035517"
+  },
+  {
+    "pmcid": "PMC5021368",
+    "title": "Self-Organizing 3D Human Neural Tissue Derived from Induced Pluripotent Stem Cells Recapitulate Alzheimer's Disease Phenotypes.",
+    "journal": "PloS one",
+    "year": 2016,
+    "authors": [
+      "Raja WK",
+      "Mungenast AE",
+      "Lin YT",
+      "Ko T",
+      "Abdurrob F",
+      "Seo J",
+      "Tsai LH"
+    ],
+    "doi": "10.1371/journal.pone.0161969"
+  },
+  {
+    "pmcid": "PMC10883639",
+    "title": "3D bioprinting of human neural tissues with functional connectivity.",
+    "journal": "Cell stem cell",
+    "year": 2024,
+    "authors": [
+      "Yan Y",
+      "Li X",
+      "Gao Y",
+      "Mathivanan S",
+      "Kong L",
+      "Tao Y",
+      "Dong Y",
+      "Li X",
+      "Bhattacharyya A",
+      "Zhao X",
+      "Zhang SC"
+    ],
+    "doi": "10.1016/j.stem.2023.12.009"
+  },
+  {
+    "pmcid": "PMC7558359",
+    "title": "Human Pluripotent Stem Cell-Derived Neural Cells as a Relevant Platform for Drug Screening in Alzheimer's Disease.",
+    "journal": "International journal of molecular sciences",
+    "year": 2020,
+    "authors": [
+      "Garcia-Leon JA",
+      "Caceres-Palomo L",
+      "Sanchez-Mejias E",
+      "Mejias-Ortega M",
+      "Nuñez-Diaz C",
+      "Fernandez-Valenzuela JJ",
+      "Sanchez-Varo R",
+      "Davila JC",
+      "Vitorica J",
+      "Gutierrez A"
+    ],
+    "doi": "10.3390/ijms21186867"
+  },
+  {
+    "pmcid": "PMC7804132",
+    "title": "A logical network-based drug-screening platform for Alzheimer's disease representing pathological features of human brain organoids.",
+    "journal": "Nature communications",
+    "year": 2021,
+    "authors": [
+      "Park JC",
+      "Jang SY",
+      "Lee D",
+      "Lee J",
+      "Kang U",
+      "Chang H",
+      "Kim HJ",
+      "Han SH",
+      "Seo J",
+      "Choi M",
+      "Lee DY",
+      "Byun MS",
+      "Yi D",
+      "Cho KH",
+      "Mook-Jung I"
+    ],
+    "doi": "10.1038/s41467-020-20440-5"
+  },
+  {
+    "pmcid": "PMC7070004",
+    "title": "Amyloid-β42/40 ratio drives tau pathology in 3D human neural cell culture models of Alzheimer's disease.",
+    "journal": "Nature communications",
+    "year": 2020,
+    "authors": [
+      "Kwak SS",
+      "Washicosky KJ",
+      "Brand E",
+      "von Maydell D",
+      "Aronson J",
+      "Kim S",
+      "Capen DE",
+      "Cetinbas M",
+      "Sadreyev R",
+      "Ning S",
+      "Bylykbashi E",
+      "Xia W",
+      "Wagner SL",
+      "Choi SH",
+      "Tanzi RE",
+      "Kim DY"
+    ],
+    "doi": "10.1038/s41467-020-15120-3"
+  },
+  {
+    "pmcid": "PMC5328669",
+    "title": "Bioprinting the Cancer Microenvironment.",
+    "journal": "ACS biomaterials science & engineering",
+    "year": 2016,
+    "authors": [
+      "Zhang YS",
+      "Duchamp M",
+      "Oklu R",
+      "Ellisen LW",
+      "Langer R",
+      "Khademhosseini A"
+    ],
+    "doi": "10.1021/acsbiomaterials.6b00246"
+  },
+  {
+    "pmcid": "PMC6561629",
+    "title": "Layer-by-layer ultraviolet assisted extrusion-based (UAE) bioprinting of hydrogel constructs with high aspect ratio for soft tissue engineering applications.",
+    "journal": "PloS one",
+    "year": 2019,
+    "authors": [
+      "Zhuang P",
+      "Ng WL",
+      "An J",
+      "Chua CK",
+      "Tan LP"
+    ],
+    "doi": "10.1371/journal.pone.0216776"
+  },
+  {
+    "pmcid": "PMC9221440",
+    "title": "Surface-Fabrication of Fluorescent Hydroxyapatite for Cancer Cell Imaging and Bio-Printing Applications.",
+    "journal": "Biosensors",
+    "year": 2022,
+    "authors": [
+      "Wan W",
+      "Li Z",
+      "Wang X",
+      "Tian F",
+      "Yang J"
+    ],
+    "doi": "10.3390/bios12060419"
+  },
+  {
+    "pmcid": "PMC5028995",
+    "title": "Recent advances in bioprinting techniques: approaches, applications and future prospects.",
+    "journal": "Journal of translational medicine",
+    "year": 2016,
+    "authors": [
+      "Li J",
+      "Chen M",
+      "Fan X",
+      "Zhou H"
+    ],
+    "doi": "10.1186/s12967-016-1028-0"
+  },
+  {
+    "pmcid": "PMC8444304",
+    "title": "Bioprinting Neural Systems to Model Central Nervous System Diseases.",
+    "journal": "Advanced functional materials",
+    "year": 2020,
+    "authors": [
+      "Qiu B",
+      "Bessler N",
+      "Figler K",
+      "Buchholz MB",
+      "Rios AC",
+      "Malda J",
+      "Levato R",
+      "Caiazzo M"
+    ],
+    "doi": "10.1002/adfm.201910250"
+  },
+  {
+    "pmcid": "PMC3685281",
+    "title": "Digital micromirror device projection printing system for meniscus tissue engineering.",
+    "journal": "Acta biomaterialia",
+    "year": 2013,
+    "authors": [
+      "Grogan SP",
+      "Chung PH",
+      "Soman P",
+      "Chen P",
+      "Lotz MK",
+      "Chen S",
+      "D'Lima DD"
+    ],
+    "doi": "10.1016/j.actbio.2013.03.020"
+  },
+  {
+    "pmcid": "PMC3766354",
+    "title": "Microfabrication of complex porous tissue engineering scaffolds using 3D projection stereolithography.",
+    "journal": "Biomaterials",
+    "year": 2012,
+    "authors": [
+      "Gauvin R",
+      "Chen YC",
+      "Lee JW",
+      "Soman P",
+      "Zorlutuna P",
+      "Nichol JW",
+      "Bae H",
+      "Chen S",
+      "Khademhosseini A"
+    ],
+    "doi": "10.1016/j.biomaterials.2012.01.048"
+  },
+  {
+    "pmcid": "PMC3945947",
+    "title": "3D printing of biomimetic microstructures for cancer cell migration.",
+    "journal": "Biomedical microdevices",
+    "year": 2014,
+    "authors": [
+      "Huang TQ",
+      "Qu X",
+      "Liu J",
+      "Chen S"
+    ],
+    "doi": "10.1007/s10544-013-9812-6"
+  },
+  {
+    "pmcid": "PMC3612429",
+    "title": "Application of visible light-based projection stereolithography for live cell-scaffold fabrication with designed architecture.",
+    "journal": "Biomaterials",
+    "year": 2013,
+    "authors": [
+      "Lin H",
+      "Zhang D",
+      "Alexander PG",
+      "Yang G",
+      "Tan J",
+      "Cheng AW",
+      "Tuan RS"
+    ],
+    "doi": "10.1016/j.biomaterials.2012.09.048"
+  },
+  {
+    "pmcid": "PMC7151634",
+    "title": "Printing 3D Hydrogel Structures Employing Low-Cost Stereolithography Technology.",
+    "journal": "Journal of functional biomaterials",
+    "year": 2020,
+    "authors": [
+      "Magalhães LSSM",
+      "Santos FEP",
+      "Elias CMV",
+      "Afewerki S",
+      "Sousa GF",
+      "Furtado ASA",
+      "Marciano FR",
+      "Lobo AO"
+    ],
+    "doi": "10.3390/jfb11010012"
+  },
+  {
+    "pmcid": "PMC6460811",
+    "title": "Indirect 3D printing technology for the fabrication of customised β-TCP/chitosan scaffold with the shape of rabbit radial head-an in vitro study.",
+    "journal": "Journal of orthopaedic surgery and research",
+    "year": 2019,
+    "authors": [
+      "Wang JQ",
+      "Jiang BJ",
+      "Guo WJ",
+      "Zhao YM"
+    ],
+    "doi": "10.1186/s13018-019-1136-7"
+  },
+  {
+    "pmcid": "PMC3586565",
+    "title": "Rapid casting of patterned vascular networks for perfusable engineered three-dimensional tissues.",
+    "journal": "Nature materials",
+    "year": 2012,
+    "authors": [
+      "Miller JS",
+      "Stevens KR",
+      "Yang MT",
+      "Baker BM",
+      "Nguyen DH",
+      "Cohen DM",
+      "Toro E",
+      "Chen AA",
+      "Galie PA",
+      "Yu X",
+      "Chaturvedi R",
+      "Bhatia SN",
+      "Chen CS"
+    ],
+    "doi": "10.1038/nmat3357"
+  },
+  {
+    "pmcid": "PMC9828594",
+    "title": "High-Resolution Novel Indirect Bioprinting of Low-Viscosity Cell-Laden Hydrogels via Model-Support Bioink Interaction.",
+    "journal": "3D printing and additive manufacturing",
+    "year": 2021,
+    "authors": [
+      "Tan EYS",
+      "Suntornnond R",
+      "Yeong WY"
+    ],
+    "doi": "10.1089/3dp.2020.0153"
+  },
+  {
+    "pmcid": "PMC4646826",
+    "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels.",
+    "journal": "Science advances",
+    "year": 2015,
+    "authors": [
+      "Hinton TJ",
+      "Jallerat Q",
+      "Palchesko RN",
+      "Park JH",
+      "Grodzicki MS",
+      "Shue HJ",
+      "Ramadan MH",
+      "Hudson AR",
+      "Feinberg AW"
+    ],
+    "doi": "10.1126/sciadv.1500758"
+  },
+  {
+    "pmcid": "PMC6359031",
+    "title": "Three-Dimensional Stable Alginate-Nanocellulose Gels for Biomedical Applications: Towards Tunable Mechanical Properties and Cell Growing.",
+    "journal": "Nanomaterials (Basel, Switzerland)",
+    "year": 2019,
+    "authors": [
+      "Siqueira P",
+      "Siqueira É",
+      "de Lima AE",
+      "Siqueira G",
+      "Pinzón-Garcia AD",
+      "Lopes AP",
+      "Segura MEC",
+      "Isaac A",
+      "Pereira FV",
+      "Botaro VR"
+    ],
+    "doi": "10.3390/nano9010078"
+  },
+  {
+    "pmcid": "PMC7889293",
+    "title": "Emergence of FRESH 3D printing as a platform for advanced tissue biofabrication.",
+    "journal": "APL bioengineering",
+    "year": 2021,
+    "authors": [
+      "Shiwarski DJ",
+      "Hudson AR",
+      "Tashman JW",
+      "Feinberg AW"
+    ],
+    "doi": "10.1063/5.0032777"
+  },
+  {
+    "pmcid": "PMC9603906",
+    "title": "Magnetic-Based Human Tissue 3D Cell Culture: A Systematic Review.",
+    "journal": "International journal of molecular sciences",
+    "year": 2022,
+    "authors": [
+      "Marques IA",
+      "Fernandes C",
+      "Tavares NT",
+      "Pires AS",
+      "Abrantes AM",
+      "Botelho MF"
+    ],
+    "doi": "10.3390/ijms232012681"
+  },
+  {
+    "pmcid": "PMC10593146",
+    "title": "A three-dimensional co-culture model of the aortic valve using magnetic levitation.",
+    "journal": "Acta biomaterialia",
+    "year": 2014,
+    "authors": [
+      "Tseng H",
+      "Balaoing LR",
+      "Grigoryan B",
+      "Raphael RM",
+      "Killian TC",
+      "Souza GR",
+      "Grande-Allen KJ"
+    ],
+    "doi": "10.1016/j.actbio.2013.09.003"
+  },
+  {
+    "pmcid": "PMC6410821",
+    "title": "Biosynthesis of magnetic nanoparticles from nano-degradation products revealed in human stem cells.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": 2019,
+    "authors": [
+      "Van de Walle A",
+      "Plan Sangnier A",
+      "Abou-Hassan A",
+      "Curcio A",
+      "Hémadi M",
+      "Menguy N",
+      "Lalatonne Y",
+      "Luciani N",
+      "Wilhelm C"
+    ],
+    "doi": "10.1073/pnas.1816792116"
+  },
+  {
+    "pmcid": "PMC11309736",
+    "title": "Chaotic printing: using chaos to fabricate densely packed micro- and nanostructures at high resolution and speed.",
+    "journal": "Materials horizons",
+    "year": 2018,
+    "authors": [
+      "Trujillo-de Santiago G",
+      "Alvarez MM",
+      "Samandari M",
+      "Prakash G",
+      "Chandrabhatla G",
+      "Rellstab-Sánchez PI",
+      "Byambaa B",
+      "Abadi PPSS",
+      "Mandla S",
+      "Avery RK",
+      "Vallejo-Arroyo A",
+      "Nasajpour A",
+      "Annabi N",
+      "Zhang YS",
+      "Khademhosseini A"
+    ],
+    "doi": "10.1039/C8MH00344K"
+  },
+  {
+    "pmcid": "PMC10807115",
+    "title": "Modeling the neuroimmune system in Alzheimer's and Parkinson's diseases.",
+    "journal": "Journal of neuroinflammation",
+    "year": 2024,
+    "authors": [
+      "Balestri W",
+      "Sharma R",
+      "da Silva VA",
+      "Bobotis BC",
+      "Curle AJ",
+      "Kothakota V",
+      "Kalantarnia F",
+      "Hangad MV",
+      "Hoorfar M",
+      "Jones JL",
+      "Tremblay MÈ",
+      "El-Jawhari JJ",
+      "Willerth SM",
+      "Reinwald Y"
+    ],
+    "doi": "10.1186/s12974-024-03024-8"
+  },
+  {
+    "pmcid": "PMC7893133",
+    "title": "Engineering organoids.",
+    "journal": "Nature reviews. Materials",
+    "year": 2021,
+    "authors": [
+      "Hofer M",
+      "Lutolf MP"
+    ],
+    "doi": "10.1038/s41578-021-00279-y"
+  },
+  {
+    "pmcid": "PMC6794630",
+    "title": "Blood-Brain Barrier Dysfunction in a 3D In Vitro Model of Alzheimer's Disease.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "year": 2019,
+    "authors": [
+      "Shin Y",
+      "Choi SH",
+      "Kim E",
+      "Bylykbashi E",
+      "Kim JA",
+      "Chung S",
+      "Kim DY",
+      "Kamm RD",
+      "Tanzi RE"
+    ],
+    "doi": "10.1002/advs.201900962"
+  },
+  {
+    "pmcid": "PMC3650586",
+    "title": "Microfluidic chemotaxis platform for differentiating the roles of soluble and bound amyloid-β on microglial accumulation.",
+    "journal": "Scientific reports",
+    "year": 2013,
+    "authors": [
+      "Cho H",
+      "Hashimoto T",
+      "Wong E",
+      "Hori Y",
+      "Wood LB",
+      "Zhao L",
+      "Haigis KM",
+      "Hyman BT",
+      "Irimia D"
+    ],
+    "doi": "10.1038/srep01823"
+  },
+  {
+    "pmcid": "PMC3667571",
+    "title": "Neurotoxic amyloid beta oligomeric assemblies recreated in microfluidic platform with interstitial level of slow flow.",
+    "journal": "Scientific reports",
+    "year": 2013,
+    "authors": [
+      "Choi YJ",
+      "Chae S",
+      "Kim JH",
+      "Barald KF",
+      "Park JY",
+      "Lee SH"
+    ],
+    "doi": "10.1038/srep01921"
+  },
+  {
+    "pmcid": "PMC5725567",
+    "title": "Integration of neurogenesis and angiogenesis models for constructing a neurovascular tissue.",
+    "journal": "Scientific reports",
+    "year": 2017,
+    "authors": [
+      "Uwamori H",
+      "Higuchi T",
+      "Arai K",
+      "Sudo R"
+    ],
+    "doi": "10.1038/s41598-017-17411-0"
+  },
+  {
+    "pmcid": "PMC10216565",
+    "title": "Microenvironments Matter: Advances in Brain-on-Chip.",
+    "journal": "Biosensors",
+    "year": 2023,
+    "authors": [
+      "Akcay G",
+      "Luttge R"
+    ],
+    "doi": "10.3390/bios13050551"
+  },
+  {
+    "pmcid": "PMC3766500",
+    "title": "Patient-derived tumor xenografts: transforming clinical samples into mouse models.",
+    "journal": "Cancer research",
+    "year": 2013,
+    "authors": [
+      "Siolas D",
+      "Hannon GJ"
+    ],
+    "doi": "10.1158/0008-5472.CAN-13-1069"
+  },
+  {
+    "pmcid": "PMC4503788",
+    "title": "Treating the Developing versus Developed Brain: Translating Preclinical Mouse and Human Studies.",
+    "journal": "Neuron",
+    "year": 2015,
+    "authors": [
+      "Casey BJ",
+      "Glatt CE",
+      "Lee FS"
+    ],
+    "doi": "10.1016/j.neuron.2015.05.020"
+  },
+  {
+    "pmcid": "PMC8403483",
+    "title": "Mouse models of glioblastoma for the evaluation of novel therapeutic strategies.",
+    "journal": "Neuro-oncology advances",
+    "year": 2021,
+    "authors": [
+      "Haddad AF",
+      "Young JS",
+      "Amara D",
+      "Berger MS",
+      "Raleigh DR",
+      "Aghi MK",
+      "Butowski NA"
+    ],
+    "doi": "10.1093/noajnl/vdab100"
+  },
+  {
+    "pmcid": "PMC11607068",
+    "title": "Immunotherapy for glioblastoma: current state, challenges, and future perspectives.",
+    "journal": "Cellular & molecular immunology",
+    "year": 2024,
+    "authors": [
+      "Liu Y",
+      "Zhou F",
+      "Ali H",
+      "Lathia JD",
+      "Chen P"
+    ],
+    "doi": "10.1038/s41423-024-01226-x"
+  },
+  {
+    "pmcid": "PMC8005924",
+    "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.",
+    "journal": "BMJ (Clinical research ed.)",
+    "year": 2021,
+    "authors": [
+      "Page MJ",
+      "McKenzie JE",
+      "Bossuyt PM",
+      "Boutron I",
+      "Hoffmann TC",
+      "Mulrow CD",
+      "Shamseer L",
+      "Tetzlaff JM",
+      "Akl EA",
+      "Brennan SE",
+      "Chou R",
+      "Glanville J",
+      "Grimshaw JM",
+      "Hróbjartsson A",
+      "Lalu MM",
+      "Li T",
+      "Loder EW",
+      "Mayo-Wilson E",
+      "McDonald S",
+      "McGuinness LA",
+      "Stewart LA",
+      "Thomas J",
+      "Tricco AC",
+      "Welch VA",
+      "Whiting P",
+      "Moher D"
+    ],
+    "doi": "10.1136/bmj.n71"
+  },
+  {
+    "pmcid": "PMC6721723",
+    "title": "Bioink Composition and Printing Parameters for 3D Modeling Neural Tissue.",
+    "journal": "Cells",
+    "year": 2019,
+    "authors": [
+      "Fantini V",
+      "Bordoni M",
+      "Scocozza F",
+      "Conti M",
+      "Scarian E",
+      "Carelli S",
+      "Di Giulio AM",
+      "Marconi S",
+      "Pansarasa O",
+      "Auricchio F",
+      "Cereda C"
+    ],
+    "doi": "10.3390/cells8080830"
+  },
+  {
+    "pmcid": "PMC7026266",
+    "title": "3D Bioprinting Pluripotent Stem Cell Derived Neural Tissues Using a Novel Fibrin Bioink Containing Drug Releasing Microspheres.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2020,
+    "authors": [
+      "Sharma R",
+      "Smits IPM",
+      "De La Vega L",
+      "Lee C",
+      "Willerth SM"
+    ],
+    "doi": "10.3389/fbioe.2020.00057"
+  },
+  {
+    "pmcid": "PMC8394541",
+    "title": "3D Bioprinting Mesenchymal Stem Cell-Derived Neural Tissues Using a Fibrin-Based Bioink.",
+    "journal": "Biomolecules",
+    "year": 2021,
+    "authors": [
+      "Restan Perez M",
+      "Sharma R",
+      "Masri NZ",
+      "Willerth SM"
+    ],
+    "doi": "10.3390/biom11081250"
+  },
+  {
+    "pmcid": "PMC9059157",
+    "title": "Protocol for printing 3D neural tissues using the BIO X equipped with a pneumatic printhead.",
+    "journal": "STAR protocols",
+    "year": 2022,
+    "authors": [
+      "Chrenek J",
+      "Kirsch R",
+      "Scheck K",
+      "Willerth SM"
+    ],
+    "doi": "10.1016/j.xpro.2022.101348"
+  },
+  {
+    "pmcid": "PMC10207712",
+    "title": "3D bioprinting patient-derived induced pluripotent stem cell models of Alzheimer's disease using a smart bioink.",
+    "journal": "Bioelectronic medicine",
+    "year": 2023,
+    "authors": [
+      "Benwood C",
+      "Walters-Shumka J",
+      "Scheck K",
+      "Willerth SM"
+    ],
+    "doi": "10.1186/s42234-023-00112-7"
+  },
+  {
+    "pmcid": "PMC8387028",
+    "title": "Toward a neurospheroid niche model: optimizing embedded 3D bioprinting for fabrication of neurospheroid brain-like co-culture constructs.",
+    "journal": "Biofabrication",
+    "year": 2020,
+    "authors": [
+      "Li YE",
+      "Jodat YA",
+      "Samanipour R",
+      "Zorzi G",
+      "Zhu K",
+      "Hirano M",
+      "Chang K",
+      "Arnaout A",
+      "Hassan S",
+      "Matharu N",
+      "Khademhosseini A",
+      "Hoorfar M",
+      "Shin SR"
+    ],
+    "doi": "10.1088/1758-5090/abc1be"
+  },
+  {
+    "pmcid": "PMC9141644",
+    "title": "Patients' Stem Cells Differentiation in a 3D Environment as a Promising Experimental Tool for the Study of Amyotrophic Lateral Sclerosis.",
+    "journal": "International journal of molecular sciences",
+    "year": 2022,
+    "authors": [
+      "Scarian E",
+      "Bordoni M",
+      "Fantini V",
+      "Jacchetti E",
+      "Raimondi MT",
+      "Diamanti L",
+      "Carelli S",
+      "Cereda C",
+      "Pansarasa O"
+    ],
+    "doi": "10.3390/ijms23105344"
+  },
+  {
+    "pmcid": "PMC9888471",
+    "title": "Astrocyte 3D culture and bioprinting using peptide functionalized hyaluronan hydrogels.",
+    "journal": "Science and technology of advanced materials",
+    "year": 2023,
+    "authors": [
+      "Matthiesen I",
+      "Jury M",
+      "Rasti Boroojeni F",
+      "Ludwig SL",
+      "Holzreuter M",
+      "Buchmann S",
+      "Åman Träger A",
+      "Selegård R",
+      "Winkler TE",
+      "Aili D",
+      "Herland A"
+    ],
+    "doi": "10.1080/14686996.2023.2165871"
+  },
+  {
+    "pmcid": "PMC11334787",
+    "title": "Biomimetic design and integrated biofabrication of an in-vitro three-dimensional multi-scale multilayer cortical model.",
+    "journal": "Materials today. Bio",
+    "year": 2024,
+    "authors": [
+      "Wang L",
+      "Bai L",
+      "Wang S",
+      "Zhou J",
+      "Liu Y",
+      "Zhang C",
+      "Yao S",
+      "He J",
+      "Liu C",
+      "Li D"
+    ],
+    "doi": "10.1016/j.mtbio.2024.101176"
+  },
+  {
+    "pmcid": "PMC9959598",
+    "title": "A Gelatin Methacrylate-Based Hydrogel as a Potential Bioink for 3D Bioprinting and Neuronal Differentiation.",
+    "journal": "Pharmaceutics",
+    "year": 2023,
+    "authors": [
+      "Cruz EM",
+      "Machado LS",
+      "Zamproni LN",
+      "Bim LV",
+      "Ferreira PS",
+      "Pinto LA",
+      "Pessan LA",
+      "Backes EH",
+      "Porcionatto MA"
+    ],
+    "doi": "10.3390/pharmaceutics15020627"
+  },
+  {
+    "pmcid": "PMC7319181",
+    "title": "3D Printed Stem-Cell Derived Neural Progenitors Generate Spinal Cord Scaffolds.",
+    "journal": "Advanced functional materials",
+    "year": 2018,
+    "authors": [
+      "Joung D",
+      "Truong V",
+      "Neitzke CC",
+      "Guo SZ",
+      "Walsh PJ",
+      "Monat JR",
+      "Meng F",
+      "Park SH",
+      "Dutton JR",
+      "Parr AM",
+      "McAlpine MC"
+    ],
+    "doi": "10.1002/adfm.201801850"
+  },
+  {
+    "pmcid": "PMC9144715",
+    "title": "Towards 3D Bioprinted Spinal Cord Organoids.",
+    "journal": "International journal of molecular sciences",
+    "year": 2022,
+    "authors": [
+      "Han Y",
+      "King M",
+      "Tikhomirov E",
+      "Barasa P",
+      "Souza CDS",
+      "Lindh J",
+      "Baltriukiene D",
+      "Ferraiuolo L",
+      "Azzouz M",
+      "Gullo MR",
+      "Kozlova EN"
+    ],
+    "doi": "10.3390/ijms23105788"
+  },
+  {
+    "pmcid": "PMC8517394",
+    "title": "Coaxially Bioprinted Cell-Laden Tubular-Like Structure for Studying Glioma Angiogenesis.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2021,
+    "authors": [
+      "Wang X",
+      "Li X",
+      "Zhang Y",
+      "Long X",
+      "Zhang H",
+      "Xu T",
+      "Niu C"
+    ],
+    "doi": "10.3389/fbioe.2021.761861"
+  },
+  {
+    "pmcid": "PMC8049977",
+    "title": "Rapid 3D Bioprinting of Glioblastoma Model Mimicking Native Biophysical Heterogeneity.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "year": 2021,
+    "authors": [
+      "Tang M",
+      "Tiwari SK",
+      "Agrawal K",
+      "Tan M",
+      "Dang J",
+      "Tam T",
+      "Tian J",
+      "Wan X",
+      "Schimelman J",
+      "You S",
+      "Xia Q",
+      "Rana TM",
+      "Chen S"
+    ],
+    "doi": "10.1002/smll.202006050"
+  },
+  {
+    "pmcid": "PMC8373143",
+    "title": "Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.",
+    "journal": "Science advances",
+    "year": 2021,
+    "authors": [
+      "Neufeld L",
+      "Yeini E",
+      "Reisman N",
+      "Shtilerman Y",
+      "Ben-Shushan D",
+      "Pozzi S",
+      "Madi A",
+      "Tiram G",
+      "Eldar-Boock A",
+      "Ferber S",
+      "Grossman R",
+      "Ram Z",
+      "Satchi-Fainaro R"
+    ],
+    "doi": "10.1126/sciadv.abi9119"
+  },
+  {
+    "pmcid": "PMC11468953",
+    "title": "Human Induced Pluripotent Stem Cell-Derived Neural Progenitor Cells Produce Distinct Neural 3D In Vitro Models Depending on Alginate/Gellan Gum/Laminin Hydrogel Blend Properties.",
+    "journal": "Advanced healthcare materials",
+    "year": 2021,
+    "authors": [
+      "Kapr J",
+      "Petersilie L",
+      "Distler T",
+      "Lauria I",
+      "Bendt F",
+      "Sauter CM",
+      "Boccaccini AR",
+      "Rose CR",
+      "Fritsche E"
+    ],
+    "doi": "10.1002/adhm.202100131"
+  },
+  {
+    "pmcid": "PMC10953436",
+    "title": "Three-dimensional bioprinting of stem cell-derived central nervous system cells enables astrocyte growth, vasculogenesis, and enhances neural differentiation/function.",
+    "journal": "Biotechnology and bioengineering",
+    "year": 2023,
+    "authors": [
+      "Sullivan MA",
+      "Lane S",
+      "Volkerling A",
+      "Engel M",
+      "Werry EL",
+      "Kassiou M"
+    ],
+    "doi": "10.1002/bit.28470"
+  },
+  {
+    "pmcid": "PMC7050497",
+    "title": "Bioprinting of stem cell expansion lattices.",
+    "journal": "Acta biomaterialia",
+    "year": 2019,
+    "authors": [
+      "Lindsay CD",
+      "Roth JG",
+      "LeSavage BL",
+      "Heilshorn SC"
+    ],
+    "doi": "10.1016/j.actbio.2019.05.014"
+  },
+  {
+    "pmcid": "PMC2632339",
+    "title": "Relative importance of surface wettability and charged functional groups on NIH 3T3 fibroblast attachment, spreading, and cytoskeletal organization.",
+    "journal": "Journal of biomedical materials research",
+    "year": 1998,
+    "authors": [
+      "Webb K",
+      "Hlady V",
+      "Tresco PA"
+    ],
+    "doi": "10.1002/(sici)1097-4636(19980905)41:3<422::aid-jbm12>3.0.co;2-k"
+  },
+  {
+    "pmcid": "PMC4499058",
+    "title": "A 3D human neural cell culture system for modeling Alzheimer's disease.",
+    "journal": "Nature protocols",
+    "year": 2015,
+    "authors": [
+      "Kim YH",
+      "Choi SH",
+      "D'Avanzo C",
+      "Hebisch M",
+      "Sliwinski C",
+      "Bylykbashi E",
+      "Washicosky KJ",
+      "Klee JB",
+      "Brüstle O",
+      "Tanzi RE",
+      "Kim DY"
+    ],
+    "doi": "10.1038/nprot.2015.065"
+  },
+  {
+    "pmcid": "PMC10686181",
+    "title": "Progress in phase III clinical trials of molecular targeted therapy and immunotherapy for glioblastoma.",
+    "journal": "Cancer innovation",
+    "year": 2023,
+    "authors": [
+      "Wang Y",
+      "Li S",
+      "Peng Y",
+      "Ma W",
+      "Wang Y",
+      "Li W"
+    ],
+    "doi": "10.1002/cai2.59"
+  },
+  {
+    "pmcid": "PMC10175505",
+    "title": "Angiogenic signaling pathways and anti-angiogenic therapy for cancer.",
+    "journal": "Signal transduction and targeted therapy",
+    "year": 2023,
+    "authors": [
+      "Liu ZL",
+      "Chen HH",
+      "Zheng LL",
+      "Sun LP",
+      "Shi L"
+    ],
+    "doi": "10.1038/s41392-023-01460-1"
+  },
+  {
+    "pmcid": "PMC4970460",
+    "title": "Precision medicine for cancer with next-generation functional diagnostics.",
+    "journal": "Nature reviews. Cancer",
+    "year": 2015,
+    "authors": [
+      "Friedman AA",
+      "Letai A",
+      "Fisher DE",
+      "Flaherty KT"
+    ],
+    "doi": "10.1038/nrc4015"
+  },
+  {
+    "pmcid": "PMC2948567",
+    "title": "Drug Discovery in Academia- the third way?",
+    "journal": "Expert opinion on drug discovery",
+    "year": 2010,
+    "authors": [
+      "Frearson J",
+      "Wyatt P"
+    ],
+    "doi": "10.1517/17460441.2010.506508"
+  },
+  {
+    "pmcid": "PMC8650371",
+    "title": "Next-generation in vitro blood-brain barrier models: benchmarking and improving model accuracy.",
+    "journal": "Fluids and barriers of the CNS",
+    "year": 2021,
+    "authors": [
+      "Linville RM",
+      "Searson PC"
+    ],
+    "doi": "10.1186/s12987-021-00291-y"
+  },
+  {
+    "pmcid": "PMC10376721",
+    "title": "A Next-Generation 3D Tissue-Engineered Model of the Human Brain Microvasculature to Study the Blood-Brain Barrier.",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "year": 2023,
+    "authors": [
+      "Galpayage Dona KNU",
+      "Ramirez SH",
+      "Andrews AM"
+    ],
+    "doi": "10.3390/bioengineering10070817"
+  },
+  {
+    "pmcid": "PMC11617618",
+    "title": "Cerebrovascular-Specific Extracellular Matrix Bioink Promotes Blood-Brain Barrier Properties.",
+    "journal": "Biomaterials research",
+    "year": 2024,
+    "authors": [
+      "Han H",
+      "Lee S",
+      "Gao G",
+      "Yi HG",
+      "Paek SH",
+      "Jang J"
+    ],
+    "doi": "10.34133/bmr.0115"
+  },
+  {
+    "pmcid": "PMC7854518",
+    "title": "Biomaterials and 3D Bioprinting Strategies to Model Glioblastoma and the Blood-Brain Barrier.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "year": 2021,
+    "authors": [
+      "Tang M",
+      "Rich JN",
+      "Chen S"
+    ],
+    "doi": "10.1002/adma.202004776"
+  }
+]

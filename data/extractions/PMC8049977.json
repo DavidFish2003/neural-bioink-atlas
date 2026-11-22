@@ -1,0 +1,80 @@
+{
+  "pmcid": "PMC8049977",
+  "meta": {
+    "pmcid": "PMC8049977",
+    "title": "Rapid 3D Bioprinting of Glioblastoma Model Mimicking Native Biophysical Heterogeneity.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "year": 2021,
+    "authors": [
+      "Tang M",
+      "Tiwari SK",
+      "Agrawal K",
+      "Tan M",
+      "Dang J",
+      "Tam T",
+      "Tian J",
+      "Wan X",
+      "Schimelman J",
+      "You S",
+      "Xia Q",
+      "Rana TM",
+      "Chen S"
+    ],
+    "doi": "10.1002/smll.202006050"
+  },
+  "extracted_at": "2026-11-22T13:34:55.890Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "Light-based (DLP) printing built glioblastoma models with patient-derived glioblastoma stem cells and endothelial cells in GelMA/hyaluronic acid matrices of tumour-like (7 kPa) and brain-like (0.45 kPa) stiffness.",
+  "formulations": [
+    {
+      "crosslinking": "photocrosslinking (DLP)",
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 7,
+      "stiffness_note": "tumour core designed to match GBM tissue; brain region 0.45 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": "glioblastoma",
+      "review_notes": null,
+      "confidence": "high",
+      "name": "GelMA + methacrylated hyaluronic acid (stiff tumour core)",
+      "base_materials": [
+        "GelMA",
+        "methacrylated hyaluronic acid"
+      ],
+      "material_class": "natural",
+      "composition_detail": "GelMA and GMHA blends tuned to 7 kPa (tumour) and 0.45 kPa (brain)",
+      "cell_type": "glioblastoma stem cells + endothelial cells",
+      "cell_source": "human primary/fetal",
+      "print_method": "light-based (DLP/SLA)",
+      "key_outcome": "Stiff tumour regions and soft brain regions in one print reproduced GBM's biophysical heterogeneity.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "stiffness_kpa",
+          "quote": "Matrix stiffness of the tumor core and the endothelial regions was designed to mimic that of GBM patient tissues (7 kPa) and normal brain tissues (0.45 kPa)."
+        },
+        {
+          "field": "print_method",
+          "quote": "Flexibility of the DLP-based bioprinting process and versatile material selection allow orthogonal modulation of biophysical properties and biochemical characteristics."
+        },
+        {
+          "field": "cells",
+          "quote": "Human patient derived glioblastoma stem cells (TS576) were obtained from Dr."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

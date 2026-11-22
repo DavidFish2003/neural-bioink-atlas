@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC12892021",
+  "meta": {
+    "pmcid": "PMC12892021",
+    "title": "Fibrillar Bundles as Fibrous Filler Materials for Attaining Cell Anisotropy in Bioprinting.",
+    "journal": "Advanced healthcare materials",
+    "year": 2026,
+    "authors": [
+      "Heilig S",
+      "Lamberger Z",
+      "Sprenger L",
+      "Priebe V",
+      "Mussoni C",
+      "Docheva D",
+      "Andelovic K",
+      "Groll J",
+      "Salehi S",
+      "Lang G",
+      "Ryma M"
+    ],
+    "doi": "10.1002/adhm.202503767"
+  },
+  "extracted_at": "2026-11-22T13:37:01.649Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Fibrous fillers for cell alignment in bioprinting; not neural.",
+  "formulations": []
+}

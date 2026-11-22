@@ -1,0 +1,78 @@
+{
+  "pmcid": "PMC11469067",
+  "meta": {
+    "pmcid": "PMC11469067",
+    "title": "3D Bioprinting of Neurovascular Tissue Modeling with Collagen-Based Low-Viscosity Composites.",
+    "journal": "Advanced healthcare materials",
+    "year": 2023,
+    "authors": [
+      "Wang S",
+      "Bai L",
+      "Hu X",
+      "Yao S",
+      "Hao Z",
+      "Zhou J",
+      "Li X",
+      "Lu H",
+      "He J",
+      "Wang L",
+      "Li D"
+    ],
+    "doi": "10.1002/adhm.202300004"
+  },
+  "extracted_at": "2026-11-22T13:35:56.687Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A very low-viscosity alginate/collagen bioink was printed into a gelatin support bath at ~10 µm resolution to build neurovascular unit models. Partial alginate lysis softened the gel to about 1 kPa, close to brain.",
+  "formulations": [
+    {
+      "crosslinking": "Ca2+ from support bath, then alginate lysis",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom syringe extrusion printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": 1,
+      "stiffness_note": "after lysis (~1 kPa); A5 before lysis 1.96 kPa",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Cell types and sources not fully captured from the text.",
+      "confidence": "medium",
+      "name": "0.5% alginate + 0.1% collagen (A5C1) in gelatin bath",
+      "base_materials": [
+        "alginate",
+        "collagen"
+      ],
+      "material_class": "natural",
+      "composition_detail": "0.5% w/v alginate + 0.1% w/v collagen; support bath 4.5% gelatin + 0.2% CaCl2",
+      "cell_type": "neurovascular unit cells (glia, endothelial cells)",
+      "cell_source": "other",
+      "print_method": "embedded/suspension bath",
+      "key_outcome": "Low-viscosity ink printed at ~10 µm resolution and softened to brain-like ~1 kPa after lysis.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "The group with 0.5% [w/v] sodium alginate/ 0.1% [w/v] collagen (A5C1) was set to be the experimental/testing group"
+        },
+        {
+          "field": "stiffness",
+          "quote": "the lysis processing can decrease the hydrogels’ modulus to ≈1 kPa"
+        },
+        {
+          "field": "printer",
+          "quote": "A syringe‐based extrusion printer was custom‐designed and produced."
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

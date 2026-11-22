@@ -1,0 +1,67 @@
+{
+  "pmcid": "PMC7310269",
+  "meta": {
+    "pmcid": "PMC7310269",
+    "title": "Conductive collagen/polypyrrole-b-polycaprolactone hydrogel for bioprinting of neural tissue constructs.",
+    "journal": "International journal of bioprinting",
+    "year": 2019,
+    "authors": [
+      "Vijayavenkataraman S",
+      "Vialli N",
+      "Fuh JYH",
+      "Lu WF"
+    ],
+    "doi": "10.18063/ijb.v5i2.1.229"
+  },
+  "extracted_at": "2026-11-22T13:35:56.691Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A conductive bioink of collagen with polypyrrole-block-polycaprolactone was developed for printing neural tissue constructs; adding the conductive polymer raised the gel's modulus and print fidelity.",
+  "formulations": [
+    {
+      "crosslinking": null,
+      "additives": [],
+      "cell_density": null,
+      "printer": null,
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": null,
+      "stiffness_kpa": null,
+      "stiffness_note": "modulus rises with PPy-b-PCL; highest at 2%",
+      "viability_percent": null,
+      "viability_day": null,
+      "viability_assay": null,
+      "culture_days": null,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Cell type and viability not found in the extracted text; check the paper.",
+      "confidence": "low",
+      "name": "4% collagen + PPy-b-PCL (conductive)",
+      "base_materials": [
+        "collagen",
+        "polypyrrole-b-polycaprolactone"
+      ],
+      "material_class": "composite with nanomaterial",
+      "composition_detail": "4% (w/v) collagen type I with 0.5-2% PPy-b-PCL",
+      "cell_type": "not captured",
+      "cell_source": "other",
+      "print_method": "extrusion (mechanical/piston)",
+      "key_outcome": "Conductive polymer increased the collagen ink's mechanical integrity for neural constructs.",
+      "application": "regeneration/implant",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "A concentration of 4% (w/v) Collagen Type 1 was used."
+        },
+        {
+          "field": "stiffness",
+          "quote": "the mechanical integrity of the collagen hydrogel increases with increasing concentration of PPy-b-PCL"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

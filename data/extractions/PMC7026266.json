@@ -1,0 +1,207 @@
+{
+  "pmcid": "PMC7026266",
+  "meta": {
+    "pmcid": "PMC7026266",
+    "title": "3D Bioprinting Pluripotent Stem Cell Derived Neural Tissues Using a Novel Fibrin Bioink Containing Drug Releasing Microspheres.",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "year": 2020,
+    "authors": [
+      "Sharma R",
+      "Smits IPM",
+      "De La Vega L",
+      "Lee C",
+      "Willerth SM"
+    ],
+    "doi": "10.3389/fbioe.2020.00057"
+  },
+  "extracted_at": "2026-11-22T00:21:59.215Z",
+  "extracted_by": "seed: Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "hiPSC-derived neural progenitors were printed in a fibrin bioink containing guggulsterone-releasing microspheres on the RX1 printer. Tissues were over 90% viable and expressed dopaminergic and glial markers after 30 days.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "guggulsterone-loaded microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 92,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + guggulsterone-loaded microspheres (GM)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Guggulsterone microspheres gave the highest day-7 viability (98%) and supported TH+ dopaminergic neurons at day 30.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen"
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively."
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)"
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "unloaded microspheres"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 78,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + unloaded microspheres (UM)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Unloaded microspheres: 78% viability on day 1, 94% on day 7.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen"
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively."
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)"
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    },
+    {
+      "crosslinking": "CaCl2 + chitosan + thrombin crosslinker, co-extruded in microfluidic printhead",
+      "additives": [
+        "soluble guggulsterone (no microspheres)"
+      ],
+      "cell_density": "1 x 10^6 cells/mL",
+      "printer": "Aspect RX1",
+      "nozzle": null,
+      "pressure_kpa": 5,
+      "print_speed_mm_s": 25,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 89,
+      "viability_day": 1,
+      "viability_assay": null,
+      "culture_days": 30,
+      "neural_markers": [
+        "TUJ1",
+        "FOXA2",
+        "TH",
+        "GFAP",
+        "O4"
+      ],
+      "disease": "Parkinson's disease",
+      "review_notes": "Pressure converted from 50 mbar (bioink channel). Marker percentages are reported for the construct overall.",
+      "confidence": "high",
+      "name": "Fibrin bioink + soluble guggulsterone (no microspheres) (SG)",
+      "base_materials": [
+        "fibrinogen",
+        "alginate",
+        "genipin"
+      ],
+      "material_class": "natural",
+      "composition_detail": "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin",
+      "cell_type": "neural progenitor cells (dopaminergic differentiation)",
+      "cell_source": "human iPSC-derived",
+      "print_method": "microfluidic printhead",
+      "key_outcome": "Soluble drug: 89% viability on day 1, 91% on day 7.",
+      "application": "disease model",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "NPCs at a concentration of 1 million cells/mL were thawed and resuspended in the bioink composed of 20 mg/mL of fibrinogen"
+        },
+        {
+          "field": "pressure_kpa",
+          "quote": "The printing speed used was 25 mm/s and pressure for bioink, crosslinker and buffer channels were 50 mbar, 60 mbar, and 100 mbar, respectively."
+        },
+        {
+          "field": "viability_percent",
+          "quote": "Constructs from all groups showed high viability 1-day post-printing: GM (92 ± 3%), UM (78 ± 11%), SG (89 ± 2%)"
+        },
+        {
+          "field": "viability_percent (day 7)",
+          "quote": "The GM group exhibited the highest level of viability on day 7 (98 ± 1%)"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

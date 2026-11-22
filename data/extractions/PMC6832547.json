@@ -1,0 +1,77 @@
+{
+  "pmcid": "PMC6832547",
+  "meta": {
+    "pmcid": "PMC6832547",
+    "title": "3D Bioprinted Human Cortical Neural Constructs Derived from Induced Pluripotent Stem Cells.",
+    "journal": "Journal of clinical medicine",
+    "year": 2019,
+    "authors": [
+      "Salaris F",
+      "Colosi C",
+      "Brighi C",
+      "Soloperto A",
+      "Turris V",
+      "Benedetti MC",
+      "Ghirga S",
+      "Rosito M",
+      "Di Angelantonio S",
+      "Rosa A"
+    ],
+    "doi": "10.3390/jcm8101595"
+  },
+  "extracted_at": "2026-11-22T13:34:55.894Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": true,
+  "summary": "A custom coaxial microfluidic extrusion printer built layered meshes of hiPSC-derived cortical neurons and glia in alginate/Matrigel fibres. Constructs stayed partly viable and functional up to 50 days after printing.",
+  "formulations": [
+    {
+      "crosslinking": "CaCl2 (coaxial) then alginate lyase digestion",
+      "additives": [],
+      "cell_density": null,
+      "printer": "custom coaxial microfluidic printer",
+      "nozzle": null,
+      "pressure_kpa": null,
+      "print_speed_mm_s": 4,
+      "stiffness_kpa": null,
+      "stiffness_note": null,
+      "viability_percent": 68,
+      "viability_day": 50,
+      "viability_assay": "Live/Dead",
+      "culture_days": 50,
+      "neural_markers": [],
+      "disease": null,
+      "review_notes": "Speed converted from 240 mm/min. Viability measured on one construct (nine fields).",
+      "confidence": "high",
+      "name": "2% alginate + 0.5x Matrigel microfibres",
+      "base_materials": [
+        "alginate",
+        "Matrigel"
+      ],
+      "material_class": "natural",
+      "composition_detail": "2% w/v alginate + 0.5x Matrigel, crosslinked with 0.33 mM CaCl2, then alginate lyase",
+      "cell_type": "cortical neurons and glia",
+      "cell_source": "human iPSC-derived",
+      "print_method": "coaxial extrusion",
+      "key_outcome": "Printed hiPSC cortical constructs stayed 68% viable 50 days after printing.",
+      "application": "basic neurobiology",
+      "evidence": [
+        {
+          "field": "composition",
+          "quote": "We obtained the best results using a solution containing 2% w/v alginate and 0.5× Matrigel (~50% dilution from stock), printed using 0.33 mM CaCl2 crosslinking solution"
+        },
+        {
+          "field": "print_speed",
+          "quote": "deposited at a speed of 240 mm/min"
+        },
+        {
+          "field": "viability_percent",
+          "quote": "viability was consistently maintained over time as assessed by live/dead staining up to DPP50 (68 ± 8% live cells"
+        }
+      ],
+      "needs_review": false,
+      "review_reasons": [],
+      "reviewed": false
+    }
+  ]
+}

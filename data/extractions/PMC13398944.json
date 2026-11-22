@@ -1,0 +1,30 @@
+{
+  "pmcid": "PMC13398944",
+  "meta": {
+    "pmcid": "PMC13398944",
+    "title": "Innovative 3D-bioprinted microfibers in calcium phosphate cement platform with Nell-1 to activate nerve-bone axis for synergistic bone, vasculature, and nanofibrous nerve regeneration.",
+    "journal": "Smart molecules : open access",
+    "year": 2026,
+    "authors": [
+      "Zhu M",
+      "Li X",
+      "Li J",
+      "Yu K",
+      "Dai Z",
+      "Xiao L",
+      "Zhang Q",
+      "Jia Z",
+      "Qiao Q",
+      "Zhao Z",
+      "Zhang K",
+      "Bai Y"
+    ],
+    "doi": "10.1002/smo2.70078"
+  },
+  "extracted_at": "2026-11-22T13:37:01.643Z",
+  "extracted_by": "Claude (Claude Code session), pending human review",
+  "paper_type": "primary research",
+  "is_neural_bioprinting": false,
+  "summary": "Bone regeneration scaffold with printed alginate microfibres; nerve effects studied in bone, not a neural tissue model.",
+  "formulations": []
+}
