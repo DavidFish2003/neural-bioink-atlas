@@ -105,7 +105,7 @@ writeAll({
       crosslinking: "photocrosslinking", cell_type: "neural progenitor cells", cell_source: "human iPSC-derived",
       printer: "3DBS Educational Starter Printer", print_method: "extrusion (mechanical/piston)",
       stiffness_note: "the four bioinks ranged 5-45 kPa", neural_markers: ["NESTIN", "SOX2", "PAX6"],
-      key_outcome: "4% GelMA was chosen for keeping cells viable with good printability; printed hNPCs became immature neurons.",
+      key_outcome: "4% GelMA was chosen for keeping cells viable with good printability; printed human neural progenitors became immature neurons.",
       application: "regeneration/implant",
       evidence: [
         { field: "composition", quote: "we selected the 4GMA_Gx composition for further bioprinting assays" },

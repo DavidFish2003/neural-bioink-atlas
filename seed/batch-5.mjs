@@ -10,7 +10,7 @@ writeAll({
       composition_detail: "10% gelatin + 1% sodium alginate", cell_type: "glioma stem cells (GSC23)", cell_source: "cell line",
       cell_density: "2 x 10^5 cells/mL", printer: "Medprin extrusion bioprinter", print_method: "extrusion (pneumatic)",
       viability_percent: 86.65, viability_day: 1, culture_days: 7,
-      key_outcome: "Printed GSCs were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
+      key_outcome: "Printed glioma stem cells were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
       application: "disease model", disease: "glioblastoma",
       evidence: [
         { field: "composition / density", quote: "to reach a final concentration of 10% gelatin, 1% sodium alginate and 2 × 105/ml GSC23 cells" },
@@ -26,7 +26,7 @@ writeAll({
       name: "Fibrin gel (4 mg/mL) in printed microfluidic hydrogel", base_materials: ["fibrinogen"], material_class: "natural",
       composition_detail: "4 mg/mL fibrinogen with 1 U/mL thrombin", crosslinking: "thrombin",
       cell_type: "U87 glioblastoma cells, astrocytes, brain endothelial cells", cell_source: "cell line", print_method: "light-based (DLP/SLA)",
-      viability_percent: 80, key_outcome: "All cell types stayed above 80% viable; the model showed GBM heterogeneity and drug resistance.",
+      viability_percent: 80, key_outcome: "All cell types stayed above 80% viable; the model showed glioblastoma heterogeneity and drug resistance.",
       application: "drug screening", disease: "glioblastoma", confidence: "medium",
       review_notes: "Viability is a threshold ('above 80%'). Which parts were printed vs cast should be checked.",
       evidence: [
@@ -76,7 +76,7 @@ writeAll({
       name: "Alginate gel spots on electrospun fibres", base_materials: ["alginate"], material_class: "natural",
       composition_detail: "Alginate gelled in 20 mM Ca2+ medium; later removed with alginate lyase", crosslinking: "20 mM Ca2+, then alginate lyase",
       cell_type: "neural stem cells", cell_source: "other", print_method: "other",
-      key_outcome: "Gel-encapsulated deposition placed hNSCs precisely on fibre substrates at low cost.",
+      key_outcome: "Gel-encapsulated deposition placed human neural stem cells precisely on fibre substrates at low cost.",
       application: "method/protocol", confidence: "medium",
       review_notes: "Alginate concentration and NSC source not captured.",
       evidence: [

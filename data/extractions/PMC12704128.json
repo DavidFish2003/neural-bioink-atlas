@@ -16,7 +16,7 @@
     ],
     "doi": "10.1089/ten.tea.2024.0326"
   },
-  "extracted_at": "2026-11-22T00:21:59.218Z",
+  "extracted_at": "2026-11-23T21:17:28.367Z",
   "extracted_by": "seed: Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -49,7 +49,7 @@
       "cell_type": "optic nerve head astrocytes",
       "cell_source": "rodent primary",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "Developing ONH astrocytes increased RGC neurite polarization by 43%.",
+      "key_outcome": "Astrocytes from the developing optic nerve head increased retinal ganglion cell neurite alignment by 43%.",
       "application": "basic neurobiology",
       "evidence": [
         {

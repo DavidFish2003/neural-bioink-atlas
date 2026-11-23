@@ -18,7 +18,7 @@
     ],
     "doi": "10.1063/5.0276704"
   },
-  "extracted_at": "2026-11-22T00:21:59.216Z",
+  "extracted_at": "2026-11-23T21:17:28.361Z",
   "extracted_by": "seed: Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -56,7 +56,7 @@
       "cell_type": "neural progenitor cells",
       "cell_source": "human iPSC-derived",
       "print_method": "extrusion (mechanical/piston)",
-      "key_outcome": "Printed hNPCs self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
+      "key_outcome": "Printed human neural progenitors self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
       "application": "basic neurobiology",
       "evidence": [
         {

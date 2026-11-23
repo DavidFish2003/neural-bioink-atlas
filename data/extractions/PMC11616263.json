@@ -16,7 +16,7 @@
     ],
     "doi": "10.1002/adhm.202401876"
   },
-  "extracted_at": "2026-11-22T13:37:01.640Z",
+  "extracted_at": "2026-11-23T21:17:32.403Z",
   "extracted_by": "Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -49,7 +49,7 @@
       "cell_type": "U87 glioblastoma cells, astrocytes, brain endothelial cells",
       "cell_source": "cell line",
       "print_method": "light-based (DLP/SLA)",
-      "key_outcome": "All cell types stayed above 80% viable; the model showed GBM heterogeneity and drug resistance.",
+      "key_outcome": "All cell types stayed above 80% viable; the model showed glioblastoma heterogeneity and drug resistance.",
       "application": "drug screening",
       "evidence": [
         {

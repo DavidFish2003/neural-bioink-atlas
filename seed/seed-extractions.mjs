@@ -19,12 +19,12 @@ const papers = {
     paper_type: "primary research", is_neural_bioprinting: true,
     summary: "Healthy and Alzheimer's patient-derived hiPSC neural progenitors were bioprinted in a fibrin-based bioink on the Aspect RX1 microfluidic printer, with or without drug-releasing PCL microspheres. Constructs stayed viable for 30-45 days and were characterized for viability, markers and calcium signalling.",
     formulations: [
-      F({ name: "Fibrin bioink (AD, no microspheres)", base_materials: fibrinInk, material_class: "natural",
+      F({ name: "Fibrin bioink (Alzheimer's, no microspheres)", base_materials: fibrinInk, material_class: "natural",
         composition_detail: "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin", crosslinking: fibrinXL,
         cell_type: "neural progenitor cells (basal forebrain cholinergic neuron differentiation)", cell_source: "human iPSC-derived",
         cell_density: "1 x 10^6 cells/mL", printer: "Aspect RX1", print_method: "microfluidic printhead",
         pressure_kpa: 9, print_speed_mm_s: 25, viability_percent: 83.78, viability_day: 1, culture_days: 45,
-        key_outcome: "Viability 83.8% on day 1 and 78.8% on day 30 for AD constructs without microspheres.",
+        key_outcome: "Viability 83.8% on day 1 and 78.8% on day 30 for Alzheimer's constructs without microspheres.",
         application: "disease model", disease: "Alzheimer's disease",
         review_notes: "Pressure converted from 90 mbar (bioink channel); crosslinker 100 mbar, buffer 500 mbar.",
         evidence: [
@@ -34,7 +34,7 @@ const papers = {
           { field: "print_speed", quote: "A printing speed of 25 mm/s and a 40% rectilinear infill pattern were used" },
           { field: "viability_percent", quote: "On day 1 directly after bioprinting, cell viability for the AD C group was 83.78 ± 4.96%" },
         ] }),
-      F({ name: "Fibrin bioink + purmorphamine PCL microspheres (AD)", base_materials: fibrinInk, material_class: "natural",
+      F({ name: "Fibrin bioink + purmorphamine PCL microspheres (Alzheimer's)", base_materials: fibrinInk, material_class: "natural",
         composition_detail: "20 mg/mL fibrinogen, 0.5% w/v alginate, 0.3 mg/mL genipin; PCL microspheres 1 mg/mL", crosslinking: fibrinXL,
         additives: ["purmorphamine-loaded PCL microspheres"],
         cell_type: "neural progenitor cells (basal forebrain cholinergic neuron differentiation)", cell_source: "human iPSC-derived",
@@ -124,7 +124,7 @@ const papers = {
         print_method: "extrusion (mechanical/piston)", nozzle: "22 G (0.413 mm ID)", print_speed_mm_s: 3.3,
         stiffness_kpa: 0.1, stiffness_note: "storage modulus G' ~100 Pa at 1 Hz", culture_days: 110,
         neural_markers: ["FABP7", "NESTIN", "GFAP"],
-        key_outcome: "Printed hNPCs self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
+        key_outcome: "Printed human neural progenitors self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
         application: "basic neurobiology", confidence: "medium",
         review_notes: "Viability shown qualitatively; no percentage in the text. Print method inferred from the methods description.",
         evidence: [
@@ -200,7 +200,7 @@ const papers = {
         composition_detail: "undiluted Matrigel (also screened: 4 mg/mL collagen-1, 1% alginate, 1% alginate-RGD)",
         cell_type: "optic nerve head astrocytes", cell_source: "rodent primary", cell_density: "1-1.5 x 10^6 cells/mL",
         printer: "Allevi 3", print_method: "extrusion (pneumatic)", nozzle: "22 G",
-        key_outcome: "Developing ONH astrocytes increased RGC neurite polarization by 43%.",
+        key_outcome: "Astrocytes from the developing optic nerve head increased retinal ganglion cell neurite alignment by 43%.",
         application: "basic neurobiology", review_notes: "No viability percentage or print pressure in the text.",
         evidence: [
           { field: "base_materials", quote: "printed using a 22 g needle in four previously published bioinks: undiluted matrigel, 4 mg/mL collagen-1, 1% alginate, and 1% alginate-modified with RGD cell binding domain peptides" },

@@ -22,7 +22,7 @@
     ],
     "doi": "10.1126/sciadv.abi9119"
   },
-  "extracted_at": "2026-11-22T13:34:55.891Z",
+  "extracted_at": "2026-11-23T21:17:31.336Z",
   "extracted_by": "Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -56,7 +56,7 @@
       "cell_type": "patient-derived glioblastoma cells + astrocytes + microglia",
       "cell_source": "human primary/fetal",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "A perfusable printed GBM model with stromal cells mimicked tumour growth and drug response.",
+      "key_outcome": "A perfusable printed glioblastoma model with stromal cells mimicked tumour growth and drug response.",
       "application": "drug screening",
       "evidence": [
         {

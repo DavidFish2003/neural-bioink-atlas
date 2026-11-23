@@ -15,7 +15,7 @@
     ],
     "doi": "10.1002/adhm.202302831"
   },
-  "extracted_at": "2026-11-22T13:35:56.685Z",
+  "extracted_at": "2026-11-23T21:17:55.371Z",
   "extracted_by": "Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -41,17 +41,17 @@
       "disease": "glioblastoma",
       "review_notes": null,
       "confidence": "high",
-      "name": "Fibrinogen + 6% gelatin (neurovascular ring + GBM dot)",
+      "name": "Fibrinogen + 6% gelatin (neurovascular ring + glioblastoma core)",
       "base_materials": [
         "fibrinogen",
         "gelatin"
       ],
       "material_class": "natural",
       "composition_detail": "2.5-5 mg/mL fibrinogen with 6% gelatin and aprotinin; tumour dot in 6% gelatin (bioink C)",
-      "cell_type": "astrocytes, pericytes, brain endothelial cells + JHH-520 GBM cells",
+      "cell_type": "astrocytes, pericytes, brain endothelial cells + patient glioblastoma cells (JHH-520)",
       "cell_source": "human primary/fetal",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "The printed neurovascular unit let patient GBM cells grow in a brain-like microenvironment for tumour studies.",
+      "key_outcome": "The printed neurovascular unit let patient glioblastoma cells grow in a brain-like microenvironment for tumour studies.",
       "application": "disease model",
       "evidence": [
         {

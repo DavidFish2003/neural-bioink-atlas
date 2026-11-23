@@ -38,7 +38,7 @@
     ],
     "doi": "10.1038/s41422-020-0338-1"
   },
-  "extracted_at": "2026-11-22T13:35:56.690Z",
+  "extracted_at": "2026-11-23T21:17:55.392Z",
   "extracted_by": "Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -62,7 +62,7 @@
       "disease": "glioblastoma",
       "review_notes": "Print method inferred from the 'rapid 3D bioprinting' light-based system used by this group; confirm.",
       "confidence": "medium",
-      "name": "4% GelMA + 0.25% GMHA (GBM core)",
+      "name": "4% GelMA + 0.25% GMHA (glioblastoma core)",
       "base_materials": [
         "GelMA",
         "methacrylated hyaluronic acid"
@@ -72,7 +72,7 @@
       "cell_type": "glioblastoma stem cells, macrophages, astrocytes, neural progenitors",
       "cell_source": "human primary/fetal",
       "print_method": "light-based (DLP/SLA)",
-      "key_outcome": "Printed GBM tissues reproduced tumour-macrophage dependencies and immune interactions.",
+      "key_outcome": "Printed glioblastoma tissues reproduced tumour-macrophage dependencies and immune interactions.",
       "application": "disease model",
       "evidence": [
         {

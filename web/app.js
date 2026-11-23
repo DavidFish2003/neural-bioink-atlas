@@ -163,8 +163,8 @@ const FIELDS = [
   ["Recipe", (f) => f.composition_detail],
   ["Crosslinking", (f) => f.crosslinking],
   ["Added", (f) => f.additives.join(", ")],
-  ["Cells", (f) => `${cap(f.cell_type)} (${f.cell_source})`],
-  ["Cell density", (f) => f.cell_density],
+  ["Cells", (f) => `${cap(f.cell_type)} · ${f.cell_source}`],
+  ["Cell density", (f) => f.cell_density && f.cell_density.replace(/ x 10\^(\d+)/g, (_, n) => " × 10" + [...n].map((d) => "⁰¹²³⁴⁵⁶⁷⁸⁹"[d]).join(""))],
   ["Printer", (f) => [f.printer, f.print_method !== "not reported" ? f.print_method : null].filter(Boolean).join(", ")],
   ["Nozzle", (f) => f.nozzle],
   ["Pressure", (f) => (f.pressure_kpa === null ? null : `${fmt(f.pressure_kpa)} kPa`)],
@@ -188,8 +188,8 @@ function openDetail(f) {
       <button class="close" data-close aria-label="Close">×</button>
     </div>
     <div class="d-body">
-      ${f.review_notes ? `<p class="note">${esc(f.review_notes)}</p>` : ""}
       <dl class="kv">${FIELDS.filter(([, g]) => g(f)).map(([k, g]) => `<dt>${k}</dt><dd>${esc(g(f))}</dd>`).join("")}</dl>
+      ${f.review_notes ? `<p class="note"><b>Notes:</b> ${esc(f.review_notes)}</p>` : ""}
       <h4>From the paper</h4>
       ${f.evidence.map((e) => `<p class="quote">“${esc(e.quote)}”${e.verified ? "" : ' <span class="muted">(not found in text)</span>'}</p>`).join("")}
     </div>`;

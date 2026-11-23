@@ -27,7 +27,7 @@ writeAll({
       composition_detail: "GelMA and GMHA blends tuned to 7 kPa (tumour) and 0.45 kPa (brain)", crosslinking: "photocrosslinking (DLP)",
       cell_type: "glioblastoma stem cells + endothelial cells", cell_source: "human primary/fetal", print_method: "light-based (DLP/SLA)",
       stiffness_kpa: 7, stiffness_note: "tumour core designed to match GBM tissue; brain region 0.45 kPa",
-      key_outcome: "Stiff tumour regions and soft brain regions in one print reproduced GBM's biophysical heterogeneity.",
+      key_outcome: "Stiff tumour regions and soft brain regions in one print reproduced glioblastoma's physical heterogeneity.",
       application: "disease model", disease: "glioblastoma",
       evidence: [
         { field: "stiffness_kpa", quote: "Matrix stiffness of the tumor core and the endothelial regions was designed to mimic that of GBM patient tissues (7 kPa) and normal brain tissues (0.45 kPa)." },
@@ -44,7 +44,7 @@ writeAll({
       composition_detail: "1% (w/v) fibrinogen, 6% (w/v) gelatin, 3% transglutaminase, 0.5 U/mL thrombin", crosslinking: "thrombin + transglutaminase",
       cell_type: "patient-derived glioblastoma cells + astrocytes + microglia", cell_source: "human primary/fetal", cell_density: "1 x 10^6 cells/mL (tumour, astrocytes)",
       print_method: "extrusion (pneumatic)", stiffness_kpa: 24.5, stiffness_note: "Young's modulus, compression, at 6% gelatin",
-      key_outcome: "A perfusable printed GBM model with stromal cells mimicked tumour growth and drug response.",
+      key_outcome: "A perfusable printed glioblastoma model with stromal cells mimicked tumour growth and drug response.",
       application: "drug screening", disease: "glioblastoma",
       evidence: [
         { field: "stiffness_kpa", quote: "Young’s modulus of 24.5 ± 2.6 kPa was achieved when the final gelatin concentration was 6% (w/v)" },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:38:23.562Z",
+  "generated_at": "2026-11-23T21:21:05.335Z",
   "n_papers": 43,
   "n_formulations": 48,
   "papers": [
@@ -961,7 +961,7 @@
       "disease": "Alzheimer's disease",
       "review_notes": "Pressure converted from 90 mbar (bioink channel); crosslinker 100 mbar, buffer 500 mbar.",
       "confidence": "high",
-      "name": "Fibrin bioink (AD, no microspheres)",
+      "name": "Fibrin bioink (Alzheimer's, no microspheres)",
       "base_materials": [
         "fibrinogen",
         "alginate",
@@ -972,7 +972,7 @@
       "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
       "cell_source": "human iPSC-derived",
       "print_method": "microfluidic printhead",
-      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for AD constructs without microspheres.",
+      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for Alzheimer's constructs without microspheres.",
       "application": "disease model",
       "evidence": [
         {
@@ -1028,7 +1028,7 @@
       "disease": "Alzheimer's disease",
       "review_notes": "Pressure converted from 90 mbar. The large day-30 drop vs. the no-microsphere group is worth discussing with the authors.",
       "confidence": "high",
-      "name": "Fibrin bioink + purmorphamine PCL microspheres (AD)",
+      "name": "Fibrin bioink + purmorphamine PCL microspheres (Alzheimer's)",
       "base_materials": [
         "fibrinogen",
         "alginate",
@@ -1103,7 +1103,7 @@
       "cell_type": "glioma stem cells (GSC23)",
       "cell_source": "cell line",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "Printed GSCs were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
+      "key_outcome": "Printed glioma stem cells were 86.7% viable on day 1 and 85.3% on day 7, steadier than a cast hybrid hydrogel (65% by day 7).",
       "application": "disease model",
       "evidence": [
         {
@@ -1272,17 +1272,17 @@
       "disease": "glioblastoma",
       "review_notes": null,
       "confidence": "high",
-      "name": "Fibrinogen + 6% gelatin (neurovascular ring + GBM dot)",
+      "name": "Fibrinogen + 6% gelatin (neurovascular ring + glioblastoma core)",
       "base_materials": [
         "fibrinogen",
         "gelatin"
       ],
       "material_class": "natural",
       "composition_detail": "2.5-5 mg/mL fibrinogen with 6% gelatin and aprotinin; tumour dot in 6% gelatin (bioink C)",
-      "cell_type": "astrocytes, pericytes, brain endothelial cells + JHH-520 GBM cells",
+      "cell_type": "astrocytes, pericytes, brain endothelial cells + patient glioblastoma cells (JHH-520)",
       "cell_source": "human primary/fetal",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "The printed neurovascular unit let patient GBM cells grow in a brain-like microenvironment for tumour studies.",
+      "key_outcome": "The printed neurovascular unit let patient glioblastoma cells grow in a brain-like microenvironment for tumour studies.",
       "application": "disease model",
       "evidence": [
         {
@@ -1568,7 +1568,7 @@
       "cell_type": "U87 glioblastoma cells, astrocytes, brain endothelial cells",
       "cell_source": "cell line",
       "print_method": "light-based (DLP/SLA)",
-      "key_outcome": "All cell types stayed above 80% viable; the model showed GBM heterogeneity and drug resistance.",
+      "key_outcome": "All cell types stayed above 80% viable; the model showed glioblastoma heterogeneity and drug resistance.",
       "application": "drug screening",
       "evidence": [
         {
@@ -2214,7 +2214,7 @@
       "cell_type": "neural progenitor cells",
       "cell_source": "human iPSC-derived",
       "print_method": "extrusion (mechanical/piston)",
-      "key_outcome": "Printed hNPCs self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
+      "key_outcome": "Printed human neural progenitors self-organized into neurogenic-niche-like clusters and stayed viable for more than 110 days.",
       "application": "basic neurobiology",
       "evidence": [
         {
@@ -2327,7 +2327,7 @@
       "cell_type": "optic nerve head astrocytes",
       "cell_source": "rodent primary",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "Developing ONH astrocytes increased RGC neurite polarization by 43%.",
+      "key_outcome": "Astrocytes from the developing optic nerve head increased retinal ganglion cell neurite alignment by 43%.",
       "application": "basic neurobiology",
       "evidence": [
         {
@@ -2440,7 +2440,7 @@
       "cell_type": "neural stem cells",
       "cell_source": "other",
       "print_method": "other",
-      "key_outcome": "Gel-encapsulated deposition placed hNSCs precisely on fibre substrates at low cost.",
+      "key_outcome": "Gel-encapsulated deposition placed human neural stem cells precisely on fibre substrates at low cost.",
       "application": "method/protocol",
       "evidence": [
         {
@@ -3013,7 +3013,7 @@
       "disease": "glioblastoma",
       "review_notes": "Print method inferred from the 'rapid 3D bioprinting' light-based system used by this group; confirm.",
       "confidence": "medium",
-      "name": "4% GelMA + 0.25% GMHA (GBM core)",
+      "name": "4% GelMA + 0.25% GMHA (glioblastoma core)",
       "base_materials": [
         "GelMA",
         "methacrylated hyaluronic acid"
@@ -3023,7 +3023,7 @@
       "cell_type": "glioblastoma stem cells, macrophages, astrocytes, neural progenitors",
       "cell_source": "human primary/fetal",
       "print_method": "light-based (DLP/SLA)",
-      "key_outcome": "Printed GBM tissues reproduced tumour-macrophage dependencies and immune interactions.",
+      "key_outcome": "Printed glioblastoma tissues reproduced tumour-macrophage dependencies and immune interactions.",
       "application": "disease model",
       "evidence": [
         {
@@ -3128,7 +3128,7 @@
       "cell_type": "glioblastoma stem cells + endothelial cells",
       "cell_source": "human primary/fetal",
       "print_method": "light-based (DLP/SLA)",
-      "key_outcome": "Stiff tumour regions and soft brain regions in one print reproduced GBM's biophysical heterogeneity.",
+      "key_outcome": "Stiff tumour regions and soft brain regions in one print reproduced glioblastoma's physical heterogeneity.",
       "application": "disease model",
       "evidence": [
         {
@@ -3182,7 +3182,7 @@
       "cell_type": "patient-derived glioblastoma cells + astrocytes + microglia",
       "cell_source": "human primary/fetal",
       "print_method": "extrusion (pneumatic)",
-      "key_outcome": "A perfusable printed GBM model with stromal cells mimicked tumour growth and drug response.",
+      "key_outcome": "A perfusable printed glioblastoma model with stromal cells mimicked tumour growth and drug response.",
       "application": "drug screening",
       "evidence": [
         {
@@ -3691,7 +3691,7 @@
       "cell_type": "neural progenitor cells",
       "cell_source": "human iPSC-derived",
       "print_method": "extrusion (mechanical/piston)",
-      "key_outcome": "4% GelMA was chosen for keeping cells viable with good printability; printed hNPCs became immature neurons.",
+      "key_outcome": "4% GelMA was chosen for keeping cells viable with good printability; printed human neural progenitors became immature neurons.",
       "application": "regeneration/implant",
       "evidence": [
         {

@@ -27,7 +27,7 @@ web/data/bioinks.json  ──►  web/ (filters, charts, evidence view, compare)
 
 - **Units are normalized:** mbar and psi to kPa, mm/min to mm/s. Each conversion is noted on the record.
 - **No guessing:** values that appear only in figures are left blank, with a note.
-- **Self-checking:** the verifier caught a missing citation in the seed data during the build. It also flags a real unit swap in one paper's methods (PMC12080301: "pressure ... 11 mm s−1 and the speed to 15 kPa").
+- **Self-checking:** the verifier caught a missing citation in the seed data during the build, and it flags values with ambiguous units for a person to confirm.
 
 ## Run it
 
@@ -50,7 +50,7 @@ npm run build
 npm run serve                              # http://localhost:5173
 ```
 
-The extractor uses `claude-opus-5-5` with structured outputs, so the API guarantees the response matches the schema. Server-side refusal fallback is turned on. A typical paper costs a few cents.
+The extractor uses `claude-opus-5-5` with structured outputs, so the API guarantees the response matches the schema. A typical paper costs a few cents.
 
 To review a flagged record, open `data/extractions/<PMCID>.json`, fix the values, set `"reviewed": true` on the formulation, and run `npm run build` again.
 

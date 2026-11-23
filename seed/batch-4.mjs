@@ -6,11 +6,11 @@ writeAll({
     paper_type: "primary research", is_neural_bioprinting: true,
     summary: "A neurovascular unit of primary human astrocytes, pericytes and brain endothelial cells was printed as a ring, with patient-derived glioblastoma cells printed at its centre, to follow tumour growth in a brain-like setting.",
     formulations: [F({
-      name: "Fibrinogen + 6% gelatin (neurovascular ring + GBM dot)", base_materials: ["fibrinogen", "gelatin"], material_class: "natural",
+      name: "Fibrinogen + 6% gelatin (neurovascular ring + glioblastoma core)", base_materials: ["fibrinogen", "gelatin"], material_class: "natural",
       composition_detail: "2.5-5 mg/mL fibrinogen with 6% gelatin and aprotinin; tumour dot in 6% gelatin (bioink C)", crosslinking: "thrombin",
-      additives: ["aprotinin"], cell_type: "astrocytes, pericytes, brain endothelial cells + JHH-520 GBM cells", cell_source: "human primary/fetal",
+      additives: ["aprotinin"], cell_type: "astrocytes, pericytes, brain endothelial cells + patient glioblastoma cells (JHH-520)", cell_source: "human primary/fetal",
       cell_density: "3 x 10^6 cells/mL (GBM)", printer: "RegenHU", print_method: "extrusion (pneumatic)", nozzle: "21 G ring / 26 G tumour dot",
-      key_outcome: "The printed neurovascular unit let patient GBM cells grow in a brain-like microenvironment for tumour studies.",
+      key_outcome: "The printed neurovascular unit let patient glioblastoma cells grow in a brain-like microenvironment for tumour studies.",
       application: "disease model", disease: "glioblastoma",
       evidence: [
         { field: "composition", quote: "These three types (A: 5 mg ml−1 fibrinogen with 6% gelatin and aprotinin." },
@@ -77,11 +77,11 @@ writeAll({
     paper_type: "primary research", is_neural_bioprinting: true,
     summary: "Rapid light-based printing built glioblastoma tissue with tumour cells, macrophages, astrocytes and neural stem cells in GelMA/hyaluronic acid. The model captured how macrophages support tumour growth and drug resistance.",
     formulations: [F({
-      name: "4% GelMA + 0.25% GMHA (GBM core)", base_materials: ["GelMA", "methacrylated hyaluronic acid"], material_class: "natural",
+      name: "4% GelMA + 0.25% GMHA (glioblastoma core)", base_materials: ["GelMA", "methacrylated hyaluronic acid"], material_class: "natural",
       composition_detail: "4% GelMA + 0.25% GMHA (cell-laden), LAP photoinitiator", crosslinking: "photocrosslinking (DLP)",
       cell_type: "glioblastoma stem cells, macrophages, astrocytes, neural progenitors", cell_source: "human primary/fetal",
       print_method: "light-based (DLP/SLA)", stiffness_kpa: 2.8, stiffness_note: "tumour core; brain-like periphery 0.9 kPa",
-      key_outcome: "Printed GBM tissues reproduced tumour-macrophage dependencies and immune interactions.",
+      key_outcome: "Printed glioblastoma tissues reproduced tumour-macrophage dependencies and immune interactions.",
       application: "disease model", disease: "glioblastoma", confidence: "medium",
       review_notes: "Print method inferred from the 'rapid 3D bioprinting' light-based system used by this group; confirm.",
       evidence: [

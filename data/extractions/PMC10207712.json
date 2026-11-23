@@ -13,7 +13,7 @@
     ],
     "doi": "10.1186/s42234-023-00112-7"
   },
-  "extracted_at": "2026-11-22T00:21:59.212Z",
+  "extracted_at": "2026-11-23T21:17:28.346Z",
   "extracted_by": "seed: Claude (Claude Code session), pending human review",
   "paper_type": "primary research",
   "is_neural_bioprinting": true,
@@ -37,7 +37,7 @@
       "disease": "Alzheimer's disease",
       "review_notes": "Pressure converted from 90 mbar (bioink channel); crosslinker 100 mbar, buffer 500 mbar.",
       "confidence": "high",
-      "name": "Fibrin bioink (AD, no microspheres)",
+      "name": "Fibrin bioink (Alzheimer's, no microspheres)",
       "base_materials": [
         "fibrinogen",
         "alginate",
@@ -48,7 +48,7 @@
       "cell_type": "neural progenitor cells (basal forebrain cholinergic neuron differentiation)",
       "cell_source": "human iPSC-derived",
       "print_method": "microfluidic printhead",
-      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for AD constructs without microspheres.",
+      "key_outcome": "Viability 83.8% on day 1 and 78.8% on day 30 for Alzheimer's constructs without microspheres.",
       "application": "disease model",
       "evidence": [
         {
@@ -96,7 +96,7 @@
       "disease": "Alzheimer's disease",
       "review_notes": "Pressure converted from 90 mbar. The large day-30 drop vs. the no-microsphere group is worth discussing with the authors.",
       "confidence": "high",
-      "name": "Fibrin bioink + purmorphamine PCL microspheres (AD)",
+      "name": "Fibrin bioink + purmorphamine PCL microspheres (Alzheimer's)",
       "base_materials": [
         "fibrinogen",
         "alginate",
